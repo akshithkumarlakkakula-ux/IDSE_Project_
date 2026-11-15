@@ -1,49 +1,47 @@
 # Interactive Data Science Learning Experience | IDSE Project
 
-An educational project that brings Data Science to life through two different experiences: a machine learning pipeline that predicts house prices and an interactive 2D fantasy game that teaches classification through gameplay.
+An educational project combining practical machine learning with interactive game-based learning. This repository explores two important areas of Data Science through a house price prediction pipeline and a fantasy-based classification game.
 
-Instead of approaching Data Science only through theory, this project explores how machine learning concepts can be implemented, visualized and experienced interactively.
+The idea is simple: learn Data Science not just by studying algorithms, but also by building models and experiencing how they work.
 
 ---
 
-## Project Overview
+# Project Overview
 
-This repository consists of two independent parts, each exploring a different area of Data Science.
+This project consists of two independent components:
 
 | | Part A | Part B |
 |---|---|---|
 | Project | House Price Prediction | Elemental: The Last Classifier |
-| Domain | Machine Learning | Interactive Learning Game |
-| ML Concept | Regression | Classification |
-| Objective | Predict residential property prices | Learn classification through gameplay |
+| Domain | Machine Learning | Interactive 2D Game |
+| Core Concept | Regression | Classification |
+| Objective | Estimate residential property prices | Understand classification through gameplay |
 | Technologies | Python, Pandas, Scikit-learn | HTML, CSS, JavaScript |
 
 ---
 
 # Part A – House Price Prediction
 
-### Overview
+## Overview
 
-The first part focuses on developing a machine learning model to estimate residential property prices based on different housing characteristics.
+A machine learning project that explores how different residential property characteristics influence house prices.
 
-The project explores how factors such as location, property area, number of bedrooms, bathrooms, property age, furnishing status and accessibility influence house prices.
+The objective is to develop a regression model capable of estimating property prices using features such as location, built-up area, number of bedrooms, bathrooms, property age, furnishing status and other housing attributes.
 
-The objective is to build and evaluate regression models that can estimate the price of a property based on its features.
-
-### Data Science Pipeline
+## Data Science Pipeline
 
 The project follows an end-to-end machine learning workflow:
 
 1. **Data Collection:** Loading and understanding the housing dataset.
-2. **Data Cleaning:** Identifying missing values, handling duplicates and correcting inconsistencies.
+2. **Data Cleaning:** Handling missing values, identifying duplicates and preparing the dataset.
 3. **Exploratory Data Analysis:** Studying distributions, correlations and relationships between housing attributes and prices.
-4. **Data Preprocessing:** Handling numerical and categorical features.
+4. **Data Preprocessing:** Handling numerical and categorical variables.
 5. **Feature Engineering:** Preparing relevant features for model development.
 6. **Model Building:** Training and comparing multiple regression algorithms.
 7. **Model Evaluation:** Evaluating predictions using MAE, RMSE and R².
-8. **Prediction Application:** Providing an interactive interface for estimating house prices.
+8. **Prediction Application:** Building an interactive interface for estimating house prices.
 
-### Technologies Used
+## Technologies Used
 
 - Python
 - Pandas and NumPy
@@ -54,44 +52,46 @@ The project follows an end-to-end machine learning workflow:
 
 ### Explore Part A
 
-[**View House Price Prediction – Source Code, Dataset, Notebooks and Results →**](./House_Price_Prediction/)
+[View House Price Prediction – Source Code, Dataset, Notebooks and Results](./House_Price_Prediction/)
 
 ---
 
 # Part B – Elemental: The Last Classifier
 
-### Overview
+## Overview
 
-**Four elements. One broken world.**
+**Four elements. One broken world. The power to classify.**
 
 Elemental: The Last Classifier is an interactive 2D fantasy adventure designed to introduce the fundamentals of classification in Data Science through exploration, challenges and gameplay.
 
-The player enters a world divided into four elemental classes: Fire, Water, Ice and Earth. By exploring different realms, inspecting mysterious creatures and studying their characteristics, players learn how a machine learning classifier identifies and categorizes unknown data.
+The player enters a fantasy world divided into four elemental classes: Fire, Water, Ice and Earth. By exploring different realms, studying mysterious creatures and understanding their characteristics, players discover how a machine learning classifier identifies and categorizes unknown data.
 
-The game combines a fantasy storyline with an implementation of the K-Nearest Neighbours (KNN) algorithm in JavaScript.
+Instead of simply reading about classification, players learn through interaction, experimentation and decision-making.
 
-### How the Game Works
+## The Four Guardians
 
-Players begin by choosing one of four elemental guardians:
+The game features four playable elemental guardians:
 
 - **Kael – Fire:** The Ember Vanguard.
 - **Mira – Water:** The Tide Weaver.
 - **Eira – Ice:** The Frost Sentinel.
 - **Thorne – Earth:** The Root Guardian.
 
-Each guardian has a unique elemental ability. Players move through five different realms, complete classification challenges, avoid enemies and unlock rewards.
+Each guardian has a unique elemental ability that can be used throughout the adventure.
 
-### The Five Realms and Their Learning Concepts
+## The Five Realms
 
-| Chapter | Realm | Data Science Concept | Challenge |
-|---|---|---|---|
-| 1 | The Awakening | Features and Labels | Identify creatures using their measured characteristics |
-| 2 | Kingdom of Tides | Training Data and Label Quality | Identify incorrectly labelled training examples |
-| 3 | The Frozen Expanse | Train-Test Split and Accuracy | Classify unseen creatures and compare predictions |
-| 4 | The Verdant Realm | Decision Boundaries and K | Experiment with different K values to find the best classification score |
-| 5 | The Corrupted Core | Noisy Data and Classification | Defeat the final boss by correctly classifying disguised creatures |
+The adventure is divided into five chapters, each introducing a different classification concept.
 
-### Understanding the Classification Model
+| Chapter | Realm | Learning Concept |
+|---|---|---|
+| 1 | The Awakening | Features and Labels |
+| 2 | Kingdom of Tides | Training Data and Label Quality |
+| 3 | The Frozen Expanse | Train-Test Split and Accuracy |
+| 4 | The Verdant Realm | Decision Boundaries and K |
+| 5 | The Corrupted Core | Noisy Data and Classification |
+
+## Understanding the Machine Learning Behind the Game
 
 The game implements the **K-Nearest Neighbours (KNN)** algorithm directly in JavaScript.
 
@@ -102,86 +102,84 @@ Each creature is represented using four numerical features:
 - Density
 - Energy
 
-Every feature is assigned a value between 0 and 100.
+Each feature is assigned a value between 0 and 100.
 
-The classifier uses Euclidean distance to measure the similarity between an unknown creature and labelled training examples.
+The classifier uses Euclidean distance to calculate the similarity between an unknown creature and labelled training examples.
 
-It then selects the K nearest neighbours and uses majority voting to determine the predicted element. If votes are tied, the nearest neighbour helps decide the result.
+It then identifies the K nearest neighbours and uses majority voting to predict the creature's elemental class. In case of a tie, the nearest neighbour helps determine the result.
 
-The game contains 20 labelled creatures, divided into:
+The game includes 20 labelled creatures:
+
 - 16 training samples.
 - 4 unseen test samples.
 
-This allows players to explore how a classification model learns from labelled examples and evaluates its predictions on unseen data.
+Through this system, players explore how a classification model learns from labelled examples and predicts categories for previously unseen data.
 
-### Additional Game Features
+## Key Game Features
 
 **1. Interactive 2D Gameplay**
-
-- Side-scrolling environments.
+- Side-scrolling game environments.
 - Keyboard-based character movement.
 - Interactive objects, creatures and challenges.
-- Mobile-friendly movement and interaction buttons.
+- On-screen controls for touch devices.
 
-**2. Elemental Powers**
-
-Each guardian has a unique ability:
-
+**2. Elemental Abilities**
 - Fireball – attacks enemies.
-- Water Shield – protects the player.
+- Water Shield – provides protection.
 - Freeze – temporarily freezes enemies.
 - Stone Barrier – creates a defensive wall.
 
-**3. Classifier Lab**
+**3. Interactive Classifier Lab**
 
-An interactive environment where players can:
-- View a visual representation of classification regions.
-- Adjust the value of K.
-- Change the feature axes.
-- Modify the characteristics of an unknown creature.
-- Observe the predicted class.
-- Compare predictions against unseen test samples.
+Players can experiment with the classification model by:
+- Visualizing classification regions.
+- Adjusting the value of K.
+- Changing feature axes.
+- Modifying the characteristics of an unknown creature.
+- Observing predicted elemental classes.
+- Testing predictions against unseen samples.
 
 **4. Ancient Codex**
 
-An in-game knowledge book that introduces the guardians, elemental powers and classification concepts.
+An in-game knowledge book introducing elemental guardians, abilities and classification concepts.
 
 **5. Player Progression**
-
-- Multiple player profiles on the same device.
+- Multiple player profiles.
 - XP and collectible relics.
-- Unlockable powers.
-- Chapter progression and saved progress.
-- Retry and reset options.
+- Unlockable abilities.
+- Chapter progression.
+- Saved game progress.
 
-### Game Controls
+## Game Controls
 
 | Key | Action |
 |---|---|
-| ← / → or A / D | Move the character |
-| E | Interact with objects and creatures |
-| Space | Use the active elemental power |
-| 1–4 or Q | Switch between unlocked powers |
+| Left / Right or A / D | Move character |
+| E | Interact |
+| Space | Use elemental ability |
+| 1–4 or Q | Switch unlocked abilities |
 
-Touch-screen users can use the on-screen controls below the game arena.
+Touch-screen players can use the on-screen controls.
 
-### Technologies Used
+## Technologies Used
 
-- HTML5 – Game structure and interface.
-- CSS3 – Visual design, animations and responsive layouts.
-- JavaScript – Game mechanics, character movement, interactions and KNN implementation.
-- HTML Canvas – Rendering the 2D game environment and classifier visualizations.
-- LocalStorage – Saving player profiles and game progress.
+- **HTML5:** Game structure and interface.
+- **CSS3:** Visual design, animations and responsive layouts.
+- **JavaScript:** Game mechanics, character movement, interactions and KNN implementation.
+- **HTML Canvas:** Rendering the 2D environment and classifier visualizations.
+- **LocalStorage:** Saving player profiles and game progress.
 
-The game does not require an external machine learning API or backend server. The classification logic runs directly in the browser.
+The game runs directly in the browser without requiring an external machine learning API or backend server.
 
-### Play the Game
+## Play the Game
 
-< [▶ PLAY ELEMENTAL: THE LAST CLASSIFIER](https://akshithkumarlakkakula-ux.github.io/IDSE_Project/) >
+### Elemental: The Last Classifier
 
-[**View Part B – Game Source Code and Assets →**](./Elemental_The_Classifier_Game/)
+[**PLAY THE GAME →**](https://akshithkumarlakkakula-ux.github.io/IDSE_Project/)
 
-*The online game link becomes active after GitHub Pages deployment.*
+Experience the five realms, choose your elemental guardian and explore the world of classification.
+
+[View Game Source Code and Assets](./Elemental_The_Classifier_Game/)
 
 ---
 
@@ -216,12 +214,17 @@ IDSE_Project/
 
 # Running the Projects
 
-### Part A – House Price Prediction
+## Part A – House Price Prediction
 
-Navigate to the project directory and install the required dependencies:
+Navigate to the project directory:
 
 ```bash
 cd House_Price_Prediction
+```
+
+Install the dependencies:
+
+```bash
 pip install -r requirements.txt
 ```
 
@@ -231,30 +234,28 @@ Launch the interactive application:
 streamlit run app.py
 ```
 
-### Part B – Elemental: The Last Classifier
+## Part B – Elemental: The Last Classifier
 
-1. Navigate to the `Elemental_The_Classifier_Game` folder.
+1. Navigate to the `Elemental_The_Classifier_Game` directory.
 2. Open `index.html` in a modern web browser.
-3. Choose your guardian and enter the first realm.
+3. Choose your guardian and begin the adventure.
 
-No additional installation or API configuration is required. Keep the `assets` folder alongside the HTML, CSS and JavaScript files.
+Keep the assets folder alongside the HTML, CSS and JavaScript files.
 
-The game can also be hosted online using GitHub Pages.
+The game is also hosted online using GitHub Pages.
 
 ---
 
 # Project Objective
 
-The central idea behind this project is to explore Data Science beyond conventional implementations.
+The central objective of this project is to explore Data Science through both implementation and interaction.
 
-Part A demonstrates how machine learning can be applied to a practical prediction problem using structured data and regression techniques.
+Part A demonstrates the application of machine learning techniques to a practical prediction problem using structured data and regression algorithms.
 
-Part B takes a different approach by turning classification concepts into an interactive experience where players learn through exploration, experimentation and decision-making.
+Part B takes a creative approach by transforming classification concepts into an interactive learning experience where players understand algorithms through exploration and experimentation.
 
-Together, both projects demonstrate the practical and creative applications of Data Science.
+Together, these two components demonstrate the practical and creative possibilities of Data Science.
 
 ---
 
 **Academic Project | Introduction to Data Science and Engineering (IDSE)**
-
-Developed by Akshith Kumar.
