@@ -171,11 +171,11 @@ Touch-screen players can use the on-screen controls.
 
 The game runs directly in the browser without requiring an external machine learning API or backend server.
 
-## Play the Game
+
 
 ### Elemental: The Last Classifier
 
-[**PLAY THE GAME →**](https://akshithkumarlakkakula-ux.github.io/IDSE_Project/)
+
 
 Experience the five realms, choose your elemental guardian and explore the world of classification.
 
