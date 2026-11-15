@@ -80,9 +80,4 @@ elemental-last-classifier/
 
 Progress is stored in your browser's `localStorage` (no server, no account). Use the **👤 button in the top bar** to add players, switch players, reset one player's progress or delete a player. Clearing your browser data also clears saves.
 
-## Credits
 
-Game design, code and project by **Akshith Kumar**. Contact: [akshithkumarlakkakula@gmail.com](mailto:akshithkumarlakkakula@gmail.com).
-Artwork was supplied by the author and is used for this educational project. Replace it with your own images in `assets/` if you plan to redistribute.
-
-Released under the MIT License (code).
