@@ -4,7 +4,7 @@
 
 A 2D fantasy adventure that teaches **classification in data science**. You play an elemental guardian who walks through five realms, studies strange creatures by their measurements, and teaches the ancient Classifier to tell **Fire, Water, Ice and Earth** apart. Under the story, the game runs a real **K-Nearest Neighbours (KNN)** model written from scratch in JavaScript.
 
-> Built by **Akshith Kumar** as a classification project (IDEASC). Contact: akshithkumarlakkakula@gmail.com
+
 
 ## Play
 
