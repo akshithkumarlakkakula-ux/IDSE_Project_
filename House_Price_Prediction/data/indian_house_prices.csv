@@ -1,0 +1,1813 @@
+city,locality_type,area_sqft,bedrooms,bathrooms,property_age,parking_spaces,floor_number,furnishing_status,property_type,distance_to_city_km,main_road_access,price_lakhs
+Pune,IT Corridor,1682.0,4,4,30,1.0,4,Semi-furnished,Independent House,11.1,Yes,54.12
+Bengaluru,Residential,1419.0,4,4,32,1.0,11,Semi-furnished,Apartment,,No,49.93
+Coimbatore,Suburban,1457.0,2,2,5,1.0,12,Semi-furnished,Apartment,6.4,Yes,50.43
+Pune,Residential,1792.0,4,5,18,1.0,15,Unfurnished,Independent House,7.0,Yes,57.73
+Hyderabad,Residential,1072.0,3,3,26,1.0,6,Unfurnished,Apartment,2.8,Yes,44.81
+Visakhapatnam,Residential,1471.0,2,2,22,3.0,5,Unfurnished,Apartment,3.3,Yes,47.46
+Pune,Central,1288.0,2,1,27,1.0,5,Semi-furnished,Apartment,0.6,Yes,53.82
+Pune,IT Corridor,625.0,1,1,7,1.0,12,Unfurnished,Apartment,0.6,Yes,44.21
+Hyderabad,IT Corridor,971.0,2,2,16,1.0,7,Semi-furnished,Apartment,9.7,Yes,25.82
+Bengaluru,Central,2265.0,6,5,16,2.0,1,Semi-furnished,Apartment,7.2,Yes,70.81
+Chennai,Suburban,1650.0,5,5,33,2.0,15,,Apartment,11.1,Yes,38.91
+Visakhapatnam,IT Corridor,762.0,1,1,7,2.0,2,Semi-furnished,Apartment,7.9,Yes,34.72
+Pune,Residential,649.0,2,2,11,1.0,14,Semi-furnished,Apartment,,Yes,37.04
+Coimbatore,Suburban,1392.0,3,3,0,1.0,3,Semi-furnished,Villa,5.9,Yes,70.98
+Bengaluru,Residential,2262.0,5,5,5,2.0,9,Unfurnished,Apartment,2.9,Yes,60.36
+Hyderabad,IT Corridor,1353.0,3,3,35,1.0,5,Semi-furnished,Apartment,5.0,Yes,45.42
+Bengaluru,Residential,2130.0,5,4,30,3.0,11,Fully-furnished,Villa,4.2,Yes,81.89
+Hyderabad,IT Corridor,1633.0,5,5,9,1.0,7,Semi-furnished,Apartment,5.5,Yes,52.18
+Coimbatore,IT Corridor,1695.0,4,5,25,1.0,6,Fully-furnished,Apartment,3.2,Yes,42.09
+Bengaluru,IT Corridor,755.0,1,1,21,1.0,8,,Independent House,8.8,Yes,29.19
+Pune,Outskirts,1938.0,5,5,32,1.0,15,Semi-furnished,Independent House,1.9,Yes,51.1
+Chennai,IT Corridor,1276.0,3,3,10,2.0,4,Semi-furnished,Apartment,2.1,Yes,51.32
+Visakhapatnam,IT Corridor,1899.0,4,5,35,1.0,4,Semi-furnished,Apartment,2.1,Yes,38.9
+Coimbatore,IT Corridor,1027.0,3,3,13,1.0,1,Unfurnished,Villa,7.6,Yes,39.02
+Pune,Residential,1542.0,3,2,25,2.0,12,Unfurnished,Apartment,8.9,Yes,36.3
+Hyderabad,Central,1633.0,4,3,14,2.0,11,,Independent House,3.2,Yes,64.51
+Bengaluru,IT Corridor,1370.0,3,4,24,2.0,10,Semi-furnished,Apartment,4.0,Yes,44.78
+Hyderabad,IT Corridor,1660.0,2,2,12,3.0,1,Unfurnished,Apartment,8.7,Yes,37.19
+Hyderabad,Outskirts,1311.0,3,3,30,2.0,12,Semi-furnished,Independent House,11.5,Yes,28.12
+Pune,IT Corridor,1112.0,2,1,22,1.0,13,Semi-furnished,Villa,4.4,Yes,59.23
+Pune,IT Corridor,2285.0,4,3,10,2.0,15,Semi-furnished,Apartment,1.1,Yes,61.45
+Visakhapatnam,Outskirts,1995.0,5,5,34,3.0,14,Unfurnished,Apartment,2.2,Yes,24.21
+Chennai,IT Corridor,1054.0,3,3,25,1.0,4,Semi-furnished,Independent House,8.0,Yes,44.47
+Chennai,Suburban,1746.0,4,4,15,2.0,11,Unfurnished,Apartment,8.2,No,44.66
+Bengaluru,Suburban,1064.0,2,2,4,1.0,7,Unfurnished,Independent House,6.8,Yes,43.37
+Hyderabad,Central,834.0,2,2,35,2.0,9,Unfurnished,Apartment,2.4,Yes,33.91
+Hyderabad,Central,1988.0,5,4,27,0.0,5,Unfurnished,Apartment,8.2,Yes,45.18
+Bengaluru,IT Corridor,564.0,1,1,24,2.0,10,Unfurnished,Independent House,2.6,Yes,31.9
+Hyderabad,Residential,1932.0,4,4,29,1.0,15,Semi-furnished,Villa,5.2,Yes,55.7
+Pune,Residential,1319.0,3,3,21,1.0,10,Semi-furnished,Apartment,4.2,Yes,26.33
+Bengaluru,Central,1340.0,2,2,8,0.0,14,Unfurnished,Independent House,3.2,Yes,65.11
+Coimbatore,IT Corridor,1663.0,3,3,8,2.0,14,Fully-furnished,Apartment,6.6,Yes,55.48
+Pune,Suburban,1752.0,3,3,2,1.0,2,Semi-furnished,Apartment,7.5,No,42.14
+Chennai,Outskirts,1020.0,2,1,2,2.0,15,Fully-furnished,Apartment,2.3,Yes,39.53
+Coimbatore,Suburban,1823.0,3,4,26,1.0,13,Semi-furnished,Independent House,4.4,Yes,45.18
+Coimbatore,Residential,1509.0,3,4,30,1.0,7,Unfurnished,Apartment,7.2,Yes,22.3
+Chennai,Suburban,797.0,3,2,5,1.0,10,Fully-furnished,Apartment,0.3,Yes,41.92
+Chennai,Residential,1362.0,3,4,20,,10,Fully-furnished,Independent House,5.7,No,47.56
+Pune,IT Corridor,2168.0,5,4,4,1.0,12,Semi-furnished,Apartment,7.3,Yes,82.13
+Hyderabad,Residential,2322.0,6,5,14,2.0,13,Semi-furnished,Apartment,5.8,Yes,70.05
+Hyderabad,Suburban,1823.0,3,3,28,0.0,2,Semi-furnished,Apartment,6.0,Yes,36.89
+Hyderabad,Outskirts,831.0,3,3,29,2.0,1,Semi-furnished,Independent House,4.0,Yes,43.43
+Pune,IT Corridor,1705.0,4,4,34,1.0,4,Semi-furnished,Apartment,7.0,No,49.48
+Pune,Residential,1892.0,5,4,11,1.0,8,Semi-furnished,Independent House,1.5,Yes,53.64
+Pune,Residential,1827.0,4,4,34,1.0,13,Unfurnished,Apartment,2.2,Yes,38.4
+Pune,Outskirts,1858.0,4,3,28,0.0,10,Unfurnished,Apartment,6.0,Yes,26.5
+Bengaluru,Suburban,1639.0,3,3,12,1.0,3,Unfurnished,Independent House,7.0,No,50.23
+Bengaluru,Suburban,1412.0,3,3,11,1.0,11,Unfurnished,Apartment,9.2,Yes,35.6
+Hyderabad,Suburban,1134.0,3,4,3,1.0,8,Unfurnished,Apartment,11.7,No,29.81
+Hyderabad,Suburban,463.0,2,3,33,3.0,6,Fully-furnished,Apartment,2.4,Yes,27.78
+Pune,IT Corridor,1627.0,3,4,7,1.0,12,Unfurnished,Apartment,1.8,Yes,61.35
+Bengaluru,Outskirts,1547.0,3,3,9,2.0,5,Unfurnished,Apartment,7.9,Yes,24.08
+Bengaluru,Outskirts,1740.0,3,3,14,1.0,10,,Villa,3.1,Yes,52.51
+Pune,IT Corridor,754.0,2,2,4,0.0,3,Semi-furnished,Apartment,4.1,Yes,26.99
+Bengaluru,Residential,1785.0,5,4,29,1.0,6,Semi-furnished,Apartment,7.4,Yes,39.43
+Bengaluru,Residential,2518.0,5,5,25,1.0,9,Semi-furnished,Apartment,5.0,No,59.29
+Bengaluru,Outskirts,1491.0,3,3,5,1.0,10,Fully-furnished,Apartment,6.8,No,42.01
+Chennai,Suburban,1418.0,3,3,5,2.0,14,Fully-furnished,Apartment,2.3,Yes,48.38
+Hyderabad,IT Corridor,1611.0,4,3,0,2.0,5,Semi-furnished,Villa,5.4,Yes,86.7
+Bengaluru,Residential,2507.0,6,5,34,1.0,14,Semi-furnished,Apartment,5.3,Yes,69.62
+Hyderabad,Suburban,918.0,1,1,15,1.0,13,Unfurnished,Independent House,9.0,Yes,29.06
+Chennai,IT Corridor,1556.0,3,3,23,1.0,6,Semi-furnished,Apartment,10.4,Yes,41.75
+Coimbatore,Outskirts,1034.0,2,2,5,2.0,3,Unfurnished,Apartment,3.0,Yes,23.02
+Chennai,Outskirts,1166.0,2,2,8,1.0,4,Semi-furnished,Villa,1.9,Yes,54.67
+Hyderabad,Outskirts,1424.0,4,3,19,1.0,10,Unfurnished,Apartment,7.1,Yes,18.75
+Chennai,Residential,2151.0,4,5,7,1.0,12,Unfurnished,Independent House,1.0,Yes,77.88
+Chennai,Suburban,2387.0,4,4,22,1.0,10,Unfurnished,Independent House,7.4,Yes,58.49
+Pune,Suburban,1683.0,3,3,33,2.0,11,Semi-furnished,Villa,7.8,No,37.82
+Bengaluru,IT Corridor,1254.0,3,3,10,0.0,2,Semi-furnished,Apartment,2.8,Yes,44.9
+Pune,IT Corridor,2746.0,6,5,21,1.0,8,Unfurnished,Apartment,0.3,No,65.14
+Pune,IT Corridor,1228.0,3,3,32,2.0,14,Semi-furnished,Apartment,8.4,Yes,34.75
+Chennai,Residential,1153.0,3,3,32,3.0,6,Unfurnished,Villa,10.9,Yes,49.78
+Coimbatore,IT Corridor,527.0,1,2,0,1.0,14,Semi-furnished,Apartment,10.4,Yes,31.28
+Hyderabad,Residential,2176.0,5,5,3,1.0,2,Unfurnished,Apartment,10.6,Yes,65.81
+Hyderabad,Suburban,1953.0,4,3,35,2.0,15,Unfurnished,Apartment,1.4,Yes,40.05
+Hyderabad,Suburban,2707.0,6,5,33,0.0,12,Semi-furnished,Apartment,4.5,No,67.24
+Pune,Central,727.0,1,2,11,1.0,10,Semi-furnished,Apartment,5.3,Yes,43.98
+Bengaluru,Suburban,2208.0,5,5,18,0.0,10,Semi-furnished,Apartment,4.7,Yes,44.94
+Hyderabad,Residential,1486.0,3,2,20,1.0,15,Semi-furnished,Apartment,6.9,Yes,55.3
+Bengaluru,IT Corridor,1869.0,5,4,24,3.0,6,Fully-furnished,Independent House,1.8,Yes,84.84
+Hyderabad,Suburban,593.0,1,1,27,2.0,3,Unfurnished,Apartment,1.0,Yes,25.29
+Pune,Residential,2213.0,5,5,13,3.0,14,Unfurnished,Apartment,0.7,Yes,65.83
+Bengaluru,IT Corridor,1859.0,3,2,32,,2,Fully-furnished,Apartment,8.5,Yes,40.57
+Chennai,Central,1430.0,3,3,2,2.0,10,Unfurnished,Apartment,1.4,Yes,41.07
+Chennai,Suburban,1785.0,4,4,1,2.0,4,Semi-furnished,Apartment,4.7,Yes,52.63
+Bengaluru,Suburban,1052.0,3,3,34,2.0,14,Unfurnished,Apartment,2.7,No,38.13
+Chennai,Residential,1149.0,2,2,6,1.0,15,Semi-furnished,Apartment,2.8,Yes,44.76
+Hyderabad,Suburban,1209.0,3,4,35,1.0,8,Unfurnished,Independent House,3.7,No,46.31
+Hyderabad,Central,487.0,2,2,10,1.0,8,Semi-furnished,Apartment,2.9,Yes,52.59
+Visakhapatnam,Central,1898.0,3,2,13,1.0,7,Semi-furnished,Apartment,1.0,Yes,51.74
+Coimbatore,IT Corridor,2070.0,5,5,1,1.0,7,Unfurnished,Apartment,3.7,Yes,66.59
+Pune,Central,1085.0,3,3,33,1.0,15,Unfurnished,Apartment,2.3,No,45.89
+Chennai,Residential,1631.0,3,3,12,1.0,5,Unfurnished,Apartment,2.2,Yes,42.8
+Visakhapatnam,Suburban,1312.0,2,2,6,1.0,15,Unfurnished,Apartment,12.9,Yes,23.48
+Pune,IT Corridor,1621.0,4,3,17,1.0,10,Unfurnished,Apartment,1.2,Yes,51.24
+Pune,IT Corridor,1124.0,2,2,5,1.0,15,Fully-furnished,Apartment,3.6,No,27.4
+Bengaluru,IT Corridor,991.0,2,2,28,1.0,10,,Independent House,5.0,Yes,43.93
+Chennai,Central,1997.0,4,4,2,3.0,13,Semi-furnished,Apartment,12.9,Yes,64.83
+Hyderabad,Residential,1417.0,3,3,17,1.0,8,Semi-furnished,Apartment,1.7,Yes,46.12
+Coimbatore,Outskirts,2501.0,5,5,14,1.0,7,Unfurnished,Apartment,10.0,Yes,36.43
+Bengaluru,Central,1474.0,3,3,1,0.0,4,Unfurnished,Apartment,3.7,Yes,54.8
+Hyderabad,Suburban,968.0,2,1,1,2.0,4,Semi-furnished,Independent House,3.8,Yes,31.89
+Chennai,Outskirts,2088.0,5,4,18,2.0,1,Semi-furnished,Apartment,6.6,Yes,55.13
+Bengaluru,IT Corridor,1778.0,5,4,14,1.0,6,Semi-furnished,Apartment,11.1,Yes,52.8
+Hyderabad,Suburban,1828.0,3,3,4,1.0,15,Unfurnished,Villa,2.9,Yes,59.66
+Coimbatore,Suburban,2069.0,4,3,4,2.0,15,Semi-furnished,Apartment,5.3,Yes,57.86
+Pune,Residential,1111.0,2,2,28,3.0,11,Fully-furnished,Apartment,4.8,Yes,46.33
+Pune,Residential,1384.0,4,5,26,1.0,6,Fully-furnished,Apartment,4.6,Yes,48.72
+Bengaluru,IT Corridor,1361.0,2,2,21,1.0,8,Fully-furnished,Villa,7.4,Yes,70.32
+Bengaluru,Outskirts,779.0,1,1,30,0.0,12,Unfurnished,Apartment,2.4,Yes,18.0
+Bengaluru,IT Corridor,1313.0,2,1,2,0.0,1,Fully-furnished,Apartment,3.2,No,49.44
+Pune,Suburban,2145.0,4,4,24,2.0,14,Semi-furnished,Apartment,1.0,Yes,60.76
+Hyderabad,IT Corridor,1573.0,4,5,27,3.0,14,Semi-furnished,Apartment,6.2,Yes,46.33
+Chennai,Suburban,750.0,2,2,7,3.0,15,Semi-furnished,Apartment,4.5,No,25.15
+Hyderabad,Suburban,641.0,2,3,19,2.0,2,Fully-furnished,Apartment,10.9,Yes,30.55
+Bengaluru,Central,2316.0,4,4,27,1.0,15,Semi-furnished,Apartment,1.6,Yes,64.89
+Chennai,Suburban,1403.0,3,3,21,3.0,10,Semi-furnished,Apartment,13.9,No,33.17
+Hyderabad,Residential,1113.0,2,1,8,1.0,9,Semi-furnished,Apartment,7.0,No,21.68
+Hyderabad,Central,1308.0,4,3,23,1.0,3,Semi-furnished,Independent House,6.8,Yes,33.94
+Bengaluru,IT Corridor,682.0,1,1,27,2.0,8,Semi-furnished,Independent House,2.7,No,45.84
+Hyderabad,Residential,2190.0,3,3,0,0.0,6,Unfurnished,Independent House,3.5,Yes,51.57
+Visakhapatnam,IT Corridor,1246.0,3,3,20,2.0,15,Unfurnished,Villa,3.1,Yes,53.66
+Bengaluru,Residential,2161.0,5,5,18,3.0,6,Unfurnished,Apartment,9.6,Yes,38.49
+Chennai,Residential,1477.0,3,3,13,2.0,4,Semi-furnished,Independent House,0.8,Yes,64.46
+Bengaluru,Residential,2193.0,4,4,1,2.0,15,Semi-furnished,Apartment,,Yes,69.29
+Hyderabad,Central,1583.0,3,3,3,1.0,3,Semi-furnished,Independent House,4.1,Yes,67.78
+Visakhapatnam,IT Corridor,1894.0,5,5,27,0.0,14,Semi-furnished,Apartment,3.0,Yes,50.9
+Bengaluru,IT Corridor,1824.0,3,4,29,2.0,15,Semi-furnished,Apartment,2.0,Yes,38.6
+Pune,Suburban,1774.0,3,3,15,1.0,5,Unfurnished,Apartment,0.4,Yes,34.86
+Hyderabad,Central,1631.0,4,5,33,2.0,11,Semi-furnished,Independent House,3.9,Yes,56.29
+Bengaluru,Suburban,1329.0,2,2,33,0.0,12,Fully-furnished,Independent House,6.2,Yes,34.0
+Bengaluru,IT Corridor,2446.0,6,5,23,1.0,9,Semi-furnished,Independent House,4.5,Yes,74.25
+Visakhapatnam,IT Corridor,978.0,3,2,20,1.0,11,Fully-furnished,Apartment,2.0,Yes,46.24
+Bengaluru,Suburban,1452.0,4,3,34,2.0,2,Fully-furnished,Apartment,4.2,Yes,51.97
+Bengaluru,Residential,1458.0,3,4,21,2.0,8,Unfurnished,Villa,11.0,No,40.43
+Chennai,Outskirts,1659.0,3,2,33,3.0,8,Semi-furnished,Apartment,2.5,No,26.32
+Chennai,Suburban,1227.0,2,3,35,1.0,9,Semi-furnished,Apartment,4.9,Yes,32.24
+Bengaluru,Outskirts,1614.0,3,3,7,1.0,15,Semi-furnished,Apartment,5.4,Yes,33.63
+Bengaluru,Central,1362.0,2,2,23,0.0,13,Unfurnished,Apartment,1.3,Yes,41.67
+Hyderabad,Outskirts,627.0,2,3,26,1.0,10,Unfurnished,Independent House,3.4,Yes,28.67
+Coimbatore,Outskirts,1455.0,4,5,29,1.0,7,Unfurnished,Apartment,3.4,Yes,25.12
+Coimbatore,Central,878.0,3,4,12,1.0,7,Semi-furnished,Independent House,4.3,Yes,58.63
+Hyderabad,Residential,548.0,2,2,31,1.0,1,Unfurnished,Independent House,9.4,No,22.48
+Bengaluru,Outskirts,1521.0,4,4,17,1.0,9,Semi-furnished,Apartment,1.6,Yes,40.04
+Hyderabad,Outskirts,1704.0,3,2,13,2.0,4,Semi-furnished,Apartment,9.8,Yes,23.46
+Pune,Outskirts,1724.0,3,4,5,2.0,14,,Apartment,,Yes,42.82
+Chennai,IT Corridor,1745.0,4,5,11,1.0,12,Fully-furnished,Apartment,14.2,Yes,52.67
+Pune,Central,450.0,1,1,35,1.0,14,Semi-furnished,Apartment,0.6,Yes,21.47
+Pune,Residential,742.0,2,1,25,2.0,15,Unfurnished,Independent House,0.3,Yes,42.51
+Pune,IT Corridor,2476.0,4,5,26,2.0,7,Fully-furnished,Apartment,19.2,Yes,60.35
+Hyderabad,IT Corridor,905.0,1,1,32,2.0,7,Semi-furnished,Apartment,1.2,Yes,29.0
+Visakhapatnam,IT Corridor,1768.0,4,4,9,1.0,10,Semi-furnished,Independent House,,Yes,56.52
+Chennai,IT Corridor,1093.0,3,3,23,1.0,7,Semi-furnished,Villa,2.2,Yes,54.9
+Hyderabad,Suburban,1491.0,3,2,13,2.0,5,Unfurnished,Apartment,6.3,Yes,23.97
+Bengaluru,Residential,1121.0,3,2,30,1.0,11,Semi-furnished,Apartment,3.6,Yes,52.21
+Chennai,Central,1742.0,3,2,15,1.0,7,Unfurnished,Apartment,2.4,Yes,45.0
+Coimbatore,Residential,1521.0,3,4,30,3.0,15,Semi-furnished,Apartment,12.5,Yes,23.97
+Coimbatore,Residential,1217.0,4,5,26,0.0,4,Unfurnished,Apartment,0.5,Yes,26.63
+Chennai,IT Corridor,904.0,3,3,27,2.0,7,Semi-furnished,Apartment,8.3,Yes,33.33
+Visakhapatnam,IT Corridor,1589.0,4,4,33,2.0,8,Unfurnished,Apartment,4.1,No,30.23
+Chennai,Suburban,819.0,3,3,28,1.0,14,Unfurnished,Apartment,2.4,Yes,38.56
+Bengaluru,Outskirts,1672.0,3,3,11,2.0,9,Unfurnished,Apartment,2.6,Yes,30.67
+Chennai,Residential,2816.0,5,5,18,1.0,2,Semi-furnished,Independent House,3.3,Yes,55.65
+Visakhapatnam,Suburban,2152.0,4,4,17,2.0,6,Unfurnished,Apartment,2.2,Yes,47.92
+Hyderabad,Suburban,1824.0,4,4,2,2.0,14,Semi-furnished,Apartment,7.4,Yes,51.53
+Hyderabad,Suburban,1405.0,1,1,21,2.0,5,Unfurnished,Apartment,3.1,Yes,28.51
+Bengaluru,IT Corridor,450.0,1,1,15,0.0,6,Semi-furnished,Villa,6.7,No,48.43
+Visakhapatnam,Outskirts,762.0,1,2,14,2.0,3,Unfurnished,Apartment,2.7,No,18.0
+Coimbatore,Residential,2117.0,5,5,3,3.0,11,Fully-furnished,Apartment,4.9,Yes,61.24
+Pune,Suburban,1039.0,3,2,18,2.0,3,Unfurnished,Apartment,4.9,Yes,20.66
+Coimbatore,Residential,1086.0,2,2,20,2.0,6,Unfurnished,Independent House,4.3,Yes,24.17
+Coimbatore,Suburban,1364.0,3,2,3,0.0,11,Unfurnished,Apartment,10.0,Yes,23.34
+Bengaluru,Residential,898.0,2,2,22,2.0,14,Unfurnished,Apartment,10.7,Yes,18.47
+Chennai,Suburban,812.0,1,1,6,0.0,4,Semi-furnished,Independent House,7.1,Yes,37.09
+Pune,IT Corridor,1424.0,3,3,5,1.0,5,Unfurnished,Apartment,8.7,Yes,30.52
+Pune,Outskirts,986.0,1,1,14,3.0,2,Fully-furnished,Apartment,6.9,Yes,24.46
+Chennai,Suburban,1065.0,2,2,14,3.0,7,Semi-furnished,Apartment,2.9,Yes,36.69
+Hyderabad,Residential,1044.0,2,1,32,3.0,15,Unfurnished,Villa,3.8,Yes,46.51
+Pune,Outskirts,1722.0,4,4,2,1.0,5,Semi-furnished,Independent House,0.6,Yes,58.78
+Chennai,Suburban,1329.0,2,1,12,1.0,4,Unfurnished,Apartment,1.9,Yes,30.86
+Visakhapatnam,Central,1357.0,3,3,26,1.0,6,Unfurnished,Independent House,1.2,Yes,43.16
+Chennai,Residential,1760.0,3,3,8,0.0,14,Unfurnished,Independent House,2.4,Yes,62.14
+Hyderabad,Suburban,1376.0,3,4,35,2.0,9,Unfurnished,Apartment,5.1,Yes,28.19
+Coimbatore,Central,1305.0,3,3,26,1.0,10,Unfurnished,Apartment,2.8,Yes,49.53
+Hyderabad,IT Corridor,1695.0,4,4,34,1.0,12,Fully-furnished,Apartment,,Yes,45.21
+Hyderabad,Residential,1797.0,4,3,34,0.0,11,Semi-furnished,Apartment,2.0,Yes,41.26
+Bengaluru,Suburban,1374.0,2,1,3,1.0,9,Fully-furnished,Apartment,6.5,No,40.22
+Coimbatore,Suburban,1492.0,3,3,16,2.0,9,Unfurnished,Independent House,1.8,Yes,45.91
+Hyderabad,Residential,1043.0,2,2,26,2.0,8,Fully-furnished,Apartment,9.5,Yes,30.13
+Chennai,IT Corridor,1002.0,2,2,0,0.0,3,Unfurnished,Apartment,1.9,Yes,44.17
+Pune,Residential,1850.0,4,5,16,1.0,7,Unfurnished,Apartment,5.8,Yes,58.42
+Visakhapatnam,IT Corridor,1681.0,4,5,24,1.0,13,Semi-furnished,Apartment,2.4,Yes,56.96
+Bengaluru,Outskirts,1687.0,4,5,28,0.0,1,Unfurnished,Apartment,11.7,No,31.6
+Hyderabad,Residential,1596.0,3,4,14,3.0,13,Unfurnished,Apartment,11.4,Yes,30.26
+Hyderabad,Central,1474.0,4,4,31,2.0,9,Semi-furnished,Apartment,5.7,Yes,39.06
+Hyderabad,Outskirts,1812.0,4,4,24,0.0,6,Semi-furnished,Apartment,5.6,Yes,35.71
+Hyderabad,IT Corridor,1936.0,3,3,1,2.0,2,Semi-furnished,Apartment,7.3,Yes,64.56
+Pune,Suburban,1924.0,5,5,9,1.0,12,Unfurnished,Independent House,6.4,Yes,52.28
+Hyderabad,Suburban,1398.0,3,3,33,1.0,1,Unfurnished,Apartment,7.9,Yes,20.73
+Bengaluru,Residential,2171.0,4,5,0,1.0,9,Fully-furnished,Apartment,1.9,Yes,83.02
+Pune,Central,1569.0,4,3,3,0.0,3,Unfurnished,Apartment,4.3,No,54.61
+Bengaluru,Suburban,1779.0,4,4,12,1.0,14,Unfurnished,Apartment,2.6,Yes,58.58
+Hyderabad,Suburban,1597.0,3,4,35,2.0,3,Unfurnished,Apartment,11.3,No,19.94
+Coimbatore,IT Corridor,1578.0,3,3,25,3.0,13,Fully-furnished,Apartment,1.4,No,42.23
+Pune,IT Corridor,1067.0,2,2,5,1.0,9,Semi-furnished,Apartment,12.6,No,42.15
+Pune,IT Corridor,1815.0,4,4,14,2.0,1,Semi-furnished,Villa,4.4,No,68.81
+Hyderabad,Suburban,2930.0,6,5,33,1.0,11,Fully-furnished,Apartment,8.0,Yes,51.82
+Hyderabad,Central,1255.0,3,3,7,1.0,14,Unfurnished,Independent House,2.8,Yes,50.97
+Visakhapatnam,IT Corridor,1487.0,3,3,20,1.0,4,Fully-furnished,Independent House,1.3,Yes,53.13
+Chennai,Suburban,1218.0,2,2,16,1.0,15,Unfurnished,Independent House,11.0,Yes,39.47
+Chennai,Residential,1196.0,2,2,27,1.0,12,Unfurnished,Apartment,6.1,Yes,18.0
+Bengaluru,Central,2253.0,3,3,27,3.0,12,Unfurnished,Villa,1.6,Yes,83.02
+Pune,Central,1100.0,3,4,29,2.0,6,Fully-furnished,Apartment,3.9,Yes,43.09
+Visakhapatnam,Suburban,1203.0,2,1,4,1.0,2,Fully-furnished,Independent House,3.7,Yes,45.71
+Chennai,IT Corridor,625.0,2,1,16,2.0,7,Semi-furnished,Apartment,5.9,Yes,34.9
+Visakhapatnam,Suburban,1056.0,3,4,24,0.0,13,Unfurnished,Independent House,1.9,Yes,34.68
+Hyderabad,Residential,562.0,2,2,15,2.0,9,Unfurnished,Villa,1.5,Yes,48.79
+Bengaluru,Suburban,1779.0,3,3,24,1.0,10,Semi-furnished,Villa,4.7,Yes,57.74
+Bengaluru,IT Corridor,2906.0,6,5,22,1.0,12,Unfurnished,Apartment,2.0,Yes,67.95
+Hyderabad,IT Corridor,1259.0,4,4,13,2.0,6,Unfurnished,Independent House,11.2,Yes,62.51
+Hyderabad,Central,583.0,3,3,3,1.0,1,Semi-furnished,Apartment,7.5,Yes,45.61
+Chennai,IT Corridor,1918.0,5,5,34,1.0,14,Semi-furnished,Independent House,7.4,Yes,54.57
+Visakhapatnam,Suburban,1072.0,3,4,29,1.0,10,Fully-furnished,Apartment,0.6,Yes,31.68
+Bengaluru,IT Corridor,2126.0,4,4,32,0.0,9,Semi-furnished,Apartment,2.9,Yes,51.72
+Visakhapatnam,Central,1303.0,3,3,10,0.0,9,Unfurnished,Apartment,3.4,Yes,38.1
+Coimbatore,Residential,1121.0,2,2,11,2.0,13,Semi-furnished,Apartment,1.7,No,41.32
+Bengaluru,Outskirts,1357.0,3,3,11,2.0,12,Unfurnished,Apartment,6.4,Yes,27.94
+Pune,Central,1844.0,3,2,1,0.0,11,Semi-furnished,Apartment,5.8,No,33.05
+Hyderabad,IT Corridor,1332.0,3,2,6,1.0,12,Semi-furnished,Apartment,7.2,Yes,48.31
+Hyderabad,Residential,1192.0,3,3,11,2.0,5,Unfurnished,Independent House,8.6,Yes,43.66
+Coimbatore,Suburban,1347.0,3,3,35,2.0,11,Unfurnished,Independent House,8.3,No,21.07
+Coimbatore,Residential,789.0,2,2,7,2.0,15,Fully-furnished,Independent House,20.2,Yes,42.62
+Chennai,Residential,1656.0,3,3,18,1.0,4,Semi-furnished,Independent House,4.2,Yes,29.05
+Bengaluru,Outskirts,521.0,1,2,19,1.0,9,Semi-furnished,Apartment,3.7,Yes,32.32
+Bengaluru,Outskirts,1219.0,4,4,12,1.0,11,Semi-furnished,Apartment,6.4,Yes,45.67
+Coimbatore,Central,1845.0,5,5,33,1.0,8,Semi-furnished,Apartment,9.6,Yes,37.9
+Bengaluru,IT Corridor,1608.0,4,3,3,0.0,15,Unfurnished,Apartment,1.0,Yes,54.67
+Chennai,IT Corridor,1757.0,3,4,31,0.0,7,Semi-furnished,Apartment,2.2,Yes,48.5
+Chennai,Suburban,1416.0,3,3,26,2.0,4,Fully-furnished,Independent House,2.7,No,49.96
+Bengaluru,Suburban,2058.0,5,5,11,1.0,3,Unfurnished,Apartment,4.5,No,46.42
+Pune,Outskirts,1931.0,5,5,27,2.0,13,Unfurnished,Independent House,2.9,Yes,33.77
+Coimbatore,Central,1682.0,3,2,15,1.0,11,Semi-furnished,Apartment,8.7,Yes,58.97
+Bengaluru,IT Corridor,1932.0,4,3,34,1.0,9,Semi-furnished,Independent House,5.0,Yes,66.37
+Chennai,Residential,1840.0,4,3,1,2.0,7,Unfurnished,Apartment,3.9,Yes,53.54
+Chennai,Suburban,1221.0,3,3,1,2.0,7,Semi-furnished,Independent House,5.9,No,49.34
+Pune,IT Corridor,751.0,2,1,19,0.0,15,Semi-furnished,Apartment,0.7,Yes,41.98
+Coimbatore,Outskirts,1669.0,2,1,33,2.0,11,Semi-furnished,Apartment,5.7,Yes,24.2
+Hyderabad,IT Corridor,1734.0,4,4,2,1.0,15,Unfurnished,Apartment,2.1,Yes,42.09
+Hyderabad,Suburban,2017.0,5,5,28,1.0,13,Unfurnished,Apartment,7.7,Yes,38.34
+Bengaluru,Central,963.0,2,2,33,2.0,12,Semi-furnished,Apartment,0.8,Yes,38.51
+Hyderabad,Outskirts,979.0,2,1,17,2.0,9,Fully-furnished,Apartment,6.2,Yes,26.91
+Coimbatore,Suburban,1689.0,3,3,31,1.0,4,Semi-furnished,Apartment,2.1,Yes,38.45
+Chennai,IT Corridor,1413.0,2,2,27,3.0,10,Unfurnished,Villa,9.8,Yes,37.71
+Hyderabad,Central,469.0,2,1,7,2.0,11,Fully-furnished,Apartment,1.1,Yes,38.35
+Visakhapatnam,IT Corridor,1645.0,4,4,30,2.0,8,Unfurnished,Apartment,4.4,Yes,35.68
+Hyderabad,Outskirts,487.0,2,3,25,0.0,1,Semi-furnished,Independent House,6.9,No,20.05
+Chennai,IT Corridor,958.0,3,3,0,1.0,15,Unfurnished,Apartment,5.5,Yes,51.95
+Hyderabad,Outskirts,2153.0,4,3,20,1.0,13,Semi-furnished,Independent House,5.4,Yes,60.44
+Hyderabad,Suburban,2399.0,5,5,23,2.0,6,Semi-furnished,Apartment,1.4,Yes,55.05
+Hyderabad,IT Corridor,818.0,2,2,28,1.0,8,Semi-furnished,Apartment,1.3,Yes,43.44
+Hyderabad,Residential,1279.0,2,3,27,2.0,2,Unfurnished,Apartment,5.3,Yes,38.25
+Hyderabad,IT Corridor,1472.0,4,5,17,1.0,15,Semi-furnished,Apartment,4.7,No,53.05
+Hyderabad,Suburban,2376.0,5,5,10,2.0,4,Unfurnished,Apartment,1.8,No,54.56
+Bengaluru,Residential,1194.0,2,3,6,2.0,6,,Independent House,1.7,Yes,58.37
+Pune,Suburban,1202.0,3,3,3,2.0,7,Unfurnished,Apartment,4.0,Yes,33.13
+Chennai,IT Corridor,2255.0,5,5,23,2.0,4,Semi-furnished,Villa,3.2,Yes,69.21
+Chennai,Outskirts,1255.0,3,3,34,2.0,10,Semi-furnished,Apartment,13.9,No,18.0
+Bengaluru,Suburban,1826.0,4,4,2,0.0,15,Unfurnished,Apartment,10.1,Yes,46.23
+Coimbatore,Suburban,682.0,2,2,25,2.0,13,Unfurnished,Independent House,7.5,No,20.15
+Coimbatore,Central,1361.0,3,2,21,3.0,8,Unfurnished,Independent House,11.0,No,45.23
+Hyderabad,Suburban,587.0,1,2,6,1.0,2,Semi-furnished,Apartment,2.5,Yes,31.13
+Hyderabad,Suburban,901.0,2,1,7,1.0,13,Fully-furnished,Apartment,,Yes,32.4
+Chennai,Residential,1886.0,4,4,10,3.0,4,Semi-furnished,Apartment,9.2,No,44.84
+Chennai,Suburban,1424.0,3,3,24,1.0,14,Fully-furnished,Apartment,4.4,Yes,45.94
+Bengaluru,Residential,1284.0,4,5,10,1.0,6,Unfurnished,Independent House,4.6,Yes,47.93
+Chennai,Suburban,1061.0,3,2,29,1.0,8,Unfurnished,Apartment,1.6,Yes,29.62
+Hyderabad,Suburban,1335.0,3,3,13,1.0,7,Fully-furnished,Independent House,8.9,Yes,48.35
+Chennai,Suburban,1607.0,4,4,3,1.0,7,Fully-furnished,Apartment,6.4,Yes,45.37
+Bengaluru,Residential,1961.0,4,3,3,1.0,3,Unfurnished,Apartment,3.5,No,50.49
+Hyderabad,IT Corridor,450.0,1,1,14,,9,Semi-furnished,Apartment,2.9,Yes,25.53
+Coimbatore,Suburban,1017.0,2,2,14,1.0,7,Fully-furnished,Apartment,9.9,Yes,30.48
+Hyderabad,Residential,1533.0,3,4,26,1.0,13,,Apartment,2.6,Yes,31.85
+Visakhapatnam,IT Corridor,1399.0,3,3,17,2.0,8,Semi-furnished,Villa,1.2,No,70.41
+Hyderabad,Suburban,1660.0,4,5,5,2.0,15,Unfurnished,Independent House,10.2,Yes,52.33
+Coimbatore,Outskirts,1589.0,4,4,7,1.0,5,Unfurnished,Independent House,10.4,Yes,31.18
+Coimbatore,Suburban,1291.0,2,3,20,0.0,5,Semi-furnished,Apartment,2.6,Yes,39.57
+Visakhapatnam,Central,1176.0,2,3,12,2.0,1,Semi-furnished,Villa,15.6,No,41.9
+Coimbatore,IT Corridor,1322.0,4,4,24,2.0,12,Unfurnished,Independent House,4.0,Yes,43.41
+Pune,Central,2047.0,5,5,33,1.0,2,Unfurnished,Independent House,2.6,Yes,46.0
+Pune,Suburban,1069.0,2,1,12,1.0,5,Unfurnished,Apartment,6.2,Yes,38.75
+Pune,Residential,1417.0,3,3,19,2.0,14,,Apartment,1.4,Yes,60.46
+Hyderabad,Suburban,1545.0,3,2,29,2.0,10,Unfurnished,Independent House,,Yes,29.44
+Bengaluru,Residential,2261.0,5,5,7,1.0,9,Unfurnished,Apartment,5.3,Yes,55.2
+Bengaluru,Outskirts,1294.0,3,3,18,2.0,13,Unfurnished,Apartment,4.7,Yes,32.34
+Coimbatore,IT Corridor,1949.0,6,5,10,2.0,12,Fully-furnished,Apartment,8.0,Yes,56.39
+Bengaluru,Residential,2091.0,4,4,22,2.0,14,Semi-furnished,Apartment,1.6,Yes,58.25
+Chennai,Residential,1417.0,3,3,26,2.0,10,Unfurnished,Apartment,13.9,Yes,26.76
+Bengaluru,Outskirts,1340.0,2,2,5,2.0,7,Semi-furnished,Independent House,3.1,Yes,50.37
+Chennai,Suburban,1279.0,2,2,6,1.0,2,Unfurnished,Apartment,4.5,Yes,27.0
+Hyderabad,Suburban,1317.0,4,4,0,1.0,6,Semi-furnished,Apartment,3.0,No,48.14
+Bengaluru,IT Corridor,1894.0,4,4,0,2.0,11,Semi-furnished,Apartment,1.4,Yes,61.81
+Chennai,IT Corridor,1570.0,1,1,1,2.0,4,Semi-furnished,Villa,4.2,Yes,63.88
+Chennai,Suburban,1572.0,4,4,25,1.0,11,Semi-furnished,Apartment,6.9,No,19.62
+Chennai,IT Corridor,865.0,3,3,32,1.0,3,Unfurnished,Apartment,3.7,Yes,29.4
+Chennai,Central,947.0,1,1,14,2.0,1,Unfurnished,Apartment,2.2,Yes,34.34
+Chennai,Outskirts,2565.0,6,5,31,2.0,6,Unfurnished,Apartment,8.2,Yes,46.38
+Chennai,Suburban,1358.0,1,1,26,1.0,4,Semi-furnished,Independent House,8.4,No,27.13
+Pune,Central,1047.0,3,3,29,1.0,14,Semi-furnished,Apartment,3.6,Yes,42.44
+Chennai,Central,2194.0,5,4,26,1.0,6,Semi-furnished,Independent House,5.5,Yes,63.28
+Visakhapatnam,Suburban,1597.0,2,2,7,3.0,7,Unfurnished,Apartment,8.1,Yes,18.0
+Visakhapatnam,Suburban,1751.0,4,4,18,2.0,7,Semi-furnished,Villa,,No,38.29
+Bengaluru,Central,1378.0,4,5,18,1.0,5,Unfurnished,Apartment,5.4,Yes,49.56
+Chennai,Suburban,1284.0,3,3,23,1.0,14,Unfurnished,Apartment,,Yes,31.53
+Bengaluru,Suburban,1362.0,3,3,28,2.0,12,Semi-furnished,Apartment,5.8,Yes,36.01
+Coimbatore,Suburban,731.0,1,1,4,1.0,3,Unfurnished,Apartment,4.4,Yes,18.99
+Pune,Suburban,1404.0,2,2,24,3.0,4,Unfurnished,Villa,1.6,Yes,50.97
+Coimbatore,Suburban,1604.0,4,4,29,0.0,2,Unfurnished,Independent House,1.9,Yes,36.41
+Bengaluru,Suburban,2412.0,6,5,4,0.0,4,Semi-furnished,Apartment,6.0,Yes,71.18
+Bengaluru,Central,1495.0,4,5,14,1.0,10,Unfurnished,Apartment,3.0,Yes,62.9
+Chennai,Central,450.0,1,1,32,1.0,15,Fully-furnished,Villa,5.8,Yes,43.6
+Pune,Suburban,1401.0,2,2,0,2.0,8,Fully-furnished,Independent House,1.5,No,54.33
+Hyderabad,Residential,2875.0,5,5,5,2.0,2,Semi-furnished,Apartment,2.4,No,69.54
+Pune,Outskirts,1901.0,3,3,28,1.0,1,Unfurnished,Apartment,3.7,Yes,31.95
+Coimbatore,Outskirts,1028.0,2,2,6,1.0,7,Semi-furnished,Apartment,0.5,No,39.23
+Hyderabad,IT Corridor,1757.0,4,3,25,2.0,4,Unfurnished,Independent House,2.1,No,53.6
+Bengaluru,IT Corridor,1064.0,1,1,32,2.0,9,Fully-furnished,Apartment,2.6,Yes,50.0
+Hyderabad,Suburban,746.0,2,2,17,1.0,2,,Independent House,4.9,Yes,28.43
+Pune,Residential,1269.0,3,2,17,1.0,4,Unfurnished,Apartment,3.6,Yes,31.49
+Hyderabad,Residential,1498.0,3,3,15,1.0,9,Unfurnished,Apartment,5.1,Yes,23.06
+Visakhapatnam,Residential,476.0,1,2,13,1.0,5,Semi-furnished,Apartment,4.5,Yes,29.88
+Hyderabad,Outskirts,852.0,1,1,13,2.0,6,Fully-furnished,Independent House,3.5,No,38.01
+Visakhapatnam,IT Corridor,1455.0,3,4,19,1.0,4,Semi-furnished,Apartment,2.6,Yes,25.2
+Coimbatore,Residential,1238.0,3,3,32,1.0,1,Semi-furnished,Independent House,4.6,No,35.77
+Bengaluru,Residential,1655.0,4,3,35,2.0,6,Semi-furnished,Apartment,9.6,Yes,44.98
+Pune,Suburban,818.0,2,2,31,1.0,5,Semi-furnished,Independent House,2.6,Yes,38.4
+Coimbatore,Outskirts,1821.0,4,4,4,1.0,14,Semi-furnished,Independent House,13.6,No,25.51
+Visakhapatnam,Central,834.0,2,1,11,1.0,14,Unfurnished,Independent House,4.6,Yes,50.16
+Chennai,Outskirts,2304.0,5,4,27,3.0,7,Semi-furnished,Apartment,7.7,Yes,40.72
+Bengaluru,Residential,558.0,2,3,19,2.0,5,Fully-furnished,Independent House,5.6,Yes,50.53
+Hyderabad,Central,882.0,2,2,12,1.0,7,Unfurnished,Apartment,6.2,Yes,37.42
+Bengaluru,Residential,1667.0,4,4,11,2.0,10,Unfurnished,Apartment,2.1,Yes,57.58
+Hyderabad,Central,2315.0,5,5,4,1.0,6,Unfurnished,Independent House,3.0,Yes,84.78
+Bengaluru,Residential,1614.0,3,3,11,1.0,12,Unfurnished,Independent House,1.0,Yes,55.95
+Bengaluru,Residential,1743.0,4,3,15,1.0,15,Semi-furnished,Apartment,3.7,Yes,55.0
+Bengaluru,IT Corridor,1459.0,3,4,14,1.0,7,Unfurnished,Villa,6.6,Yes,76.16
+Bengaluru,Residential,916.0,2,3,19,1.0,2,Semi-furnished,Apartment,3.7,Yes,36.49
+Pune,Central,1195.0,3,3,9,3.0,2,Unfurnished,Independent House,8.0,Yes,46.47
+Coimbatore,Suburban,820.0,2,2,7,1.0,14,Fully-furnished,Independent House,3.2,Yes,50.56
+Bengaluru,IT Corridor,785.0,2,3,31,2.0,7,Semi-furnished,Independent House,2.5,Yes,58.37
+Bengaluru,Central,1659.0,3,3,14,2.0,5,Semi-furnished,Independent House,2.9,No,73.81
+Visakhapatnam,IT Corridor,866.0,1,1,9,1.0,10,Semi-furnished,Villa,7.0,No,53.99
+Hyderabad,Suburban,1616.0,4,4,22,1.0,15,Unfurnished,Apartment,11.7,Yes,18.0
+Hyderabad,Suburban,773.0,2,2,19,1.0,7,Semi-furnished,Apartment,14.4,Yes,18.0
+Hyderabad,IT Corridor,1604.0,4,4,20,1.0,5,Semi-furnished,Apartment,6.5,Yes,45.13
+Pune,Outskirts,1196.0,2,1,7,1.0,13,Unfurnished,Independent House,7.8,Yes,31.45
+Chennai,Suburban,2181.0,6,5,26,3.0,2,Fully-furnished,Apartment,1.2,Yes,73.61
+Pune,Outskirts,1618.0,3,3,6,2.0,13,Unfurnished,Villa,1.5,No,44.41
+Pune,IT Corridor,2093.0,4,4,30,0.0,8,Semi-furnished,Apartment,2.2,Yes,68.76
+Chennai,Suburban,1057.0,2,2,15,1.0,1,Unfurnished,Independent House,10.0,No,25.4
+Coimbatore,IT Corridor,1479.0,2,2,14,1.0,4,Semi-furnished,Apartment,9.9,Yes,30.0
+Pune,IT Corridor,940.0,3,3,13,3.0,11,Unfurnished,Independent House,16.5,Yes,49.17
+Chennai,Suburban,1235.0,4,5,15,1.0,12,Unfurnished,Villa,2.1,Yes,66.29
+Chennai,IT Corridor,1314.0,3,3,23,,3,Semi-furnished,Apartment,4.0,Yes,48.45
+Chennai,Suburban,1073.0,2,2,17,2.0,10,Fully-furnished,Independent House,0.9,Yes,42.62
+Hyderabad,Suburban,818.0,3,3,4,1.0,15,Unfurnished,Apartment,1.3,Yes,42.89
+Hyderabad,IT Corridor,715.0,1,2,20,1.0,11,Semi-furnished,Independent House,3.4,Yes,34.98
+Visakhapatnam,IT Corridor,450.0,1,1,9,2.0,11,Semi-furnished,Independent House,2.2,No,35.27
+Bengaluru,Residential,901.0,3,3,3,0.0,3,Semi-furnished,Apartment,2.2,Yes,45.02
+Chennai,Suburban,1776.0,4,3,30,0.0,10,Unfurnished,Apartment,2.7,No,23.45
+Pune,Outskirts,619.0,3,3,11,0.0,11,Semi-furnished,Apartment,10.8,Yes,28.88
+Bengaluru,Residential,739.0,2,2,21,1.0,2,Fully-furnished,Apartment,8.8,Yes,28.5
+Visakhapatnam,Outskirts,2381.0,5,5,6,3.0,5,Unfurnished,Independent House,1.9,Yes,54.29
+Pune,Residential,1119.0,2,1,12,1.0,14,Semi-furnished,Apartment,8.6,Yes,26.12
+Bengaluru,Suburban,1617.0,2,2,13,2.0,15,Fully-furnished,Villa,2.4,Yes,76.69
+Chennai,IT Corridor,1784.0,4,4,4,1.0,3,Unfurnished,Villa,1.2,Yes,70.04
+Visakhapatnam,Suburban,1795.0,4,4,35,,11,Unfurnished,Independent House,2.6,Yes,50.6
+Pune,Residential,658.0,2,3,11,3.0,8,Unfurnished,Apartment,5.2,No,39.8
+Visakhapatnam,IT Corridor,1330.0,3,2,20,1.0,9,Semi-furnished,Apartment,2.1,Yes,38.73
+Hyderabad,Suburban,609.0,1,1,20,3.0,8,Fully-furnished,Independent House,6.4,Yes,38.28
+Coimbatore,Outskirts,2722.0,6,5,15,2.0,14,Semi-furnished,Independent House,2.8,Yes,52.3
+Bengaluru,Central,621.0,2,1,21,2.0,7,Semi-furnished,Villa,5.5,Yes,60.5
+Hyderabad,IT Corridor,905.0,2,1,20,1.0,9,Unfurnished,Apartment,1.9,Yes,34.07
+Bengaluru,Residential,909.0,2,1,2,2.0,11,Unfurnished,Apartment,4.3,Yes,36.46
+Pune,Central,672.0,1,2,24,1.0,9,Unfurnished,Villa,2.1,No,46.82
+Hyderabad,IT Corridor,2153.0,5,5,4,3.0,14,Unfurnished,Independent House,3.5,No,58.96
+Bengaluru,Residential,2710.0,3,4,15,2.0,4,Unfurnished,Apartment,13.7,Yes,51.66
+Coimbatore,Central,1203.0,3,3,13,1.0,15,Semi-furnished,Independent House,3.1,No,55.52
+Chennai,IT Corridor,763.0,3,3,16,3.0,11,Unfurnished,Apartment,1.5,Yes,45.11
+Bengaluru,Suburban,450.0,1,1,2,2.0,15,Unfurnished,Apartment,4.5,Yes,37.0
+Bengaluru,Residential,1323.0,3,2,25,1.0,6,Unfurnished,Apartment,4.5,Yes,33.21
+Chennai,Central,1285.0,3,2,15,0.0,8,Unfurnished,Apartment,4.5,No,33.68
+Visakhapatnam,Outskirts,1111.0,2,3,2,1.0,1,Unfurnished,Apartment,6.2,Yes,18.0
+Pune,Outskirts,1565.0,4,4,0,0.0,14,Unfurnished,Apartment,3.0,Yes,36.51
+Hyderabad,Suburban,1655.0,4,4,19,,13,Unfurnished,Apartment,6.6,Yes,53.03
+Visakhapatnam,Suburban,1618.0,4,5,23,3.0,5,Semi-furnished,Apartment,4.2,Yes,44.88
+Coimbatore,IT Corridor,1286.0,3,3,19,1.0,1,Semi-furnished,Apartment,1.4,No,35.02
+Chennai,Residential,877.0,2,2,25,2.0,11,Fully-furnished,Apartment,7.2,Yes,25.45
+Coimbatore,IT Corridor,1796.0,6,5,27,2.0,11,Semi-furnished,Independent House,4.8,Yes,46.47
+Hyderabad,Suburban,1457.0,3,3,31,2.0,8,Semi-furnished,Independent House,6.4,Yes,35.61
+Visakhapatnam,Central,1912.0,4,4,35,1.0,3,,Apartment,1.6,Yes,56.79
+Pune,Outskirts,1861.0,3,3,31,1.0,14,Semi-furnished,Apartment,7.5,No,19.81
+Pune,IT Corridor,711.0,1,1,28,2.0,7,Semi-furnished,Independent House,16.0,No,18.0
+Hyderabad,Outskirts,704.0,2,1,15,1.0,11,Unfurnished,Independent House,1.5,Yes,22.48
+Coimbatore,IT Corridor,1057.0,1,1,18,1.0,13,Unfurnished,Villa,8.2,Yes,49.78
+Hyderabad,Outskirts,901.0,1,1,22,2.0,9,,Villa,4.8,No,30.24
+Chennai,Central,1843.0,4,4,6,0.0,2,Unfurnished,Apartment,4.2,No,45.64
+Hyderabad,Central,1633.0,4,4,24,1.0,14,Semi-furnished,Independent House,7.6,Yes,54.99
+Pune,Outskirts,2022.0,4,3,21,1.0,11,Unfurnished,Apartment,7.0,Yes,49.56
+Hyderabad,Outskirts,1656.0,3,3,18,1.0,14,Semi-furnished,Independent House,,Yes,47.74
+Visakhapatnam,Suburban,1558.0,2,2,30,2.0,10,Fully-furnished,Villa,1.6,Yes,65.24
+Pune,Suburban,2074.0,5,5,24,1.0,14,Semi-furnished,Independent House,9.8,Yes,38.0
+Hyderabad,IT Corridor,1694.0,4,4,33,3.0,14,Unfurnished,Apartment,5.5,Yes,44.9
+Hyderabad,IT Corridor,1485.0,2,2,35,2.0,4,Semi-furnished,Apartment,1.0,Yes,36.76
+Hyderabad,Suburban,2220.0,5,5,29,1.0,3,Unfurnished,Apartment,3.1,Yes,50.82
+Bengaluru,Outskirts,1510.0,4,4,10,1.0,3,Fully-furnished,Apartment,4.9,No,51.02
+Coimbatore,Suburban,1292.0,4,5,6,1.0,12,Semi-furnished,Independent House,3.0,Yes,55.25
+Chennai,Residential,1014.0,3,3,10,2.0,4,Semi-furnished,Independent House,3.8,Yes,44.3
+Coimbatore,Central,1816.0,4,5,25,2.0,7,Semi-furnished,Apartment,2.7,Yes,46.3
+Hyderabad,Central,2093.0,5,5,31,0.0,12,Semi-furnished,Independent House,21.4,Yes,53.59
+Coimbatore,Residential,1424.0,4,4,31,1.0,7,Semi-furnished,Apartment,6.7,No,35.18
+Visakhapatnam,Suburban,2130.0,3,2,24,0.0,1,Unfurnished,Apartment,4.5,Yes,31.2
+Pune,Residential,450.0,1,1,24,1.0,6,Unfurnished,Apartment,,Yes,23.55
+Pune,Central,1421.0,3,2,34,1.0,2,Unfurnished,Apartment,9.6,No,29.04
+Coimbatore,Outskirts,1429.0,3,3,24,0.0,6,Semi-furnished,Independent House,6.1,Yes,31.75
+Hyderabad,Residential,1072.0,3,3,5,2.0,12,Fully-furnished,Independent House,2.0,Yes,66.18
+Hyderabad,Outskirts,2690.0,6,5,18,1.0,8,Semi-furnished,Independent House,2.0,Yes,67.99
+Hyderabad,Suburban,1416.0,4,4,12,1.0,11,Semi-furnished,Apartment,3.9,Yes,45.88
+Bengaluru,Suburban,1238.0,3,2,22,2.0,2,Fully-furnished,Independent House,4.5,Yes,50.46
+Pune,Suburban,1464.0,3,3,22,3.0,12,Unfurnished,Apartment,6.6,Yes,34.8
+Bengaluru,IT Corridor,450.0,1,1,10,1.0,7,Unfurnished,Apartment,4.1,Yes,26.32
+Coimbatore,Suburban,1055.0,2,2,10,2.0,5,Fully-furnished,Apartment,6.9,Yes,29.49
+Hyderabad,Central,1961.0,4,4,3,1.0,10,Fully-furnished,Independent House,3.0,Yes,81.49
+Pune,Suburban,1123.0,3,3,10,2.0,3,Semi-furnished,Villa,4.1,Yes,53.76
+Hyderabad,Suburban,1019.0,1,1,29,1.0,8,Unfurnished,Apartment,9.8,Yes,22.47
+Chennai,Suburban,2131.0,6,5,23,2.0,7,Fully-furnished,Independent House,7.1,Yes,61.74
+Pune,Suburban,2147.0,5,5,33,0.0,3,Semi-furnished,Apartment,4.3,No,46.29
+Visakhapatnam,Suburban,1719.0,3,3,33,3.0,15,Semi-furnished,Apartment,5.3,No,34.44
+Bengaluru,Residential,1213.0,4,4,30,3.0,6,Unfurnished,Independent House,4.1,Yes,56.4
+Hyderabad,Suburban,1325.0,3,4,6,1.0,1,Semi-furnished,Independent House,1.3,Yes,51.59
+Bengaluru,Suburban,1032.0,2,2,12,1.0,7,Semi-furnished,Independent House,,Yes,41.68
+Hyderabad,IT Corridor,933.0,2,2,2,1.0,15,,Independent House,2.1,Yes,65.98
+Coimbatore,Residential,907.0,3,2,3,1.0,11,Semi-furnished,Apartment,3.2,Yes,28.1
+Pune,Suburban,1129.0,2,3,8,2.0,10,Semi-furnished,Villa,19.1,Yes,59.02
+Hyderabad,IT Corridor,912.0,2,1,10,2.0,14,Semi-furnished,Villa,1.8,Yes,81.41
+Hyderabad,Outskirts,637.0,2,2,0,1.0,2,Semi-furnished,Apartment,3.9,Yes,37.3
+Hyderabad,IT Corridor,1564.0,4,4,30,1.0,9,Unfurnished,Apartment,10.2,Yes,45.05
+Visakhapatnam,Outskirts,1572.0,3,2,18,2.0,5,Unfurnished,Apartment,13.7,No,18.74
+Bengaluru,Residential,2334.0,6,5,23,0.0,11,Unfurnished,Independent House,6.0,Yes,61.03
+Pune,Central,1102.0,4,5,23,2.0,13,Semi-furnished,Villa,9.7,Yes,62.98
+Bengaluru,IT Corridor,1604.0,4,3,34,0.0,2,Unfurnished,Independent House,3.6,Yes,58.72
+Bengaluru,Residential,1613.0,3,3,5,1.0,3,Unfurnished,Apartment,0.3,Yes,44.9
+Hyderabad,Outskirts,1318.0,3,2,12,0.0,15,Fully-furnished,Apartment,9.1,Yes,22.3
+Visakhapatnam,IT Corridor,1837.0,5,4,11,1.0,8,Semi-furnished,Apartment,4.2,Yes,51.15
+Chennai,Central,1853.0,3,3,19,2.0,5,Unfurnished,Apartment,3.3,Yes,55.39
+Bengaluru,IT Corridor,1620.0,3,3,18,1.0,3,Unfurnished,Apartment,3.1,Yes,43.0
+Pune,Central,1317.0,2,2,28,2.0,6,Semi-furnished,Apartment,6.8,Yes,37.95
+Pune,Residential,1264.0,2,2,20,2.0,1,Unfurnished,Apartment,6.8,Yes,31.31
+Visakhapatnam,IT Corridor,739.0,1,1,8,1.0,4,Semi-furnished,Apartment,4.3,Yes,28.12
+Hyderabad,Residential,1031.0,2,2,20,0.0,3,Semi-furnished,Independent House,5.8,No,18.0
+Bengaluru,Residential,1127.0,4,4,34,2.0,2,Unfurnished,Apartment,1.8,Yes,30.97
+Chennai,Residential,866.0,2,3,20,2.0,15,Semi-furnished,Apartment,3.7,Yes,37.87
+Bengaluru,IT Corridor,1679.0,3,2,21,1.0,12,Unfurnished,Apartment,,Yes,53.01
+Hyderabad,Residential,2072.0,4,4,6,1.0,15,Semi-furnished,Villa,1.8,Yes,80.85
+Hyderabad,Residential,978.0,3,2,0,2.0,4,Unfurnished,Independent House,5.5,Yes,54.8
+Chennai,Residential,1597.0,4,4,7,0.0,5,Unfurnished,Apartment,4.5,Yes,40.0
+Chennai,Central,912.0,2,1,0,2.0,5,Unfurnished,Independent House,3.0,Yes,47.32
+Bengaluru,IT Corridor,1291.0,2,2,16,1.0,9,Fully-furnished,Independent House,3.6,Yes,61.72
+Bengaluru,Suburban,1091.0,3,3,31,2.0,3,Unfurnished,Independent House,5.8,No,32.46
+Bengaluru,Residential,1763.0,3,3,16,1.0,4,Unfurnished,Apartment,6.9,Yes,51.36
+Chennai,Residential,1097.0,3,2,23,2.0,15,Unfurnished,Apartment,6.2,No,30.7
+Chennai,IT Corridor,1976.0,6,5,30,0.0,6,Semi-furnished,Apartment,0.9,No,61.91
+Hyderabad,Suburban,1322.0,3,3,27,1.0,12,Semi-furnished,Apartment,0.4,No,30.29
+Bengaluru,Suburban,1112.0,2,2,23,1.0,4,Fully-furnished,Apartment,2.3,Yes,47.46
+Chennai,Residential,798.0,2,3,28,,14,Semi-furnished,Apartment,0.4,No,46.96
+Hyderabad,Suburban,1582.0,3,3,10,0.0,11,Semi-furnished,Apartment,11.1,Yes,37.03
+Chennai,Central,1916.0,3,3,15,0.0,13,Semi-furnished,Apartment,3.5,No,52.05
+Bengaluru,Outskirts,1592.0,4,4,14,2.0,8,Unfurnished,Apartment,1.4,Yes,35.6
+Hyderabad,Residential,2614.0,6,5,28,0.0,14,Fully-furnished,Apartment,3.4,Yes,68.23
+Bengaluru,Suburban,2193.0,4,3,14,1.0,6,Fully-furnished,Apartment,0.7,Yes,70.68
+Bengaluru,Suburban,1290.0,3,2,33,2.0,8,Unfurnished,Apartment,1.4,Yes,29.98
+Pune,Outskirts,1285.0,2,2,6,2.0,1,Semi-furnished,Independent House,3.2,Yes,47.47
+Pune,Residential,1694.0,3,3,6,2.0,3,Unfurnished,Apartment,,Yes,50.84
+Pune,IT Corridor,1014.0,2,2,25,1.0,12,Semi-furnished,Apartment,3.2,Yes,40.83
+Chennai,Suburban,2056.0,4,5,27,1.0,5,Semi-furnished,Apartment,5.9,Yes,49.19
+Pune,Suburban,1638.0,5,5,24,2.0,2,Fully-furnished,Apartment,8.1,Yes,51.71
+Bengaluru,Central,1583.0,4,4,11,1.0,5,Unfurnished,Apartment,4.7,Yes,55.49
+Bengaluru,Residential,1807.0,4,4,0,2.0,6,Semi-furnished,Apartment,8.4,Yes,65.5
+Bengaluru,Central,2346.0,5,5,11,0.0,11,Semi-furnished,Apartment,2.9,Yes,80.62
+Chennai,Central,1539.0,4,4,16,2.0,2,Unfurnished,Villa,9.2,Yes,60.94
+Bengaluru,Residential,1391.0,3,4,14,2.0,1,Semi-furnished,Apartment,4.7,Yes,49.31
+Pune,Outskirts,2235.0,5,5,33,1.0,11,Semi-furnished,Apartment,7.7,Yes,22.24
+Coimbatore,Residential,1953.0,4,4,31,1.0,3,Semi-furnished,Apartment,2.9,Yes,44.23
+Visakhapatnam,IT Corridor,1283.0,3,4,27,1.0,7,Fully-furnished,Independent House,4.6,No,57.33
+Bengaluru,IT Corridor,1453.0,3,3,0,1.0,11,Unfurnished,Apartment,14.9,Yes,43.56
+Bengaluru,IT Corridor,1552.0,3,3,4,2.0,8,Unfurnished,Villa,4.5,Yes,74.73
+Coimbatore,Suburban,1638.0,3,3,15,1.0,2,Unfurnished,Apartment,8.1,Yes,28.36
+Chennai,IT Corridor,745.0,2,2,22,1.0,11,Unfurnished,Apartment,8.7,No,21.05
+Coimbatore,IT Corridor,648.0,1,1,24,1.0,1,Semi-furnished,Apartment,6.5,Yes,28.62
+Bengaluru,IT Corridor,989.0,1,1,10,2.0,4,Fully-furnished,Independent House,7.3,Yes,46.8
+Hyderabad,Outskirts,948.0,2,1,3,1.0,2,Semi-furnished,Villa,2.9,Yes,46.92
+Hyderabad,Outskirts,1115.0,3,3,11,1.0,8,Semi-furnished,Independent House,2.2,Yes,35.11
+Coimbatore,Central,1780.0,5,4,28,3.0,11,Unfurnished,Apartment,1.8,Yes,54.81
+Hyderabad,Suburban,1362.0,3,3,35,1.0,10,Unfurnished,Independent House,5.7,No,32.93
+Chennai,Suburban,1552.0,3,4,33,1.0,3,Semi-furnished,Apartment,4.4,No,26.47
+Chennai,Suburban,813.0,1,1,21,3.0,6,Semi-furnished,Apartment,5.4,Yes,27.79
+Hyderabad,Suburban,1210.0,3,3,3,1.0,3,Unfurnished,Independent House,1.6,Yes,48.8
+Chennai,Suburban,1755.0,4,4,34,3.0,6,Fully-furnished,Villa,2.5,Yes,73.69
+Pune,Residential,1759.0,3,3,5,2.0,4,Semi-furnished,Apartment,7.9,No,41.21
+Hyderabad,IT Corridor,1073.0,2,2,9,2.0,12,Unfurnished,Apartment,5.0,No,43.31
+Coimbatore,Outskirts,1534.0,2,2,35,1.0,12,Semi-furnished,Apartment,4.7,Yes,18.0
+Coimbatore,Central,2593.0,6,5,18,0.0,13,,Apartment,3.7,Yes,65.27
+Chennai,Central,1441.0,3,3,7,1.0,4,Unfurnished,Apartment,2.3,Yes,59.23
+Hyderabad,IT Corridor,1090.0,2,3,18,0.0,1,Semi-furnished,Independent House,9.4,Yes,52.74
+Bengaluru,Central,1360.0,2,3,2,0.0,1,Semi-furnished,Apartment,10.4,Yes,60.85
+Hyderabad,Suburban,1498.0,3,2,11,1.0,13,Semi-furnished,Independent House,4.6,Yes,51.79
+Chennai,Outskirts,1371.0,3,3,34,2.0,14,Fully-furnished,Apartment,4.0,Yes,39.79
+Visakhapatnam,Suburban,1434.0,3,3,10,1.0,4,Semi-furnished,Apartment,10.9,Yes,45.93
+Visakhapatnam,Suburban,699.0,2,2,32,2.0,14,Unfurnished,Apartment,2.6,No,18.0
+Pune,IT Corridor,949.0,3,3,19,3.0,8,Unfurnished,Apartment,3.1,Yes,38.53
+Chennai,IT Corridor,1372.0,3,4,23,2.0,3,Unfurnished,Apartment,7.7,Yes,28.21
+Pune,IT Corridor,1364.0,4,4,25,2.0,5,Unfurnished,Apartment,3.1,Yes,54.55
+Pune,Suburban,1156.0,3,4,19,2.0,4,Unfurnished,Villa,4.4,Yes,41.44
+Chennai,Residential,1358.0,3,4,1,1.0,12,Semi-furnished,Apartment,0.6,Yes,37.8
+Pune,Suburban,1482.0,3,4,33,1.0,3,Unfurnished,Apartment,10.6,Yes,18.0
+Hyderabad,IT Corridor,1912.0,5,4,17,3.0,3,Unfurnished,Independent House,7.3,Yes,49.56
+Hyderabad,Residential,1398.0,4,4,23,2.0,11,Semi-furnished,Apartment,8.9,Yes,43.63
+Bengaluru,Residential,1658.0,4,3,19,2.0,5,Unfurnished,Independent House,2.1,Yes,49.1
+Hyderabad,Suburban,1168.0,2,1,23,3.0,4,Semi-furnished,Villa,12.0,Yes,31.73
+Hyderabad,IT Corridor,1747.0,3,2,12,1.0,13,Semi-furnished,Independent House,4.1,No,55.36
+Coimbatore,Central,1645.0,3,3,30,1.0,14,Unfurnished,Apartment,9.5,Yes,32.81
+Visakhapatnam,Suburban,1900.0,4,3,8,2.0,9,Unfurnished,Independent House,5.6,Yes,34.62
+Bengaluru,Central,1821.0,4,4,23,0.0,13,Semi-furnished,Apartment,7.5,Yes,47.79
+Coimbatore,Residential,1756.0,4,5,20,1.0,13,Unfurnished,Apartment,5.9,No,33.75
+Visakhapatnam,Suburban,1399.0,4,5,18,2.0,9,Semi-furnished,Villa,3.0,Yes,57.83
+Hyderabad,Residential,1577.0,4,5,0,2.0,13,Semi-furnished,Apartment,1.1,Yes,58.02
+Bengaluru,Central,2003.0,5,4,14,1.0,1,Semi-furnished,Independent House,9.9,Yes,78.67
+Chennai,Residential,1111.0,2,2,1,2.0,1,Semi-furnished,Apartment,0.3,Yes,64.49
+Hyderabad,Residential,1123.0,3,3,18,1.0,14,Fully-furnished,Apartment,8.0,Yes,38.04
+Pune,Central,1544.0,3,2,24,2.0,3,Unfurnished,Apartment,9.9,No,24.85
+Bengaluru,Central,1666.0,2,3,18,0.0,11,Fully-furnished,Independent House,1.3,Yes,63.58
+Bengaluru,Central,1021.0,2,2,27,2.0,7,Semi-furnished,Apartment,3.2,Yes,44.83
+Hyderabad,Residential,1411.0,4,5,12,1.0,12,Unfurnished,Independent House,1.2,Yes,56.31
+Hyderabad,Suburban,1401.0,3,2,11,1.0,10,Unfurnished,Apartment,2.7,Yes,43.58
+Coimbatore,IT Corridor,450.0,2,2,16,1.0,2,Unfurnished,Villa,8.9,Yes,62.69
+Hyderabad,IT Corridor,1336.0,3,2,8,1.0,6,Fully-furnished,Apartment,7.4,Yes,37.17
+Chennai,Residential,1368.0,5,5,28,1.0,11,Unfurnished,Independent House,,Yes,41.65
+Chennai,IT Corridor,1367.0,3,3,29,2.0,14,Fully-furnished,Apartment,3.2,Yes,59.97
+Bengaluru,IT Corridor,2186.0,5,4,14,2.0,13,Semi-furnished,Apartment,0.4,No,62.95
+Bengaluru,Outskirts,818.0,1,1,28,1.0,14,Semi-furnished,Independent House,1.5,Yes,34.08
+Bengaluru,Suburban,1021.0,3,3,0,2.0,15,Semi-furnished,Apartment,3.7,Yes,52.73
+Hyderabad,Residential,450.0,1,1,5,2.0,14,Unfurnished,Apartment,1.8,Yes,42.42
+Chennai,Central,1200.0,2,1,10,2.0,9,Semi-furnished,Independent House,8.1,Yes,66.62
+Coimbatore,IT Corridor,1244.0,4,5,13,1.0,6,Fully-furnished,Independent House,12.3,Yes,56.19
+Bengaluru,Outskirts,1185.0,3,4,8,0.0,8,Unfurnished,Independent House,5.6,Yes,25.75
+Pune,Residential,2026.0,5,5,18,3.0,12,Fully-furnished,Independent House,1.3,No,62.35
+Pune,Residential,1898.0,4,5,28,1.0,7,Fully-furnished,Villa,10.2,Yes,80.79
+Pune,Suburban,1490.0,3,3,16,1.0,13,Unfurnished,Apartment,4.7,Yes,24.94
+Hyderabad,IT Corridor,1257.0,3,2,16,2.0,11,Semi-furnished,Apartment,4.3,Yes,51.21
+Chennai,Suburban,1984.0,5,5,2,1.0,4,Unfurnished,Independent House,6.4,Yes,38.78
+Bengaluru,IT Corridor,1440.0,4,3,10,2.0,14,Semi-furnished,Independent House,1.6,Yes,57.27
+Chennai,IT Corridor,1024.0,3,4,29,0.0,13,Fully-furnished,Apartment,3.2,Yes,49.69
+Coimbatore,Suburban,558.0,3,3,29,2.0,9,Fully-furnished,Apartment,4.1,Yes,31.29
+Bengaluru,Suburban,1221.0,3,2,3,3.0,3,Fully-furnished,Apartment,5.2,No,44.84
+Pune,Suburban,1842.0,4,4,0,3.0,4,Unfurnished,Independent House,5.6,Yes,53.78
+Coimbatore,Suburban,2634.0,6,5,29,3.0,13,Semi-furnished,Apartment,6.4,Yes,31.49
+Bengaluru,Suburban,1482.0,4,5,6,2.0,1,Unfurnished,Independent House,2.7,Yes,65.93
+Coimbatore,Outskirts,1052.0,4,4,20,1.0,8,Fully-furnished,Independent House,0.9,Yes,40.66
+Bengaluru,IT Corridor,834.0,3,2,29,3.0,10,Unfurnished,Apartment,3.6,No,22.36
+Coimbatore,Suburban,1737.0,4,5,28,3.0,4,Unfurnished,Apartment,4.0,Yes,37.34
+Chennai,Residential,532.0,1,1,19,1.0,13,Unfurnished,Apartment,0.8,Yes,30.55
+Bengaluru,Residential,1736.0,4,4,13,1.0,8,Unfurnished,Apartment,2.6,Yes,50.62
+Bengaluru,Suburban,1875.0,5,5,27,0.0,1,Unfurnished,Apartment,4.9,Yes,45.55
+Hyderabad,Suburban,1677.0,4,5,25,1.0,5,Unfurnished,Apartment,3.0,Yes,41.45
+Chennai,Central,1336.0,3,3,30,2.0,6,Fully-furnished,Independent House,4.8,No,45.95
+Visakhapatnam,Central,1744.0,4,3,18,1.0,4,Semi-furnished,Apartment,2.9,Yes,50.87
+Bengaluru,Residential,1539.0,3,2,33,1.0,15,Unfurnished,Apartment,6.7,Yes,39.26
+Hyderabad,Outskirts,1045.0,2,2,27,1.0,6,Semi-furnished,Apartment,2.0,Yes,31.94
+Chennai,Central,2412.0,5,5,2,0.0,8,Semi-furnished,Independent House,4.3,Yes,82.13
+Hyderabad,Residential,1267.0,4,4,10,3.0,9,Semi-furnished,Apartment,4.5,Yes,45.88
+Hyderabad,Central,1853.0,4,4,28,1.0,4,Unfurnished,Apartment,7.9,Yes,51.09
+Visakhapatnam,IT Corridor,450.0,1,1,4,1.0,9,Semi-furnished,Villa,3.4,Yes,58.65
+Bengaluru,Residential,2114.0,4,4,25,0.0,6,Unfurnished,Apartment,12.2,Yes,35.71
+Chennai,Suburban,2214.0,5,4,12,2.0,1,Unfurnished,Apartment,11.9,No,36.64
+Bengaluru,Central,1466.0,4,4,7,2.0,7,Semi-furnished,Apartment,2.1,Yes,69.94
+Hyderabad,IT Corridor,1741.0,5,5,19,0.0,9,Semi-furnished,Independent House,4.2,Yes,74.13
+Chennai,Outskirts,1740.0,4,5,33,1.0,2,Semi-furnished,Independent House,1.5,Yes,27.89
+Pune,Suburban,1116.0,3,4,32,1.0,12,Unfurnished,Apartment,6.0,Yes,39.67
+Bengaluru,Suburban,1735.0,4,5,14,1.0,10,Semi-furnished,Independent House,2.9,Yes,70.65
+Visakhapatnam,Central,1030.0,3,2,0,2.0,5,Semi-furnished,Independent House,4.7,Yes,60.08
+Bengaluru,IT Corridor,1133.0,3,4,31,0.0,9,Unfurnished,Independent House,3.6,Yes,44.26
+Bengaluru,IT Corridor,2036.0,4,4,32,1.0,5,Unfurnished,Independent House,20.9,Yes,48.11
+Pune,Residential,1957.0,4,4,21,1.0,10,Unfurnished,Independent House,3.9,Yes,48.17
+Coimbatore,Residential,1083.0,3,4,22,1.0,3,Unfurnished,Apartment,3.6,No,26.83
+Pune,Outskirts,1069.0,2,3,18,1.0,10,Unfurnished,Apartment,8.2,Yes,18.0
+Visakhapatnam,Residential,1114.0,2,2,0,1.0,1,Unfurnished,Villa,9.0,Yes,36.9
+Pune,Suburban,1831.0,5,5,5,1.0,1,Semi-furnished,Apartment,5.2,Yes,72.5
+Coimbatore,IT Corridor,930.0,4,4,5,0.0,4,Semi-furnished,Apartment,9.2,Yes,43.2
+Hyderabad,Suburban,1635.0,3,3,32,0.0,3,Semi-furnished,Villa,18.7,Yes,41.01
+Pune,Suburban,1838.0,3,3,1,3.0,8,Semi-furnished,Independent House,3.4,Yes,61.47
+Bengaluru,Outskirts,1404.0,2,2,20,1.0,3,Unfurnished,Independent House,1.6,Yes,30.86
+Bengaluru,Residential,1975.0,4,4,13,1.0,4,Fully-furnished,Independent House,5.7,Yes,65.26
+Pune,Outskirts,1292.0,3,3,0,1.0,2,Semi-furnished,Apartment,8.6,Yes,35.2
+Visakhapatnam,IT Corridor,1339.0,3,2,33,2.0,14,Semi-furnished,Independent House,11.5,Yes,37.13
+Visakhapatnam,IT Corridor,942.0,2,3,0,3.0,12,Unfurnished,Villa,6.4,Yes,55.89
+Chennai,IT Corridor,1979.0,4,3,30,2.0,4,Semi-furnished,Apartment,4.4,Yes,53.13
+Pune,Central,1051.0,2,3,27,2.0,2,Semi-furnished,Apartment,2.3,Yes,44.55
+Pune,Suburban,1632.0,3,2,28,2.0,13,Semi-furnished,Independent House,10.0,Yes,43.06
+Chennai,IT Corridor,1413.0,3,3,5,1.0,11,Semi-furnished,Apartment,5.4,Yes,56.05
+Hyderabad,Central,903.0,1,1,31,2.0,14,Fully-furnished,Apartment,0.9,Yes,39.58
+Hyderabad,Outskirts,1133.0,2,2,21,2.0,3,Fully-furnished,Apartment,14.9,Yes,20.46
+Pune,Central,2169.0,4,4,14,0.0,6,Semi-furnished,Apartment,1.7,Yes,72.47
+Bengaluru,Suburban,1555.0,4,5,24,1.0,2,Fully-furnished,Apartment,8.7,Yes,38.68
+Visakhapatnam,Residential,925.0,2,1,12,1.0,7,Fully-furnished,Independent House,5.1,Yes,29.19
+Bengaluru,Central,1609.0,4,5,10,0.0,3,Unfurnished,Independent House,1.0,Yes,72.39
+Visakhapatnam,Outskirts,1374.0,2,2,10,2.0,1,Semi-furnished,Independent House,4.0,Yes,32.71
+Chennai,Residential,3246.0,6,5,20,0.0,8,Unfurnished,Apartment,3.4,Yes,50.76
+Coimbatore,Central,1598.0,4,3,21,,15,Unfurnished,Apartment,1.2,Yes,54.33
+Hyderabad,Residential,1252.0,1,1,8,,10,Unfurnished,Apartment,6.0,Yes,35.55
+Bengaluru,Residential,2188.0,5,5,8,1.0,12,Semi-furnished,Independent House,7.9,No,55.68
+Coimbatore,Residential,493.0,1,1,34,1.0,13,Unfurnished,Villa,4.3,No,44.56
+Visakhapatnam,Residential,1499.0,4,4,18,2.0,15,Unfurnished,Apartment,3.4,Yes,28.26
+Coimbatore,Residential,2487.0,5,5,30,2.0,2,Unfurnished,Villa,6.3,Yes,59.13
+Hyderabad,IT Corridor,1390.0,4,4,11,1.0,4,Semi-furnished,Apartment,0.3,Yes,41.82
+Chennai,Suburban,549.0,3,3,10,1.0,10,Fully-furnished,Apartment,3.1,Yes,41.52
+Hyderabad,Residential,1244.0,1,1,10,2.0,13,Fully-furnished,Independent House,3.3,Yes,46.66
+Hyderabad,Outskirts,2206.0,5,5,19,3.0,12,Semi-furnished,Apartment,4.4,Yes,56.09
+Pune,IT Corridor,1646.0,2,1,28,1.0,11,Unfurnished,Villa,1.1,Yes,56.66
+Pune,Residential,1014.0,3,3,18,1.0,5,Fully-furnished,Apartment,0.7,Yes,56.07
+Pune,IT Corridor,1094.0,2,2,10,3.0,6,Unfurnished,Independent House,1.9,Yes,50.45
+Coimbatore,Residential,1159.0,3,3,34,1.0,2,Fully-furnished,Apartment,6.0,Yes,18.96
+Pune,Outskirts,1638.0,3,3,20,0.0,5,Semi-furnished,Apartment,3.2,Yes,33.7
+Coimbatore,Suburban,2146.0,5,5,14,1.0,3,Semi-furnished,Apartment,1.8,Yes,47.17
+Hyderabad,Suburban,1997.0,3,4,0,0.0,15,Unfurnished,Villa,13.4,Yes,43.83
+Chennai,IT Corridor,1687.0,4,5,20,1.0,2,Unfurnished,Apartment,3.4,Yes,40.86
+Bengaluru,IT Corridor,758.0,1,1,22,2.0,6,Semi-furnished,Apartment,4.4,No,26.06
+Coimbatore,IT Corridor,759.0,1,1,33,2.0,14,Unfurnished,Apartment,9.9,Yes,31.44
+Hyderabad,Central,1727.0,5,5,8,1.0,15,Semi-furnished,Apartment,4.8,Yes,68.56
+Bengaluru,IT Corridor,750.0,2,2,5,1.0,6,Semi-furnished,Apartment,6.3,Yes,40.31
+Pune,IT Corridor,1333.0,4,3,35,1.0,7,Semi-furnished,Independent House,2.2,No,50.53
+Hyderabad,IT Corridor,1608.0,4,4,19,2.0,8,Unfurnished,Apartment,4.6,Yes,33.87
+Chennai,Residential,858.0,1,2,0,2.0,13,Semi-furnished,Apartment,12.3,Yes,28.79
+Coimbatore,Residential,917.0,2,3,3,2.0,12,Unfurnished,Apartment,5.8,Yes,38.96
+Pune,Residential,1401.0,3,3,17,2.0,8,Semi-furnished,Apartment,5.2,Yes,44.27
+Chennai,Residential,1712.0,5,5,22,2.0,6,Semi-furnished,Apartment,3.6,Yes,46.68
+Coimbatore,Residential,2002.0,4,4,8,2.0,6,Semi-furnished,Apartment,1.4,Yes,52.25
+Chennai,IT Corridor,1766.0,4,4,13,1.0,10,Semi-furnished,Apartment,9.2,Yes,52.85
+Coimbatore,IT Corridor,1488.0,3,3,26,3.0,13,Unfurnished,Independent House,4.1,Yes,47.6
+Chennai,Central,1062.0,2,1,34,2.0,2,Semi-furnished,Apartment,2.5,Yes,43.78
+Bengaluru,Suburban,893.0,3,3,17,,12,Semi-furnished,Independent House,1.3,Yes,49.93
+Chennai,IT Corridor,1184.0,3,2,14,0.0,8,Semi-furnished,Apartment,5.4,Yes,45.79
+Chennai,Outskirts,1663.0,3,4,13,2.0,3,Semi-furnished,Independent House,1.7,Yes,62.01
+Coimbatore,Residential,1625.0,3,3,4,1.0,2,Fully-furnished,Villa,9.2,Yes,68.86
+Hyderabad,Central,450.0,1,1,1,2.0,6,Unfurnished,Apartment,2.6,Yes,54.45
+Hyderabad,IT Corridor,1041.0,1,1,30,1.0,4,Unfurnished,Apartment,4.6,Yes,22.78
+Chennai,Suburban,2076.0,4,3,1,0.0,2,Semi-furnished,Apartment,5.7,No,32.8
+Pune,Residential,1491.0,4,5,29,1.0,5,Unfurnished,Independent House,,Yes,45.05
+Coimbatore,Residential,713.0,2,2,8,2.0,13,,Apartment,7.9,Yes,31.14
+Visakhapatnam,IT Corridor,2675.0,6,5,25,0.0,11,Unfurnished,Apartment,2.8,Yes,64.55
+Chennai,IT Corridor,1435.0,1,2,34,2.0,4,Unfurnished,Apartment,4.4,Yes,22.82
+Chennai,Suburban,1650.0,4,3,26,1.0,11,Unfurnished,Apartment,6.5,Yes,32.62
+Hyderabad,IT Corridor,1658.0,3,3,26,1.0,7,Semi-furnished,Independent House,11.6,Yes,51.18
+Bengaluru,Residential,1259.0,2,3,9,1.0,12,Semi-furnished,Apartment,7.6,Yes,43.01
+Visakhapatnam,Residential,1072.0,2,2,21,1.0,4,Unfurnished,Independent House,8.5,Yes,30.81
+Pune,IT Corridor,2553.0,5,5,23,2.0,1,Unfurnished,Independent House,3.4,Yes,71.12
+Bengaluru,Suburban,1972.0,3,3,15,2.0,5,Unfurnished,Apartment,5.8,No,51.19
+Chennai,Central,1877.0,5,5,1,0.0,15,Unfurnished,Apartment,10.5,Yes,67.46
+Visakhapatnam,Suburban,1750.0,4,5,32,1.0,9,Semi-furnished,Villa,4.2,No,50.35
+Bengaluru,Suburban,928.0,2,3,7,2.0,1,Unfurnished,Independent House,5.8,Yes,37.71
+Hyderabad,Suburban,2114.0,4,4,35,2.0,15,Unfurnished,Independent House,1.0,Yes,63.35
+Chennai,Outskirts,1012.0,1,1,33,1.0,13,Unfurnished,Villa,7.0,Yes,18.0
+Hyderabad,IT Corridor,1597.0,4,4,0,2.0,9,Semi-furnished,Apartment,5.2,Yes,75.38
+Hyderabad,Suburban,598.0,2,1,26,0.0,12,Semi-furnished,Independent House,6.7,Yes,38.72
+Hyderabad,Central,450.0,1,1,22,0.0,3,Semi-furnished,Independent House,3.5,Yes,50.75
+Bengaluru,Suburban,1616.0,3,2,8,2.0,9,Semi-furnished,Apartment,0.8,Yes,57.52
+Bengaluru,Residential,1029.0,2,2,29,2.0,14,Fully-furnished,Apartment,,Yes,19.22
+Chennai,Suburban,450.0,1,1,4,2.0,7,Semi-furnished,Apartment,2.5,Yes,24.08
+Bengaluru,Residential,1731.0,4,4,8,1.0,1,Fully-furnished,Apartment,1.1,Yes,65.5
+Visakhapatnam,Residential,2552.0,6,5,34,1.0,12,Semi-furnished,Apartment,4.9,Yes,41.46
+Pune,Central,2173.0,3,3,26,2.0,11,Unfurnished,Independent House,12.5,Yes,48.5
+Bengaluru,IT Corridor,1316.0,3,3,4,1.0,12,Semi-furnished,Independent House,2.2,Yes,69.63
+Chennai,Outskirts,1455.0,2,2,5,1.0,10,Semi-furnished,Apartment,2.6,Yes,33.27
+Coimbatore,IT Corridor,1912.0,3,3,9,2.0,3,Semi-furnished,Apartment,7.4,No,34.29
+Chennai,Central,2034.0,4,3,2,1.0,2,Unfurnished,Apartment,3.7,Yes,65.87
+Chennai,Outskirts,1271.0,3,2,6,1.0,12,Semi-furnished,Apartment,7.2,Yes,35.15
+Coimbatore,Outskirts,1468.0,2,2,20,1.0,13,Fully-furnished,Apartment,3.6,Yes,25.92
+Bengaluru,IT Corridor,1606.0,4,5,0,2.0,2,Unfurnished,Apartment,3.2,Yes,69.54
+Pune,IT Corridor,1738.0,4,3,10,1.0,9,Unfurnished,Independent House,2.3,Yes,61.88
+Bengaluru,Suburban,1381.0,3,3,11,1.0,8,Unfurnished,Apartment,5.5,Yes,50.85
+Pune,Residential,1388.0,2,2,34,0.0,6,Semi-furnished,Apartment,2.3,No,28.27
+Chennai,IT Corridor,2168.0,4,4,35,0.0,10,Semi-furnished,Independent House,3.0,Yes,66.19
+Chennai,Central,2079.0,5,5,30,1.0,14,Semi-furnished,Apartment,,Yes,36.11
+Chennai,Residential,1698.0,3,3,12,2.0,13,Fully-furnished,Independent House,,Yes,53.13
+Hyderabad,Outskirts,2344.0,5,4,18,0.0,3,Semi-furnished,Apartment,6.0,Yes,39.95
+Coimbatore,Residential,1249.0,3,3,18,1.0,7,Unfurnished,Apartment,9.4,No,18.0
+Chennai,Suburban,2294.0,5,5,30,0.0,15,Unfurnished,Apartment,3.3,Yes,51.72
+Bengaluru,Central,1732.0,3,2,26,1.0,4,Unfurnished,Apartment,3.7,No,51.1
+Coimbatore,Outskirts,3151.0,6,5,32,0.0,13,Semi-furnished,Villa,5.1,Yes,39.7
+Pune,Outskirts,830.0,2,2,19,2.0,8,Unfurnished,Apartment,2.5,Yes,28.27
+Bengaluru,IT Corridor,1092.0,2,3,33,2.0,8,Unfurnished,Apartment,3.1,Yes,42.17
+Bengaluru,Residential,1668.0,4,4,26,2.0,4,Fully-furnished,Apartment,7.0,Yes,45.79
+Visakhapatnam,IT Corridor,1657.0,4,5,26,1.0,14,Semi-furnished,Villa,4.5,Yes,57.11
+Pune,IT Corridor,2464.0,5,5,23,2.0,8,Unfurnished,Apartment,4.0,Yes,46.26
+Coimbatore,Central,1102.0,3,3,12,2.0,9,Semi-furnished,Apartment,3.8,Yes,44.69
+Coimbatore,Central,1921.0,3,4,21,0.0,7,Semi-furnished,Villa,1.9,Yes,64.01
+Pune,Suburban,2054.0,4,5,12,1.0,2,Fully-furnished,Apartment,4.9,Yes,61.23
+Hyderabad,Residential,1816.0,5,5,23,2.0,12,Semi-furnished,Apartment,2.5,Yes,56.31
+Bengaluru,Suburban,950.0,3,3,9,1.0,5,Unfurnished,Apartment,1.0,Yes,31.64
+Hyderabad,Suburban,2182.0,5,5,28,,4,Unfurnished,Apartment,1.6,Yes,49.73
+Pune,IT Corridor,2089.0,4,5,20,2.0,12,Unfurnished,Independent House,3.9,Yes,60.91
+Visakhapatnam,Suburban,1762.0,3,2,25,0.0,3,Semi-furnished,Apartment,6.6,Yes,21.68
+Bengaluru,Suburban,1556.0,3,3,7,3.0,11,Semi-furnished,Villa,7.8,Yes,54.23
+Bengaluru,IT Corridor,1568.0,4,4,28,1.0,8,Semi-furnished,Apartment,1.3,Yes,58.68
+Hyderabad,Suburban,1409.0,2,2,28,0.0,12,Semi-furnished,Apartment,6.2,No,27.72
+Visakhapatnam,Residential,1783.0,4,4,5,0.0,1,Unfurnished,Independent House,13.0,Yes,49.0
+Hyderabad,Outskirts,1466.0,5,5,12,1.0,12,Unfurnished,Apartment,8.1,Yes,29.74
+Hyderabad,Suburban,1009.0,2,2,24,2.0,4,Unfurnished,Apartment,4.8,Yes,28.89
+Chennai,Outskirts,905.0,1,2,31,2.0,14,Unfurnished,Apartment,5.1,Yes,18.0
+Hyderabad,Outskirts,1059.0,1,1,26,2.0,6,Semi-furnished,Independent House,4.7,Yes,20.32
+Bengaluru,Residential,1566.0,4,3,16,1.0,1,Fully-furnished,Independent House,3.0,Yes,63.23
+Bengaluru,Residential,1436.0,3,2,10,1.0,8,Unfurnished,Apartment,8.4,Yes,42.55
+Chennai,Residential,1562.0,4,4,32,1.0,1,Semi-furnished,Apartment,2.0,No,24.63
+Hyderabad,Residential,1710.0,3,3,31,0.0,5,Unfurnished,Apartment,5.0,No,21.16
+Hyderabad,Residential,1124.0,3,3,32,2.0,11,Semi-furnished,Apartment,1.0,Yes,35.5
+Chennai,Central,2212.0,4,4,10,1.0,9,Unfurnished,Apartment,8.9,Yes,61.4
+Hyderabad,Outskirts,1311.0,2,1,15,1.0,11,Semi-furnished,Villa,,Yes,38.91
+Pune,IT Corridor,1225.0,2,3,8,1.0,14,Unfurnished,Apartment,1.2,Yes,47.26
+Hyderabad,Residential,1701.0,3,4,34,2.0,8,Unfurnished,Apartment,10.9,Yes,34.13
+Chennai,Suburban,495.0,3,3,31,1.0,9,Semi-furnished,Apartment,4.1,No,19.26
+Chennai,Central,1039.0,2,2,6,2.0,1,Unfurnished,Apartment,1.5,Yes,49.26
+Chennai,IT Corridor,1960.0,4,5,8,2.0,5,Semi-furnished,Apartment,13.8,Yes,42.23
+Hyderabad,IT Corridor,547.0,1,1,19,2.0,11,Unfurnished,Apartment,3.6,No,21.74
+Hyderabad,IT Corridor,2031.0,4,3,14,0.0,1,Fully-furnished,Apartment,2.3,Yes,72.12
+Coimbatore,Suburban,2236.0,4,4,16,1.0,6,Unfurnished,Apartment,5.2,No,47.0
+Hyderabad,Suburban,1258.0,3,3,13,1.0,3,Semi-furnished,Independent House,1.7,Yes,56.96
+Bengaluru,IT Corridor,1602.0,3,3,24,2.0,13,Fully-furnished,Apartment,3.0,Yes,65.4
+Bengaluru,Suburban,2032.0,4,4,32,3.0,9,Semi-furnished,Apartment,10.0,Yes,30.7
+Chennai,Outskirts,1207.0,3,3,33,1.0,10,Unfurnished,Apartment,3.7,Yes,18.0
+Bengaluru,Suburban,1901.0,4,4,16,1.0,11,Semi-furnished,Apartment,5.9,No,43.99
+Pune,Suburban,1101.0,3,3,29,1.0,4,Unfurnished,Apartment,10.3,Yes,42.05
+Coimbatore,Suburban,1202.0,3,3,24,2.0,1,Semi-furnished,Apartment,3.6,Yes,30.57
+Chennai,IT Corridor,1034.0,3,3,7,1.0,6,Semi-furnished,Apartment,2.2,Yes,55.22
+Chennai,IT Corridor,1628.0,4,4,28,1.0,3,Semi-furnished,Apartment,6.7,Yes,47.9
+Chennai,Residential,2052.0,3,3,12,2.0,5,Semi-furnished,Apartment,1.4,No,51.63
+Bengaluru,Outskirts,1354.0,2,3,22,1.0,5,Unfurnished,Independent House,2.0,No,32.87
+Pune,Suburban,789.0,1,1,25,1.0,12,Unfurnished,Villa,1.2,Yes,30.89
+Hyderabad,Residential,887.0,1,1,33,0.0,5,Unfurnished,Independent House,9.9,No,18.0
+Chennai,Central,1655.0,4,4,34,1.0,3,Semi-furnished,Apartment,4.6,Yes,56.6
+Visakhapatnam,Suburban,2409.0,5,5,28,2.0,15,Unfurnished,Independent House,6.9,No,39.0
+Hyderabad,IT Corridor,1655.0,4,4,18,1.0,1,Semi-furnished,Apartment,2.2,Yes,39.83
+Bengaluru,Central,1249.0,1,1,14,1.0,4,Semi-furnished,Apartment,5.8,Yes,47.23
+Pune,IT Corridor,1848.0,5,5,15,0.0,6,Fully-furnished,Villa,5.9,Yes,80.74
+Hyderabad,Residential,1325.0,2,2,34,0.0,1,Unfurnished,Independent House,13.7,Yes,32.14
+Hyderabad,Residential,1253.0,4,3,7,2.0,14,Unfurnished,Apartment,6.5,No,49.04
+Hyderabad,IT Corridor,952.0,1,1,18,2.0,6,Unfurnished,Villa,7.8,Yes,42.13
+Visakhapatnam,IT Corridor,2182.0,4,4,24,1.0,12,Semi-furnished,Apartment,4.8,No,37.23
+Hyderabad,Suburban,450.0,1,1,0,1.0,3,Unfurnished,Apartment,0.3,Yes,28.55
+Hyderabad,Central,1865.0,4,4,22,1.0,8,Unfurnished,Apartment,5.4,Yes,57.33
+Hyderabad,Central,1209.0,2,3,9,1.0,2,Unfurnished,Apartment,3.8,Yes,29.15
+Hyderabad,Residential,1237.0,2,2,10,0.0,4,Semi-furnished,Villa,3.7,Yes,58.31
+Bengaluru,Outskirts,2330.0,4,5,22,3.0,7,Fully-furnished,Apartment,3.1,No,60.41
+Chennai,Central,1079.0,3,3,0,0.0,13,Unfurnished,Apartment,3.7,Yes,55.11
+Bengaluru,IT Corridor,1096.0,3,4,5,1.0,5,Unfurnished,Independent House,2.6,Yes,65.01
+Bengaluru,Residential,1382.0,4,4,16,0.0,12,Semi-furnished,Independent House,7.3,Yes,61.28
+Coimbatore,Residential,1665.0,3,4,21,2.0,2,Unfurnished,Villa,1.9,No,31.15
+Hyderabad,IT Corridor,1220.0,3,3,3,1.0,4,Fully-furnished,Villa,12.6,No,75.72
+Coimbatore,IT Corridor,632.0,1,1,13,3.0,10,Semi-furnished,Independent House,6.9,No,41.19
+Bengaluru,Residential,1000.0,2,2,11,0.0,8,Semi-furnished,Apartment,8.7,Yes,45.16
+Hyderabad,Residential,2116.0,4,4,19,2.0,8,Fully-furnished,Apartment,2.0,No,46.07
+Pune,Central,1489.0,3,3,10,2.0,11,Semi-furnished,Villa,2.9,Yes,59.56
+Coimbatore,Outskirts,1685.0,4,5,0,1.0,2,Unfurnished,Apartment,4.7,No,47.66
+Chennai,Central,1314.0,3,3,19,1.0,11,Semi-furnished,Apartment,4.4,Yes,39.18
+Visakhapatnam,Residential,1107.0,2,1,30,1.0,13,Unfurnished,Apartment,6.9,Yes,18.19
+Bengaluru,Central,2322.0,5,5,21,2.0,12,Semi-furnished,Apartment,4.4,Yes,73.8
+Bengaluru,Suburban,1352.0,3,4,13,2.0,5,Fully-furnished,Apartment,13.0,Yes,49.45
+Visakhapatnam,Central,1219.0,2,2,17,1.0,6,Unfurnished,Independent House,2.0,Yes,55.9
+Chennai,IT Corridor,2020.0,4,4,5,1.0,15,Semi-furnished,Apartment,1.7,Yes,63.7
+Coimbatore,Suburban,1074.0,2,2,8,1.0,12,Unfurnished,Apartment,2.8,Yes,22.53
+Chennai,Suburban,1141.0,4,4,15,1.0,14,Unfurnished,Apartment,3.7,No,39.14
+Coimbatore,IT Corridor,1455.0,3,3,21,2.0,14,Semi-furnished,Independent House,9.2,Yes,52.74
+Bengaluru,IT Corridor,1450.0,3,3,17,1.0,7,Semi-furnished,Apartment,5.7,Yes,35.24
+Hyderabad,Residential,1585.0,3,3,34,1.0,2,Semi-furnished,Apartment,0.3,Yes,51.88
+Chennai,Outskirts,2538.0,6,5,22,2.0,4,Unfurnished,Apartment,0.4,Yes,29.13
+Chennai,Residential,1625.0,4,3,0,2.0,5,Unfurnished,Apartment,4.0,Yes,59.18
+Hyderabad,Central,450.0,1,1,18,2.0,13,Semi-furnished,Apartment,3.2,Yes,31.3
+Hyderabad,Suburban,1620.0,3,2,20,0.0,5,Semi-furnished,Apartment,4.1,Yes,43.04
+Chennai,Outskirts,1470.0,3,3,1,2.0,6,Semi-furnished,Apartment,3.7,Yes,44.88
+Hyderabad,Central,1473.0,3,3,13,1.0,13,Semi-furnished,Independent House,11.8,Yes,53.27
+Hyderabad,IT Corridor,1578.0,3,3,31,1.0,3,Fully-furnished,Apartment,8.3,Yes,47.54
+Pune,Outskirts,1435.0,3,4,12,0.0,10,Semi-furnished,Apartment,2.9,Yes,34.3
+Pune,Outskirts,1423.0,4,4,16,2.0,9,Unfurnished,Independent House,4.3,Yes,48.03
+Pune,IT Corridor,1769.0,3,3,7,1.0,15,Semi-furnished,Independent House,3.5,Yes,80.4
+Chennai,Residential,1168.0,2,2,2,2.0,8,Semi-furnished,Apartment,0.6,Yes,36.36
+Coimbatore,IT Corridor,957.0,2,2,11,2.0,8,Fully-furnished,Apartment,3.0,Yes,20.69
+Bengaluru,Residential,3022.0,6,5,27,2.0,13,Semi-furnished,Apartment,3.0,Yes,67.83
+Hyderabad,Central,1078.0,4,4,35,2.0,15,Semi-furnished,Apartment,2.5,Yes,42.1
+Hyderabad,Suburban,1502.0,4,4,23,3.0,11,Unfurnished,Independent House,2.9,Yes,47.77
+Pune,IT Corridor,672.0,2,2,29,1.0,11,Semi-furnished,Apartment,3.5,Yes,25.45
+Hyderabad,Suburban,1511.0,3,4,23,1.0,14,Fully-furnished,Apartment,6.0,Yes,48.92
+Bengaluru,Residential,965.0,2,2,23,2.0,15,Fully-furnished,Independent House,2.7,Yes,38.71
+Visakhapatnam,Suburban,1220.0,2,1,15,1.0,12,Unfurnished,Independent House,10.1,Yes,33.54
+Hyderabad,Outskirts,1993.0,5,5,2,1.0,5,,Villa,2.0,Yes,72.8
+Hyderabad,Residential,1695.0,4,4,14,2.0,10,Semi-furnished,Independent House,9.0,Yes,58.36
+Visakhapatnam,IT Corridor,1746.0,4,5,31,1.0,4,Semi-furnished,Apartment,5.4,Yes,47.36
+Bengaluru,Residential,529.0,1,1,19,2.0,8,Fully-furnished,Apartment,1.6,No,39.67
+Hyderabad,Suburban,2405.0,5,4,27,1.0,7,Unfurnished,Apartment,3.5,Yes,47.76
+Coimbatore,IT Corridor,830.0,2,2,1,2.0,15,Semi-furnished,Independent House,12.1,Yes,43.19
+Coimbatore,Suburban,2245.0,5,5,7,0.0,9,Semi-furnished,Apartment,2.1,No,50.51
+Bengaluru,Residential,1981.0,3,3,10,2.0,15,Unfurnished,Apartment,12.3,Yes,51.04
+Bengaluru,Residential,1750.0,4,5,12,2.0,13,Unfurnished,Apartment,6.1,Yes,60.04
+Chennai,Outskirts,1005.0,2,2,35,1.0,13,Semi-furnished,Independent House,5.4,No,18.0
+Hyderabad,Outskirts,1529.0,3,2,16,1.0,3,Unfurnished,Apartment,5.9,Yes,26.56
+Bengaluru,Outskirts,1205.0,1,1,23,1.0,12,Semi-furnished,Apartment,3.4,Yes,18.0
+Chennai,Suburban,1465.0,3,3,23,1.0,4,Semi-furnished,Independent House,2.1,Yes,50.56
+Pune,Outskirts,1320.0,4,4,15,1.0,9,Semi-furnished,Independent House,4.5,Yes,49.21
+Coimbatore,IT Corridor,450.0,2,1,34,0.0,8,Unfurnished,Apartment,5.6,Yes,18.0
+Hyderabad,IT Corridor,2033.0,4,3,8,2.0,4,Fully-furnished,Apartment,6.3,Yes,57.55
+Bengaluru,IT Corridor,1408.0,4,4,1,1.0,15,Semi-furnished,Villa,6.1,Yes,81.96
+Chennai,Suburban,1198.0,3,3,26,1.0,14,Semi-furnished,Apartment,7.2,Yes,29.28
+Coimbatore,Suburban,1159.0,3,3,23,1.0,9,Semi-furnished,Apartment,15.4,No,28.84
+Chennai,Suburban,1636.0,3,3,9,0.0,1,Semi-furnished,Villa,5.2,Yes,73.07
+Bengaluru,Central,985.0,2,2,31,0.0,3,Fully-furnished,Apartment,9.7,No,40.08
+Bengaluru,IT Corridor,450.0,1,1,5,3.0,4,Semi-furnished,Apartment,6.5,Yes,41.59
+Chennai,Outskirts,1662.0,2,1,9,2.0,15,Semi-furnished,Apartment,16.5,No,33.9
+Pune,Residential,1720.0,4,4,5,0.0,7,Unfurnished,Apartment,4.7,Yes,49.45
+Pune,IT Corridor,1346.0,2,2,6,2.0,1,Unfurnished,Apartment,4.3,Yes,42.03
+Bengaluru,IT Corridor,853.0,1,1,26,1.0,9,Semi-furnished,Independent House,9.3,Yes,31.96
+Pune,IT Corridor,1496.0,2,2,25,0.0,15,Unfurnished,Apartment,9.3,Yes,25.68
+Visakhapatnam,Suburban,688.0,1,1,23,2.0,9,Semi-furnished,Independent House,3.6,Yes,31.96
+Chennai,Residential,916.0,3,3,30,1.0,7,Fully-furnished,Independent House,6.3,Yes,45.88
+Bengaluru,Suburban,1060.0,4,4,2,1.0,3,Semi-furnished,Independent House,7.3,Yes,42.59
+Hyderabad,Residential,1889.0,3,3,22,2.0,14,Unfurnished,Apartment,7.0,No,33.32
+Coimbatore,Residential,1261.0,2,2,4,1.0,2,Semi-furnished,Independent House,5.9,No,43.24
+Bengaluru,IT Corridor,1217.0,2,2,34,1.0,15,Unfurnished,Apartment,0.9,Yes,42.29
+Chennai,Residential,2466.0,6,5,22,1.0,4,Semi-furnished,Independent House,7.1,Yes,62.25
+Hyderabad,Suburban,1633.0,4,3,27,2.0,3,Semi-furnished,Apartment,7.3,Yes,40.91
+Coimbatore,Outskirts,1626.0,3,3,20,2.0,6,Semi-furnished,Independent House,6.0,Yes,26.13
+Chennai,Residential,1258.0,3,3,13,2.0,1,Semi-furnished,Apartment,3.3,No,33.1
+Pune,Residential,1140.0,2,3,24,1.0,1,Semi-furnished,Apartment,11.3,Yes,28.12
+Hyderabad,Residential,450.0,2,2,30,2.0,3,Unfurnished,Apartment,2.1,Yes,29.35
+Visakhapatnam,Residential,1954.0,4,4,6,1.0,11,Unfurnished,Apartment,9.5,Yes,43.78
+Hyderabad,Outskirts,1683.0,4,4,31,1.0,13,Unfurnished,Apartment,2.1,Yes,24.35
+Hyderabad,IT Corridor,1357.0,1,1,26,0.0,4,Fully-furnished,Apartment,8.7,No,29.01
+Coimbatore,Residential,1379.0,3,3,3,2.0,10,Unfurnished,Independent House,2.2,Yes,63.65
+Visakhapatnam,Residential,1833.0,5,4,33,1.0,6,Unfurnished,Independent House,8.4,Yes,45.35
+Hyderabad,IT Corridor,642.0,2,2,6,2.0,7,Unfurnished,Apartment,13.0,Yes,31.51
+Bengaluru,Outskirts,1143.0,1,2,21,1.0,6,Semi-furnished,Independent House,13.0,Yes,18.0
+Pune,Suburban,859.0,2,2,4,0.0,14,Unfurnished,Independent House,,Yes,27.39
+Coimbatore,IT Corridor,2371.0,4,3,7,3.0,8,,Villa,4.7,Yes,75.76
+Chennai,Central,1905.0,5,5,23,2.0,8,Unfurnished,Apartment,2.9,Yes,58.42
+Bengaluru,Suburban,450.0,1,1,24,1.0,13,Semi-furnished,Apartment,4.2,Yes,26.62
+Pune,Residential,663.0,1,1,24,2.0,10,Unfurnished,Independent House,9.0,No,27.11
+Pune,Suburban,1381.0,3,4,12,1.0,3,Semi-furnished,Apartment,7.0,Yes,36.89
+Pune,Suburban,1204.0,1,2,29,2.0,3,Unfurnished,Apartment,17.4,Yes,18.0
+Bengaluru,Suburban,761.0,1,1,1,1.0,6,Semi-furnished,Apartment,3.1,Yes,52.49
+Hyderabad,IT Corridor,2461.0,5,5,30,1.0,2,Fully-furnished,Apartment,13.6,No,46.34
+Coimbatore,Residential,1613.0,4,3,10,1.0,11,Unfurnished,Apartment,4.4,Yes,30.1
+Coimbatore,Outskirts,1697.0,2,2,22,1.0,8,Fully-furnished,Independent House,2.1,No,20.5
+Coimbatore,Central,1090.0,2,2,32,1.0,1,Unfurnished,Apartment,5.7,Yes,25.68
+Hyderabad,IT Corridor,1826.0,4,5,9,1.0,7,Semi-furnished,Apartment,6.9,Yes,64.91
+Hyderabad,IT Corridor,1252.0,2,2,14,3.0,13,Semi-furnished,Apartment,10.5,Yes,37.76
+Pune,IT Corridor,1303.0,3,3,29,0.0,14,Unfurnished,Independent House,,No,52.58
+Hyderabad,IT Corridor,1768.0,4,3,31,0.0,15,Semi-furnished,Independent House,5.7,Yes,52.19
+Visakhapatnam,Suburban,603.0,3,3,8,1.0,14,Unfurnished,Apartment,,Yes,39.44
+Chennai,IT Corridor,2280.0,5,5,18,2.0,10,Semi-furnished,Apartment,3.6,No,52.16
+Pune,IT Corridor,1545.0,3,4,11,1.0,14,Unfurnished,Apartment,12.7,No,31.38
+Coimbatore,IT Corridor,2116.0,5,5,18,1.0,15,Fully-furnished,Villa,7.0,Yes,73.66
+Chennai,IT Corridor,891.0,1,1,13,2.0,10,Unfurnished,Apartment,0.5,Yes,42.2
+Chennai,Residential,970.0,2,2,0,0.0,7,Fully-furnished,Apartment,5.8,Yes,40.9
+Bengaluru,Residential,846.0,2,2,33,3.0,15,Unfurnished,Apartment,1.1,Yes,34.25
+Bengaluru,Suburban,1580.0,3,3,22,1.0,7,Semi-furnished,Apartment,5.4,Yes,46.06
+Chennai,Residential,1484.0,4,3,16,2.0,3,Unfurnished,Apartment,1.3,Yes,33.98
+Bengaluru,Residential,1209.0,3,4,3,0.0,2,Unfurnished,Independent House,7.0,No,44.16
+Visakhapatnam,Suburban,923.0,2,2,2,2.0,9,Unfurnished,Apartment,1.1,Yes,32.21
+Bengaluru,IT Corridor,791.0,2,2,17,2.0,1,,Independent House,2.2,No,44.03
+Hyderabad,Suburban,1425.0,4,4,23,0.0,2,Unfurnished,Apartment,8.1,Yes,35.54
+Chennai,Residential,1208.0,2,2,9,1.0,4,Semi-furnished,Apartment,4.7,Yes,35.15
+Chennai,Suburban,1093.0,2,1,26,1.0,8,Fully-furnished,Independent House,1.5,Yes,25.51
+Hyderabad,Residential,2254.0,5,5,14,0.0,8,Unfurnished,Independent House,,Yes,52.64
+Hyderabad,Suburban,1407.0,3,3,0,3.0,8,Unfurnished,Independent House,3.4,Yes,47.16
+Pune,IT Corridor,2110.0,3,2,19,1.0,8,Unfurnished,Apartment,3.9,Yes,51.61
+Chennai,Outskirts,1173.0,3,2,6,2.0,15,Unfurnished,Apartment,4.2,Yes,37.54
+Visakhapatnam,Suburban,1577.0,3,3,0,,4,Semi-furnished,Independent House,7.4,Yes,35.17
+Chennai,Outskirts,1421.0,4,4,4,2.0,8,Semi-furnished,Apartment,3.7,Yes,36.45
+Hyderabad,Outskirts,567.0,1,1,10,2.0,10,Unfurnished,Independent House,4.3,Yes,30.17
+Pune,Outskirts,2193.0,4,4,18,1.0,5,Unfurnished,Apartment,9.9,Yes,22.19
+Coimbatore,Suburban,1380.0,4,4,35,1.0,3,Semi-furnished,Apartment,9.1,Yes,32.72
+Chennai,Residential,1838.0,4,4,7,1.0,1,Unfurnished,Independent House,4.1,Yes,65.47
+Hyderabad,Central,1059.0,2,3,2,1.0,5,Semi-furnished,Independent House,4.2,Yes,57.42
+Hyderabad,Suburban,1364.0,3,3,6,1.0,4,Fully-furnished,Independent House,0.3,Yes,53.11
+Bengaluru,Outskirts,999.0,2,3,11,1.0,3,Unfurnished,Independent House,5.3,Yes,18.0
+Bengaluru,Residential,2093.0,4,4,7,1.0,5,Semi-furnished,Apartment,8.3,Yes,63.84
+Chennai,IT Corridor,1612.0,3,3,11,1.0,11,Semi-furnished,Apartment,3.5,Yes,67.12
+Hyderabad,Suburban,1641.0,4,4,34,1.0,13,Semi-furnished,Villa,11.0,Yes,64.8
+Bengaluru,Residential,2156.0,4,4,13,1.0,8,Semi-furnished,Apartment,1.0,Yes,60.15
+Visakhapatnam,Residential,2051.0,5,4,22,1.0,1,Semi-furnished,Apartment,2.3,Yes,38.87
+Pune,IT Corridor,1848.0,4,4,24,1.0,12,Semi-furnished,Villa,10.5,No,66.7
+Bengaluru,Outskirts,711.0,2,3,4,2.0,3,Semi-furnished,Apartment,8.1,Yes,28.64
+Hyderabad,Suburban,1088.0,3,3,8,2.0,1,Semi-furnished,Villa,0.9,Yes,67.09
+Chennai,Suburban,928.0,2,1,14,1.0,9,Semi-furnished,Apartment,1.1,No,32.03
+Chennai,Residential,1828.0,4,4,16,0.0,7,,Independent House,7.1,Yes,53.11
+Pune,Outskirts,1539.0,3,3,0,1.0,5,Unfurnished,Apartment,6.1,Yes,43.42
+Coimbatore,Suburban,727.0,2,3,23,1.0,15,Semi-furnished,Independent House,3.8,Yes,43.23
+Coimbatore,Suburban,1352.0,2,2,10,1.0,2,Unfurnished,Independent House,10.8,No,24.67
+Visakhapatnam,Suburban,673.0,2,3,11,3.0,1,Unfurnished,Apartment,2.8,Yes,25.35
+Visakhapatnam,Residential,1422.0,3,3,21,1.0,9,Unfurnished,Apartment,0.6,Yes,18.0
+Visakhapatnam,Suburban,589.0,2,2,34,1.0,7,Unfurnished,Villa,7.4,Yes,28.99
+Hyderabad,IT Corridor,1725.0,4,3,31,2.0,13,Semi-furnished,Villa,8.5,Yes,54.33
+Hyderabad,Outskirts,1647.0,5,5,35,1.0,1,Unfurnished,Villa,2.9,Yes,53.31
+Chennai,Central,2442.0,5,5,14,0.0,7,Semi-furnished,Apartment,1.8,Yes,62.44
+Bengaluru,IT Corridor,1891.0,4,5,4,1.0,3,Semi-furnished,Apartment,0.6,Yes,67.39
+Hyderabad,IT Corridor,1230.0,3,4,7,3.0,1,Unfurnished,Apartment,4.6,Yes,57.92
+Coimbatore,Residential,1875.0,3,3,12,0.0,7,Unfurnished,Apartment,5.9,Yes,38.94
+Bengaluru,Suburban,723.0,1,1,10,2.0,12,Semi-furnished,Apartment,8.9,No,23.85
+Bengaluru,IT Corridor,950.0,2,3,7,2.0,3,Semi-furnished,Apartment,6.1,Yes,61.22
+Hyderabad,Suburban,1623.0,4,4,5,1.0,13,Unfurnished,Apartment,3.1,Yes,53.58
+Chennai,Residential,450.0,1,1,6,2.0,8,Unfurnished,Apartment,5.3,Yes,25.35
+Hyderabad,Residential,1431.0,3,3,23,1.0,8,Unfurnished,Apartment,9.2,Yes,29.73
+Coimbatore,Suburban,919.0,3,2,17,1.0,14,Unfurnished,Apartment,5.8,Yes,32.29
+Bengaluru,Suburban,1503.0,4,4,1,1.0,5,Unfurnished,Apartment,8.3,Yes,48.48
+Pune,Outskirts,890.0,3,3,20,3.0,4,Fully-furnished,Independent House,1.9,Yes,34.98
+Chennai,Central,1671.0,3,3,30,1.0,12,Unfurnished,Villa,7.2,Yes,64.11
+Chennai,Suburban,1460.0,3,3,15,1.0,2,Unfurnished,Apartment,6.1,No,40.55
+Chennai,IT Corridor,2178.0,6,5,11,3.0,14,Fully-furnished,Villa,3.6,No,95.8
+Pune,Suburban,1454.0,3,3,9,1.0,13,Semi-furnished,Independent House,9.3,Yes,58.82
+Pune,Suburban,1050.0,2,2,13,2.0,15,Semi-furnished,Apartment,15.3,Yes,43.11
+Hyderabad,IT Corridor,1322.0,3,4,10,2.0,7,Semi-furnished,Apartment,0.9,No,65.67
+Visakhapatnam,Suburban,751.0,2,2,33,1.0,10,Fully-furnished,Apartment,3.8,Yes,28.44
+Hyderabad,IT Corridor,1661.0,3,3,35,2.0,14,Unfurnished,Apartment,,Yes,38.94
+Coimbatore,Residential,1757.0,4,4,12,2.0,2,Unfurnished,Apartment,4.6,Yes,28.68
+Hyderabad,IT Corridor,2734.0,6,5,33,0.0,5,Fully-furnished,Apartment,2.8,Yes,65.65
+Chennai,Central,1127.0,2,2,30,3.0,8,Semi-furnished,Villa,1.1,Yes,65.53
+Coimbatore,Residential,1311.0,3,3,2,3.0,10,Fully-furnished,Apartment,3.9,Yes,51.8
+Hyderabad,Suburban,1151.0,2,2,17,2.0,11,Unfurnished,Apartment,4.4,Yes,18.0
+Chennai,Residential,1560.0,3,2,23,2.0,14,Fully-furnished,Villa,3.7,Yes,60.68
+Bengaluru,Suburban,1648.0,3,4,15,1.0,8,Unfurnished,Villa,,Yes,66.77
+Chennai,Residential,1422.0,3,3,16,1.0,3,Semi-furnished,Independent House,5.4,Yes,40.66
+Pune,Suburban,2015.0,4,3,17,0.0,3,Fully-furnished,Independent House,4.0,Yes,58.11
+Coimbatore,Suburban,1129.0,2,2,24,1.0,13,Unfurnished,Villa,2.8,Yes,46.0
+Coimbatore,IT Corridor,1963.0,4,4,10,2.0,7,Unfurnished,Apartment,4.5,Yes,59.32
+Chennai,Central,1730.0,3,4,21,2.0,10,Semi-furnished,Independent House,5.7,Yes,72.78
+Bengaluru,Suburban,1444.0,3,4,8,1.0,9,Semi-furnished,Apartment,4.8,Yes,44.52
+Chennai,Residential,1286.0,4,4,32,1.0,13,Unfurnished,Apartment,15.9,No,21.6
+Chennai,Residential,2712.0,5,5,3,2.0,4,Fully-furnished,Apartment,6.0,Yes,70.66
+Hyderabad,Central,1025.0,2,1,2,1.0,3,Unfurnished,Apartment,4.6,No,45.17
+Visakhapatnam,Outskirts,1605.0,4,4,1,3.0,12,Unfurnished,Apartment,2.5,Yes,45.78
+Coimbatore,Residential,1060.0,1,1,12,2.0,7,Unfurnished,Apartment,2.5,Yes,42.17
+Pune,Residential,2379.0,5,5,21,0.0,13,Fully-furnished,Apartment,3.7,Yes,39.61
+Bengaluru,Residential,1911.0,6,5,35,0.0,2,Unfurnished,Apartment,3.8,Yes,51.14
+Bengaluru,Residential,1097.0,2,2,16,2.0,5,Semi-furnished,Apartment,3.6,Yes,45.29
+Bengaluru,IT Corridor,1717.0,4,5,6,1.0,15,Unfurnished,Independent House,6.2,Yes,64.32
+Bengaluru,Residential,1584.0,4,4,13,2.0,13,Fully-furnished,Apartment,9.1,Yes,36.22
+Bengaluru,Outskirts,1181.0,4,4,4,1.0,1,Semi-furnished,Independent House,7.4,Yes,46.83
+Hyderabad,Central,1844.0,4,5,16,0.0,13,Unfurnished,Apartment,6.8,Yes,45.71
+Hyderabad,Suburban,1652.0,2,2,26,1.0,1,Unfurnished,Independent House,2.3,Yes,54.22
+Visakhapatnam,Central,1562.0,4,4,1,2.0,2,Unfurnished,Apartment,10.0,Yes,53.05
+Bengaluru,Outskirts,1428.0,5,5,27,3.0,14,Unfurnished,Apartment,2.5,No,29.78
+Visakhapatnam,IT Corridor,1674.0,4,4,8,2.0,2,Semi-furnished,Apartment,5.6,Yes,36.6
+Hyderabad,Residential,1569.0,3,4,24,1.0,5,Semi-furnished,Villa,6.5,No,59.34
+Bengaluru,Residential,1481.0,3,3,29,2.0,3,Semi-furnished,Villa,10.2,No,57.61
+Hyderabad,Outskirts,1117.0,2,2,27,0.0,9,Semi-furnished,Independent House,14.1,Yes,18.5
+Chennai,Suburban,2331.0,6,5,24,1.0,1,Semi-furnished,Independent House,3.6,No,61.34
+Hyderabad,Residential,904.0,1,1,24,3.0,5,Unfurnished,Apartment,5.3,Yes,24.66
+Hyderabad,Outskirts,1672.0,4,3,6,1.0,5,Unfurnished,Independent House,9.6,Yes,50.41
+Visakhapatnam,Central,1283.0,2,2,4,3.0,10,Unfurnished,Apartment,14.9,Yes,45.69
+Chennai,Residential,2365.0,4,4,13,1.0,8,Semi-furnished,Apartment,3.8,Yes,41.42
+Bengaluru,Suburban,980.0,3,3,21,0.0,3,Unfurnished,Villa,2.4,Yes,39.26
+Bengaluru,Residential,1068.0,2,2,22,1.0,7,Semi-furnished,Villa,1.5,Yes,72.78
+Chennai,IT Corridor,946.0,2,2,27,2.0,7,Unfurnished,Apartment,1.0,Yes,43.44
+Bengaluru,Suburban,1618.0,3,4,11,1.0,6,Semi-furnished,Apartment,2.7,Yes,39.88
+Hyderabad,Suburban,736.0,1,1,31,2.0,9,Unfurnished,Apartment,8.4,Yes,18.0
+Visakhapatnam,Central,1201.0,2,2,16,1.0,5,Semi-furnished,Apartment,8.7,Yes,39.05
+Coimbatore,Central,450.0,1,1,8,2.0,6,Unfurnished,Apartment,6.0,Yes,23.98
+Pune,Residential,1575.0,4,5,26,1.0,12,Unfurnished,Apartment,3.7,No,34.89
+Bengaluru,Suburban,1190.0,2,3,4,1.0,4,Unfurnished,Apartment,6.2,Yes,37.86
+Hyderabad,Suburban,676.0,3,3,14,2.0,5,Semi-furnished,Apartment,4.9,Yes,34.92
+Visakhapatnam,Residential,2015.0,4,4,28,2.0,3,Semi-furnished,Apartment,3.9,Yes,52.13
+Chennai,Residential,770.0,2,3,27,1.0,11,Unfurnished,Independent House,,No,43.67
+Hyderabad,IT Corridor,1864.0,3,4,9,1.0,11,Semi-furnished,Apartment,3.6,Yes,53.2
+Chennai,Outskirts,1085.0,3,3,5,1.0,11,Semi-furnished,Apartment,5.8,Yes,23.4
+Coimbatore,Suburban,2283.0,6,5,1,3.0,3,Semi-furnished,Apartment,6.4,Yes,60.41
+Bengaluru,Residential,1840.0,3,4,3,2.0,7,Semi-furnished,Independent House,7.5,Yes,77.56
+Pune,Central,926.0,2,2,29,2.0,5,Unfurnished,Apartment,1.1,Yes,34.13
+Coimbatore,Residential,973.0,3,3,28,2.0,12,Semi-furnished,Independent House,10.1,Yes,42.41
+Hyderabad,Outskirts,1765.0,3,3,18,2.0,6,Semi-furnished,Apartment,4.4,Yes,30.49
+Visakhapatnam,Residential,1314.0,3,2,20,1.0,7,Semi-furnished,Apartment,14.2,Yes,27.08
+Bengaluru,IT Corridor,1362.0,4,4,11,1.0,7,Unfurnished,Apartment,8.4,No,35.73
+Bengaluru,Residential,2112.0,4,5,6,2.0,12,Semi-furnished,Villa,2.4,Yes,84.16
+Hyderabad,Suburban,1061.0,3,2,0,0.0,11,Unfurnished,Villa,6.9,No,47.95
+Visakhapatnam,Residential,1497.0,4,5,24,1.0,13,Semi-furnished,Independent House,9.6,Yes,49.21
+Chennai,Residential,1946.0,5,5,1,2.0,7,Unfurnished,Villa,4.0,Yes,90.07
+Hyderabad,Outskirts,1871.0,4,5,3,2.0,13,Unfurnished,Apartment,2.3,Yes,44.41
+Bengaluru,IT Corridor,1367.0,3,3,28,2.0,14,Semi-furnished,Apartment,2.0,Yes,33.18
+Hyderabad,Central,1300.0,2,1,20,0.0,8,Fully-furnished,Apartment,1.4,Yes,45.69
+Hyderabad,IT Corridor,546.0,2,2,17,3.0,11,Unfurnished,Apartment,0.7,Yes,41.97
+Bengaluru,Central,901.0,1,1,7,1.0,14,Semi-furnished,Apartment,4.5,Yes,45.56
+Chennai,Suburban,1616.0,3,3,5,1.0,13,Semi-furnished,Independent House,2.1,Yes,53.58
+Visakhapatnam,Suburban,1378.0,3,4,16,3.0,5,Fully-furnished,Independent House,2.9,Yes,65.68
+Chennai,Residential,1489.0,3,4,12,2.0,11,Semi-furnished,Independent House,14.5,No,43.54
+Pune,Suburban,1990.0,4,3,19,3.0,7,Unfurnished,Apartment,6.5,Yes,42.67
+Bengaluru,Suburban,833.0,4,4,5,2.0,3,Unfurnished,Villa,2.4,Yes,56.4
+Pune,Central,1327.0,3,2,8,2.0,6,Semi-furnished,Independent House,18.7,Yes,34.35
+Bengaluru,Outskirts,1548.0,3,3,4,1.0,15,Unfurnished,Independent House,5.8,Yes,48.35
+Bengaluru,Residential,1084.0,3,4,15,1.0,15,Fully-furnished,Apartment,17.7,No,34.64
+Visakhapatnam,Central,2194.0,5,4,9,3.0,12,Fully-furnished,Apartment,12.3,Yes,51.55
+Chennai,Central,1922.0,5,5,8,2.0,15,Fully-furnished,Independent House,5.9,No,71.25
+Hyderabad,IT Corridor,1601.0,3,4,19,1.0,9,Unfurnished,Villa,4.4,Yes,63.14
+Pune,Suburban,2383.0,5,5,17,1.0,12,Semi-furnished,Apartment,8.3,Yes,45.86
+Coimbatore,IT Corridor,671.0,1,1,7,1.0,3,Semi-furnished,Apartment,5.6,Yes,28.44
+Hyderabad,IT Corridor,1446.0,2,2,25,1.0,5,Unfurnished,Apartment,3.4,Yes,41.66
+Bengaluru,Outskirts,1640.0,2,2,12,2.0,3,Unfurnished,Apartment,3.2,Yes,34.07
+Coimbatore,Suburban,974.0,2,1,12,0.0,15,Unfurnished,Independent House,9.2,Yes,23.47
+Pune,Residential,1606.0,3,3,17,1.0,10,Unfurnished,Apartment,2.4,No,30.88
+Visakhapatnam,Central,875.0,3,3,5,3.0,14,Fully-furnished,Apartment,9.1,Yes,49.78
+Bengaluru,Outskirts,1809.0,4,4,15,1.0,7,Semi-furnished,Independent House,4.9,Yes,59.13
+Pune,Outskirts,2000.0,4,4,20,1.0,7,Unfurnished,Apartment,1.2,Yes,40.03
+Chennai,Residential,1592.0,3,3,4,1.0,11,Semi-furnished,Apartment,9.6,Yes,41.8
+Visakhapatnam,IT Corridor,487.0,2,2,20,0.0,9,Unfurnished,Apartment,2.4,Yes,31.95
+Chennai,Suburban,947.0,2,2,1,1.0,6,Unfurnished,Apartment,2.7,Yes,46.58
+Pune,Residential,1744.0,3,3,21,0.0,5,Unfurnished,Villa,,Yes,59.94
+Chennai,Residential,1461.0,4,5,1,1.0,8,Semi-furnished,Independent House,4.6,Yes,63.04
+Bengaluru,Suburban,450.0,1,2,6,1.0,2,Semi-furnished,Villa,5.9,Yes,52.62
+Pune,IT Corridor,2096.0,4,3,12,1.0,3,Semi-furnished,Apartment,9.3,No,47.61
+Bengaluru,IT Corridor,1521.0,4,4,22,0.0,1,Fully-furnished,Independent House,9.1,Yes,60.73
+Coimbatore,Residential,1024.0,2,1,25,3.0,3,Unfurnished,Apartment,,No,20.69
+Chennai,Residential,1967.0,4,5,16,1.0,3,Semi-furnished,Independent House,3.2,Yes,47.49
+Pune,Residential,1098.0,2,2,4,1.0,2,Unfurnished,Apartment,8.6,Yes,36.89
+Chennai,Residential,1092.0,4,4,13,2.0,1,Unfurnished,Apartment,2.1,No,42.86
+Chennai,Suburban,1636.0,3,3,28,0.0,13,Semi-furnished,Apartment,4.9,Yes,30.86
+Bengaluru,Suburban,2376.0,6,5,3,1.0,3,Unfurnished,Independent House,11.7,Yes,74.72
+Hyderabad,Central,2294.0,5,5,25,2.0,9,Unfurnished,Independent House,3.5,Yes,62.5
+Hyderabad,Residential,1637.0,4,5,13,1.0,2,Unfurnished,Apartment,1.4,Yes,36.01
+Pune,IT Corridor,1690.0,4,4,0,1.0,15,Unfurnished,Apartment,2.4,Yes,52.55
+Pune,IT Corridor,1862.0,5,5,25,2.0,4,Fully-furnished,Independent House,2.5,Yes,57.47
+Pune,Suburban,796.0,1,1,0,2.0,12,Unfurnished,Apartment,2.3,Yes,36.62
+Hyderabad,Suburban,1785.0,4,3,13,1.0,10,Semi-furnished,Apartment,4.0,Yes,41.19
+Chennai,IT Corridor,1068.0,4,4,7,0.0,12,Fully-furnished,Independent House,17.5,Yes,58.11
+Hyderabad,Suburban,1616.0,3,3,21,0.0,10,Semi-furnished,Apartment,6.8,Yes,43.65
+Pune,Central,1332.0,3,3,2,2.0,8,Unfurnished,Independent House,4.3,Yes,53.53
+Coimbatore,Residential,1711.0,3,3,3,1.0,12,Fully-furnished,Apartment,4.5,Yes,42.66
+Chennai,Suburban,1511.0,3,4,19,1.0,13,Unfurnished,Independent House,2.8,Yes,49.6
+Pune,Suburban,450.0,2,2,35,1.0,6,Unfurnished,Apartment,4.5,Yes,23.94
+Hyderabad,IT Corridor,1543.0,3,3,1,3.0,15,Semi-furnished,Villa,11.4,Yes,55.08
+Chennai,Residential,1784.0,3,3,16,0.0,15,Semi-furnished,Apartment,5.1,Yes,44.47
+Hyderabad,Suburban,1682.0,5,5,28,0.0,11,Semi-furnished,Independent House,9.0,Yes,29.15
+Chennai,Residential,1397.0,3,3,10,1.0,14,Unfurnished,Independent House,8.3,Yes,40.83
+Pune,Outskirts,2304.0,6,5,17,2.0,2,Semi-furnished,Apartment,17.0,Yes,48.54
+Visakhapatnam,Residential,1612.0,3,4,30,1.0,9,Semi-furnished,Apartment,8.2,Yes,56.28
+Hyderabad,IT Corridor,1678.0,4,4,26,2.0,10,Fully-furnished,Apartment,16.2,Yes,43.6
+Bengaluru,Residential,1993.0,4,4,10,0.0,14,Unfurnished,Apartment,9.5,Yes,38.67
+Pune,IT Corridor,1639.0,4,4,27,1.0,2,Unfurnished,Apartment,5.9,Yes,39.27
+Visakhapatnam,IT Corridor,983.0,1,1,24,1.0,13,Fully-furnished,Apartment,2.6,No,32.94
+Bengaluru,IT Corridor,450.0,2,3,18,1.0,2,Semi-furnished,Apartment,9.0,Yes,27.98
+Chennai,Suburban,1202.0,3,3,15,1.0,6,Unfurnished,Villa,9.5,Yes,40.14
+Bengaluru,Central,1846.0,4,4,33,2.0,11,Unfurnished,Apartment,9.7,No,40.39
+Chennai,IT Corridor,1266.0,2,3,31,1.0,5,Semi-furnished,Apartment,0.3,No,39.62
+Visakhapatnam,Central,1867.0,3,3,35,2.0,13,Semi-furnished,Apartment,3.4,Yes,41.86
+Chennai,IT Corridor,1527.0,4,4,24,1.0,14,Semi-furnished,Apartment,6.7,Yes,38.69
+Pune,IT Corridor,2120.0,4,3,12,1.0,3,Fully-furnished,Apartment,3.6,Yes,56.56
+Hyderabad,Outskirts,1296.0,3,3,3,1.0,4,Unfurnished,Independent House,3.2,Yes,39.67
+Chennai,Central,1693.0,5,5,4,1.0,2,Unfurnished,Apartment,2.8,Yes,52.79
+Coimbatore,Residential,1713.0,5,5,34,0.0,11,Semi-furnished,Apartment,1.2,No,30.46
+Bengaluru,IT Corridor,2231.0,4,3,13,3.0,14,Fully-furnished,Apartment,6.5,Yes,74.31
+Bengaluru,Central,563.0,1,1,3,2.0,10,Unfurnished,Apartment,3.0,Yes,39.64
+Visakhapatnam,Suburban,1212.0,3,4,8,2.0,2,Semi-furnished,Independent House,3.5,Yes,35.81
+Coimbatore,Central,1891.0,4,4,0,2.0,3,Unfurnished,Apartment,4.3,Yes,64.55
+Chennai,Suburban,2254.0,4,4,19,1.0,1,Unfurnished,Apartment,7.2,Yes,45.07
+Bengaluru,Suburban,1575.0,4,4,21,1.0,8,Fully-furnished,Apartment,5.8,Yes,37.81
+Bengaluru,IT Corridor,1298.0,3,2,13,1.0,11,Unfurnished,Apartment,5.6,Yes,42.13
+Bengaluru,IT Corridor,1844.0,5,5,26,2.0,3,Unfurnished,Apartment,0.5,Yes,53.7
+Chennai,Central,1902.0,4,4,17,1.0,13,Semi-furnished,Apartment,9.2,Yes,56.97
+Chennai,Suburban,1263.0,3,3,34,1.0,4,Unfurnished,Villa,13.7,Yes,33.51
+Visakhapatnam,Central,1622.0,3,3,27,2.0,8,Unfurnished,Apartment,5.5,Yes,39.23
+Visakhapatnam,IT Corridor,2064.0,4,4,2,0.0,11,Semi-furnished,Apartment,2.0,No,51.83
+Coimbatore,Suburban,2433.0,5,5,9,2.0,9,Unfurnished,Independent House,3.3,Yes,46.06
+Visakhapatnam,IT Corridor,1836.0,5,5,27,1.0,8,Semi-furnished,Apartment,2.1,Yes,61.93
+Pune,Suburban,1473.0,3,3,19,2.0,6,Unfurnished,Apartment,12.7,Yes,35.14
+Pune,Central,1422.0,3,3,27,2.0,7,Unfurnished,Independent House,3.5,No,41.89
+Pune,Outskirts,1740.0,3,3,12,2.0,4,Semi-furnished,Independent House,5.7,Yes,47.04
+Bengaluru,Central,1390.0,3,3,1,1.0,5,Unfurnished,Villa,4.2,Yes,81.39
+Bengaluru,Central,1549.0,4,4,28,0.0,12,Fully-furnished,Independent House,,Yes,61.27
+Chennai,Suburban,900.0,2,2,28,0.0,14,Fully-furnished,Apartment,2.5,Yes,42.27
+Pune,Outskirts,2124.0,4,4,23,0.0,13,Semi-furnished,Villa,5.6,Yes,77.48
+Chennai,IT Corridor,857.0,1,2,14,1.0,5,Unfurnished,Apartment,3.5,Yes,33.59
+Chennai,IT Corridor,1225.0,2,3,0,1.0,5,Unfurnished,Apartment,10.0,No,32.74
+Bengaluru,Outskirts,1501.0,4,4,26,1.0,1,Fully-furnished,Independent House,0.6,No,39.47
+Chennai,Central,2485.0,5,5,23,1.0,5,Semi-furnished,Independent House,3.8,Yes,52.08
+Hyderabad,Outskirts,1230.0,2,2,24,3.0,9,Semi-furnished,Villa,9.3,Yes,51.97
+Coimbatore,Suburban,1104.0,2,1,6,0.0,5,Semi-furnished,Apartment,8.6,Yes,24.61
+Coimbatore,Residential,1164.0,2,2,26,1.0,12,Unfurnished,Independent House,1.3,Yes,43.18
+Hyderabad,IT Corridor,2313.0,4,4,26,1.0,1,Unfurnished,Apartment,8.0,Yes,57.51
+Hyderabad,Suburban,450.0,2,2,30,0.0,7,Semi-furnished,Independent House,2.3,Yes,21.35
+Chennai,Outskirts,929.0,2,1,20,3.0,5,Semi-furnished,Independent House,2.9,Yes,26.72
+Coimbatore,Suburban,2870.0,6,5,26,0.0,8,,Apartment,9.0,Yes,52.87
+Coimbatore,Outskirts,1757.0,4,4,14,2.0,1,Semi-furnished,Independent House,3.8,Yes,44.09
+Hyderabad,Suburban,875.0,2,1,25,2.0,7,Semi-furnished,Apartment,1.2,Yes,25.87
+Pune,Residential,1428.0,3,3,24,2.0,12,Unfurnished,Apartment,1.8,Yes,31.27
+Hyderabad,Outskirts,1485.0,1,2,28,2.0,13,Unfurnished,Villa,5.0,Yes,37.62
+Chennai,Central,1890.0,4,4,30,2.0,4,Semi-furnished,Apartment,3.7,Yes,64.54
+Visakhapatnam,Outskirts,2407.0,5,5,0,1.0,7,Semi-furnished,Apartment,3.6,Yes,54.67
+Hyderabad,IT Corridor,1652.0,4,4,28,1.0,11,Fully-furnished,Apartment,6.9,Yes,52.0
+Hyderabad,Residential,1169.0,3,2,28,2.0,7,Unfurnished,Apartment,6.1,Yes,44.08
+Bengaluru,Suburban,1859.0,3,3,19,1.0,9,Fully-furnished,Apartment,3.9,Yes,62.12
+Bengaluru,IT Corridor,1087.0,3,3,18,1.0,6,Semi-furnished,Apartment,8.7,Yes,45.47
+Visakhapatnam,Residential,913.0,2,2,26,1.0,13,Semi-furnished,Apartment,6.9,No,44.2
+Visakhapatnam,IT Corridor,535.0,1,1,16,1.0,10,Unfurnished,Apartment,5.8,No,20.88
+Hyderabad,Suburban,636.0,2,3,14,1.0,15,Unfurnished,Independent House,3.2,Yes,46.01
+Hyderabad,Suburban,984.0,2,1,28,0.0,12,Semi-furnished,Apartment,9.7,Yes,18.0
+Coimbatore,Residential,838.0,3,3,28,1.0,6,Unfurnished,Apartment,3.6,No,30.31
+Chennai,Central,1613.0,4,5,7,0.0,5,Unfurnished,Villa,3.8,Yes,70.05
+Coimbatore,Residential,826.0,2,2,29,1.0,2,Fully-furnished,Apartment,12.8,Yes,26.47
+Pune,Outskirts,450.0,2,1,11,2.0,10,Unfurnished,Apartment,2.4,Yes,40.59
+Hyderabad,Central,907.0,3,3,4,1.0,12,Fully-furnished,Apartment,2.4,No,59.86
+Coimbatore,Suburban,1205.0,3,3,31,2.0,6,Semi-furnished,Apartment,4.0,Yes,33.62
+Hyderabad,Residential,1135.0,3,3,8,0.0,1,Semi-furnished,Independent House,2.0,Yes,45.96
+Bengaluru,Central,2240.0,5,5,7,0.0,13,Unfurnished,Apartment,2.0,No,67.01
+Bengaluru,IT Corridor,1131.0,3,2,9,2.0,4,Semi-furnished,Apartment,12.6,Yes,36.19
+Bengaluru,Residential,1908.0,5,5,17,2.0,9,Semi-furnished,Independent House,3.9,Yes,75.23
+Pune,IT Corridor,1440.0,3,3,5,2.0,1,Fully-furnished,Apartment,5.9,No,59.62
+Pune,Suburban,1428.0,3,3,5,2.0,1,Unfurnished,Independent House,1.4,Yes,51.51
+Visakhapatnam,Residential,1016.0,3,4,14,2.0,14,Unfurnished,Apartment,2.2,Yes,52.05
+Visakhapatnam,IT Corridor,1419.0,4,3,7,2.0,11,Fully-furnished,Apartment,13.7,No,55.91
+Bengaluru,Suburban,1052.0,2,2,6,2.0,1,Unfurnished,Independent House,2.0,Yes,49.15
+Hyderabad,IT Corridor,1538.0,3,3,32,2.0,2,Semi-furnished,Apartment,6.1,Yes,47.34
+Pune,Outskirts,1327.0,4,4,21,0.0,8,Unfurnished,Apartment,0.3,Yes,26.5
+Visakhapatnam,Residential,959.0,3,4,0,0.0,11,Unfurnished,Villa,1.3,No,53.27
+Chennai,IT Corridor,1966.0,4,3,3,1.0,7,Semi-furnished,Apartment,3.9,No,46.53
+Bengaluru,Suburban,1672.0,3,3,29,1.0,14,Semi-furnished,Independent House,8.6,Yes,40.88
+Bengaluru,Central,1217.0,3,2,9,2.0,10,Semi-furnished,Apartment,4.8,Yes,52.99
+Hyderabad,Suburban,1526.0,3,4,5,1.0,10,Semi-furnished,Apartment,4.1,Yes,33.97
+Pune,Central,1406.0,3,3,23,1.0,5,Semi-furnished,Independent House,7.3,Yes,56.5
+Chennai,Outskirts,999.0,2,1,30,2.0,11,Fully-furnished,Independent House,5.5,Yes,38.69
+Pune,Suburban,1487.0,3,3,14,1.0,14,Unfurnished,Apartment,1.0,Yes,40.15
+Coimbatore,Residential,1127.0,2,2,26,2.0,1,Unfurnished,Independent House,4.6,Yes,18.0
+Coimbatore,Suburban,959.0,3,3,15,1.0,12,Unfurnished,Apartment,3.3,Yes,28.45
+Chennai,Suburban,606.0,2,2,3,1.0,14,,Apartment,4.0,Yes,23.34
+Chennai,IT Corridor,1264.0,3,2,28,1.0,7,Unfurnished,Independent House,3.2,Yes,39.76
+Pune,Suburban,1745.0,3,4,33,1.0,12,Semi-furnished,Apartment,4.6,Yes,47.78
+Coimbatore,Residential,1089.0,3,2,35,0.0,6,Semi-furnished,Apartment,6.2,Yes,18.0
+Bengaluru,Outskirts,2761.0,6,5,3,1.0,3,Semi-furnished,Independent House,1.6,No,65.22
+Coimbatore,Outskirts,1911.0,3,3,20,1.0,13,Semi-furnished,Apartment,2.7,No,33.25
+Hyderabad,Suburban,2128.0,5,5,22,1.0,5,Semi-furnished,Villa,7.2,Yes,60.98
+Coimbatore,Residential,1864.0,4,4,2,2.0,12,Semi-furnished,Independent House,7.8,Yes,50.65
+Hyderabad,Suburban,2413.0,6,5,34,0.0,5,Unfurnished,Apartment,11.5,Yes,55.62
+Hyderabad,Outskirts,1041.0,3,2,3,1.0,6,Semi-furnished,Apartment,4.9,Yes,36.47
+Bengaluru,IT Corridor,450.0,2,3,9,0.0,11,Unfurnished,Villa,2.6,Yes,62.73
+Hyderabad,Suburban,1218.0,3,2,34,3.0,6,Semi-furnished,Independent House,2.8,Yes,46.36
+Hyderabad,Suburban,1740.0,4,5,20,2.0,13,Unfurnished,Apartment,4.7,Yes,45.46
+Hyderabad,Central,1529.0,3,3,24,3.0,1,Unfurnished,Apartment,2.2,Yes,59.82
+Bengaluru,Suburban,1593.0,2,3,17,2.0,1,Unfurnished,Apartment,11.0,Yes,50.18
+Pune,Outskirts,2137.0,4,3,27,1.0,2,Semi-furnished,Independent House,3.2,Yes,31.64
+Hyderabad,Residential,1649.0,3,3,2,2.0,4,Fully-furnished,Villa,10.0,Yes,69.82
+Pune,Outskirts,1865.0,3,3,24,1.0,1,Unfurnished,Independent House,2.0,Yes,39.03
+Coimbatore,Central,961.0,2,3,2,2.0,6,Unfurnished,Apartment,4.0,No,37.51
+Hyderabad,IT Corridor,880.0,2,1,6,1.0,1,Unfurnished,Independent House,3.6,Yes,55.69
+Hyderabad,Suburban,2289.0,5,4,18,1.0,12,Fully-furnished,Apartment,1.4,Yes,61.41
+Coimbatore,IT Corridor,1502.0,3,3,16,2.0,3,Semi-furnished,Apartment,3.8,Yes,61.31
+Coimbatore,Suburban,1126.0,2,1,5,2.0,15,Unfurnished,Apartment,5.5,Yes,39.52
+Bengaluru,Suburban,1127.0,4,4,28,3.0,13,Semi-furnished,Apartment,0.6,Yes,55.94
+Coimbatore,IT Corridor,1112.0,3,2,10,0.0,11,Semi-furnished,Apartment,6.6,Yes,29.41
+Hyderabad,Suburban,1081.0,2,3,31,1.0,12,Semi-furnished,Apartment,5.8,Yes,20.93
+Chennai,IT Corridor,783.0,2,2,0,1.0,12,Semi-furnished,Apartment,4.5,No,34.95
+Pune,Residential,670.0,2,3,8,1.0,13,Semi-furnished,Independent House,7.5,Yes,53.14
+Chennai,Central,1349.0,2,1,10,1.0,9,Semi-furnished,Apartment,7.9,Yes,35.14
+Pune,Outskirts,1142.0,2,2,21,1.0,10,Unfurnished,Apartment,21.3,Yes,18.0
+Bengaluru,IT Corridor,2026.0,5,5,14,2.0,8,Unfurnished,Apartment,1.3,No,53.43
+Pune,Residential,1602.0,3,2,5,1.0,10,Unfurnished,Apartment,12.0,Yes,59.34
+Bengaluru,Residential,1588.0,3,2,20,2.0,6,Unfurnished,Apartment,8.8,No,34.25
+Chennai,Residential,1064.0,2,2,34,2.0,2,Unfurnished,Independent House,5.8,Yes,37.14
+Hyderabad,Residential,1387.0,3,3,4,2.0,14,Semi-furnished,Apartment,2.0,Yes,42.58
+Hyderabad,Outskirts,1638.0,2,2,9,1.0,11,Semi-furnished,Apartment,3.4,Yes,43.05
+Pune,IT Corridor,1822.0,4,3,17,1.0,11,Unfurnished,Independent House,3.0,Yes,44.11
+Hyderabad,Suburban,1401.0,4,3,26,1.0,5,Unfurnished,Apartment,4.2,Yes,26.79
+Hyderabad,Central,2011.0,4,4,4,2.0,12,Semi-furnished,Independent House,7.3,Yes,65.46
+Hyderabad,IT Corridor,1454.0,5,5,8,1.0,8,Semi-furnished,Apartment,10.6,Yes,55.27
+Hyderabad,Central,1862.0,5,5,8,0.0,2,Unfurnished,Villa,14.2,Yes,62.48
+Coimbatore,Suburban,1195.0,4,4,22,3.0,15,Semi-furnished,Apartment,3.4,Yes,51.53
+Chennai,Central,507.0,3,3,2,2.0,15,,Apartment,5.2,Yes,48.92
+Visakhapatnam,IT Corridor,1590.0,4,4,23,2.0,14,Unfurnished,Apartment,2.4,Yes,39.92
+Hyderabad,Suburban,1827.0,4,4,15,1.0,8,Semi-furnished,Apartment,9.1,Yes,51.69
+Pune,IT Corridor,1749.0,4,4,11,3.0,4,Semi-furnished,Independent House,6.1,Yes,62.82
+Bengaluru,Residential,1670.0,3,3,31,1.0,1,Unfurnished,Apartment,3.9,Yes,34.61
+Chennai,Residential,1269.0,3,3,29,1.0,12,Semi-furnished,Apartment,1.3,Yes,44.83
+Coimbatore,Suburban,1030.0,2,1,28,2.0,14,Fully-furnished,Independent House,5.2,Yes,18.0
+Visakhapatnam,IT Corridor,1737.0,4,4,31,2.0,2,Unfurnished,Independent House,5.6,Yes,54.12
+Coimbatore,IT Corridor,1672.0,3,3,8,1.0,11,Semi-furnished,Apartment,0.9,Yes,45.17
+Hyderabad,IT Corridor,1158.0,2,3,30,1.0,1,Unfurnished,Apartment,1.6,Yes,30.85
+Hyderabad,Residential,2027.0,4,4,6,1.0,12,Semi-furnished,Independent House,5.2,Yes,79.27
+Pune,Suburban,991.0,2,1,11,2.0,1,Semi-furnished,Independent House,13.5,Yes,30.88
+Chennai,Outskirts,1147.0,1,1,19,2.0,15,Unfurnished,Independent House,9.7,Yes,30.7
+Pune,Central,2301.0,4,3,26,1.0,3,Unfurnished,Independent House,4.0,Yes,61.97
+Bengaluru,Residential,1902.0,3,4,20,0.0,7,Semi-furnished,Apartment,3.6,Yes,52.83
+Bengaluru,IT Corridor,1264.0,2,2,20,2.0,11,Unfurnished,Apartment,2.7,Yes,41.8
+Coimbatore,Suburban,1599.0,4,4,13,2.0,13,Fully-furnished,Apartment,2.5,Yes,45.89
+Pune,Residential,1530.0,3,3,21,1.0,6,Unfurnished,Apartment,3.8,Yes,50.48
+Hyderabad,Central,450.0,2,2,17,1.0,15,Semi-furnished,Independent House,16.0,Yes,43.05
+Hyderabad,Residential,979.0,3,3,17,3.0,1,Semi-furnished,Apartment,3.6,Yes,39.01
+Bengaluru,IT Corridor,1424.0,4,3,21,1.0,8,Unfurnished,Apartment,4.6,Yes,39.07
+Bengaluru,Central,1265.0,3,2,21,1.0,15,Semi-furnished,Independent House,1.7,Yes,53.47
+Chennai,Central,1578.0,3,3,11,2.0,5,Semi-furnished,Apartment,6.8,No,55.68
+Chennai,Residential,2037.0,5,5,4,1.0,9,,Apartment,4.6,No,63.94
+Pune,Suburban,1283.0,3,4,10,2.0,7,Semi-furnished,Apartment,3.4,Yes,49.16
+Coimbatore,Outskirts,900.0,2,2,14,2.0,6,Semi-furnished,Independent House,2.1,No,18.0
+Bengaluru,Residential,1619.0,4,4,5,,12,Semi-furnished,Apartment,2.5,Yes,63.91
+Chennai,Residential,1280.0,1,1,6,1.0,8,,Apartment,3.2,Yes,49.23
+Chennai,Suburban,1369.0,3,3,34,2.0,11,Semi-furnished,Apartment,3.4,No,30.77
+Bengaluru,Residential,1298.0,3,3,10,1.0,8,Unfurnished,Apartment,2.1,Yes,61.43
+Chennai,Outskirts,2616.0,6,5,26,0.0,15,Semi-furnished,Villa,4.3,Yes,51.99
+Bengaluru,Central,450.0,2,3,4,1.0,8,Semi-furnished,Apartment,5.3,Yes,49.84
+Pune,Suburban,1248.0,2,2,35,1.0,12,Fully-furnished,Independent House,7.6,Yes,27.59
+Hyderabad,Suburban,1448.0,4,4,7,3.0,10,Unfurnished,Apartment,13.0,No,44.91
+Hyderabad,Suburban,1044.0,2,2,14,2.0,13,Unfurnished,Apartment,0.9,Yes,40.25
+Hyderabad,Residential,1918.0,3,4,28,2.0,14,Unfurnished,Apartment,5.9,Yes,55.3
+Coimbatore,IT Corridor,1873.0,4,4,7,1.0,4,Semi-furnished,Independent House,3.7,Yes,65.51
+Pune,IT Corridor,1425.0,3,2,19,,5,Semi-furnished,Villa,0.6,Yes,62.89
+Hyderabad,Suburban,1309.0,2,2,28,3.0,5,Unfurnished,Apartment,2.8,Yes,28.11
+Coimbatore,Suburban,1392.0,3,3,0,1.0,8,Unfurnished,Apartment,7.1,No,29.92
+Bengaluru,Suburban,1396.0,3,4,0,2.0,8,Fully-furnished,Apartment,6.5,Yes,50.65
+Bengaluru,Residential,1409.0,4,5,28,1.0,1,Semi-furnished,Apartment,5.0,No,51.87
+Visakhapatnam,IT Corridor,1352.0,3,2,9,1.0,14,Semi-furnished,Apartment,2.6,Yes,56.83
+Hyderabad,Suburban,1581.0,3,3,32,1.0,13,Unfurnished,Independent House,10.8,Yes,21.94
+Hyderabad,Residential,1842.0,4,3,33,1.0,10,Unfurnished,Apartment,1.9,Yes,40.91
+Bengaluru,Central,810.0,3,3,31,0.0,5,Unfurnished,Independent House,3.4,Yes,44.0
+Hyderabad,Suburban,904.0,1,2,35,1.0,13,Unfurnished,Independent House,3.9,No,18.0
+Pune,Suburban,541.0,1,2,29,1.0,5,Semi-furnished,Apartment,4.3,Yes,24.37
+Hyderabad,Outskirts,1901.0,4,3,13,1.0,5,Unfurnished,Apartment,18.0,Yes,37.54
+Hyderabad,Residential,1580.0,3,2,35,2.0,15,Unfurnished,Independent House,12.3,No,38.0
+Hyderabad,IT Corridor,1713.0,3,3,12,1.0,14,Unfurnished,Apartment,6.3,Yes,58.1
+Bengaluru,Central,707.0,2,2,21,2.0,9,Unfurnished,Apartment,4.6,Yes,31.9
+Hyderabad,Suburban,2378.0,4,4,0,1.0,3,Unfurnished,Independent House,4.5,Yes,63.67
+Hyderabad,Residential,1133.0,3,4,34,0.0,2,Unfurnished,Apartment,7.4,Yes,20.3
+Coimbatore,Suburban,1537.0,4,5,21,1.0,15,Unfurnished,Independent House,9.5,Yes,40.57
+Chennai,Outskirts,1894.0,4,5,34,3.0,4,Semi-furnished,Apartment,1.8,Yes,41.18
+Chennai,Residential,937.0,2,2,12,2.0,11,Fully-furnished,Apartment,13.1,Yes,42.1
+Hyderabad,IT Corridor,1166.0,2,3,11,3.0,6,Semi-furnished,Apartment,6.1,Yes,58.4
+Chennai,Residential,1543.0,3,3,18,1.0,8,Unfurnished,Apartment,3.0,Yes,45.05
+Chennai,Outskirts,2936.0,5,5,31,2.0,15,Fully-furnished,Apartment,4.1,Yes,43.7
+Bengaluru,IT Corridor,1607.0,4,4,19,2.0,9,Fully-furnished,Apartment,6.4,Yes,48.54
+Hyderabad,Residential,2285.0,4,3,28,3.0,7,Semi-furnished,Apartment,6.6,Yes,53.96
+Coimbatore,Outskirts,2077.0,5,5,7,0.0,7,Unfurnished,Apartment,2.1,Yes,51.2
+Visakhapatnam,Suburban,1641.0,4,5,27,3.0,4,Semi-furnished,Apartment,4.4,Yes,40.77
+Hyderabad,Outskirts,936.0,3,3,26,1.0,9,Fully-furnished,Apartment,5.3,Yes,18.0
+Hyderabad,Central,2001.0,3,3,32,2.0,9,Semi-furnished,Apartment,9.6,Yes,62.69
+Hyderabad,Residential,671.0,1,1,2,1.0,2,Semi-furnished,Apartment,10.3,Yes,34.16
+Bengaluru,Residential,2282.0,4,4,13,1.0,7,Semi-furnished,Apartment,1.6,No,59.95
+Hyderabad,IT Corridor,1554.0,3,3,3,1.0,10,Fully-furnished,Apartment,4.7,Yes,49.19
+Coimbatore,IT Corridor,450.0,2,2,14,2.0,1,Unfurnished,Apartment,2.9,No,30.86
+Pune,IT Corridor,1273.0,4,5,27,1.0,15,Unfurnished,Apartment,6.3,No,42.72
+Coimbatore,Suburban,1790.0,3,4,23,1.0,13,Semi-furnished,Independent House,17.4,Yes,36.52
+Bengaluru,Suburban,1327.0,3,4,27,1.0,10,Unfurnished,Independent House,8.9,No,29.85
+Visakhapatnam,Suburban,1822.0,4,4,26,2.0,1,Unfurnished,Apartment,6.6,Yes,33.55
+Hyderabad,IT Corridor,1008.0,3,2,35,1.0,8,Unfurnished,Independent House,7.9,Yes,31.73
+Chennai,IT Corridor,771.0,1,2,31,2.0,14,Unfurnished,Apartment,11.7,No,30.92
+Chennai,Suburban,1413.0,2,1,21,1.0,1,Unfurnished,Apartment,8.4,Yes,32.0
+Visakhapatnam,Outskirts,1466.0,3,2,31,2.0,12,Semi-furnished,Apartment,1.9,Yes,21.27
+Bengaluru,Suburban,1269.0,1,1,1,2.0,13,Unfurnished,Apartment,13.7,Yes,21.65
+Coimbatore,IT Corridor,2088.0,4,3,25,2.0,2,Semi-furnished,Apartment,5.1,Yes,48.67
+Hyderabad,IT Corridor,1008.0,2,2,18,2.0,4,Unfurnished,Apartment,6.1,Yes,32.98
+Visakhapatnam,Suburban,1613.0,4,4,34,1.0,11,Fully-furnished,Independent House,10.3,Yes,36.6
+Bengaluru,Residential,1485.0,3,3,18,1.0,14,Semi-furnished,Apartment,16.9,No,22.13
+Bengaluru,IT Corridor,641.0,1,1,6,2.0,12,Fully-furnished,Apartment,3.4,Yes,38.15
+Visakhapatnam,Central,764.0,2,2,26,0.0,8,Unfurnished,Apartment,9.9,Yes,25.55
+Chennai,Outskirts,1456.0,3,3,34,1.0,10,Unfurnished,Apartment,3.3,Yes,19.73
+Chennai,Residential,2480.0,5,5,0,2.0,8,Semi-furnished,Apartment,5.8,Yes,84.48
+Bengaluru,Residential,1751.0,4,4,2,1.0,9,Semi-furnished,Apartment,1.4,No,62.29
+Hyderabad,Residential,553.0,2,1,23,1.0,12,Unfurnished,Apartment,3.3,Yes,18.0
+Chennai,Outskirts,450.0,2,2,20,3.0,1,Semi-furnished,Apartment,5.6,Yes,18.0
+Hyderabad,Suburban,1831.0,4,4,19,1.0,4,Semi-furnished,Apartment,6.9,Yes,47.12
+Hyderabad,IT Corridor,1400.0,4,3,3,0.0,1,Unfurnished,Villa,6.6,Yes,63.26
+Coimbatore,IT Corridor,2043.0,4,4,20,0.0,12,Semi-furnished,Independent House,9.1,Yes,61.25
+Bengaluru,Suburban,992.0,2,1,20,1.0,11,Unfurnished,Apartment,3.7,No,27.12
+Chennai,Suburban,1632.0,3,3,30,2.0,1,Unfurnished,Apartment,4.5,Yes,18.0
+Chennai,Central,1890.0,4,4,14,2.0,2,Fully-furnished,Independent House,4.6,Yes,62.27
+Bengaluru,Residential,1217.0,2,1,12,1.0,4,Semi-furnished,Villa,3.9,Yes,53.63
+Bengaluru,Residential,1228.0,3,3,2,1.0,4,Semi-furnished,Apartment,2.4,Yes,54.96
+Visakhapatnam,Residential,1463.0,4,3,20,1.0,8,Semi-furnished,Apartment,5.1,Yes,30.62
+Visakhapatnam,Suburban,1732.0,3,3,23,0.0,8,Fully-furnished,Independent House,8.2,Yes,42.98
+Chennai,Suburban,1443.0,3,3,10,2.0,6,Semi-furnished,Apartment,6.0,Yes,31.15
+Chennai,IT Corridor,1956.0,4,4,26,2.0,3,Semi-furnished,Independent House,3.5,No,56.9
+Bengaluru,IT Corridor,1210.0,3,2,33,0.0,10,Unfurnished,Apartment,5.2,Yes,37.19
+Bengaluru,Outskirts,759.0,1,1,6,2.0,12,Semi-furnished,Apartment,3.4,Yes,40.23
+Bengaluru,Outskirts,2478.0,5,4,20,2.0,10,Semi-furnished,Independent House,7.0,Yes,61.17
+Pune,Outskirts,1136.0,2,2,24,1.0,13,Semi-furnished,Independent House,8.3,Yes,21.29
+Bengaluru,Residential,1154.0,3,4,0,2.0,14,Unfurnished,Apartment,8.5,Yes,57.81
+Chennai,Outskirts,1416.0,3,2,6,2.0,13,Unfurnished,Independent House,4.1,Yes,39.66
+Chennai,IT Corridor,1485.0,2,2,14,1.0,10,Fully-furnished,Independent House,3.4,No,59.6
+Chennai,Central,1249.0,2,2,4,1.0,1,Semi-furnished,Apartment,9.1,Yes,39.97
+Hyderabad,Central,1441.0,3,2,12,2.0,6,Unfurnished,Villa,3.9,No,64.14
+Hyderabad,Suburban,1429.0,3,3,5,3.0,7,Semi-furnished,Apartment,5.1,No,37.42
+Pune,Suburban,1541.0,4,4,32,1.0,11,Semi-furnished,Apartment,,Yes,38.44
+Chennai,Suburban,450.0,2,2,21,1.0,13,Semi-furnished,Independent House,4.8,Yes,39.43
+Hyderabad,Outskirts,2428.0,5,5,11,2.0,10,Unfurnished,Apartment,7.7,Yes,42.83
+Bengaluru,Suburban,1373.0,3,3,28,1.0,6,Semi-furnished,Independent House,1.5,Yes,43.46
+Pune,Outskirts,1752.0,4,3,0,0.0,12,Unfurnished,Apartment,6.6,Yes,39.84
+Chennai,Residential,733.0,1,1,21,1.0,11,Unfurnished,Apartment,2.7,Yes,18.45
+Coimbatore,Residential,1205.0,3,3,24,2.0,12,Semi-furnished,Apartment,3.6,Yes,23.94
+Visakhapatnam,Residential,1100.0,2,3,29,2.0,9,Unfurnished,Apartment,5.5,No,25.47
+Bengaluru,Suburban,2214.0,5,4,8,3.0,10,Unfurnished,Independent House,1.2,No,66.71
+Pune,Residential,1145.0,3,3,21,1.0,6,Unfurnished,Apartment,4.3,Yes,33.53
+Hyderabad,Suburban,1844.0,3,4,27,1.0,6,Unfurnished,Apartment,3.8,No,37.79
+Visakhapatnam,Outskirts,1112.0,2,2,28,1.0,5,Semi-furnished,Apartment,4.5,Yes,23.67
+Chennai,Suburban,1215.0,3,3,6,1.0,4,Unfurnished,Apartment,3.6,Yes,37.15
+Visakhapatnam,Suburban,1322.0,3,4,35,1.0,10,Semi-furnished,Apartment,5.1,Yes,19.02
+Bengaluru,Residential,2118.0,4,5,9,2.0,6,Fully-furnished,Apartment,3.3,Yes,63.0
+Hyderabad,Residential,467.0,1,1,14,2.0,3,Unfurnished,Apartment,4.7,Yes,31.11
+Hyderabad,IT Corridor,766.0,2,2,6,2.0,1,Semi-furnished,Apartment,5.5,Yes,44.89
+Pune,Residential,450.0,1,1,5,1.0,13,Unfurnished,Apartment,9.3,Yes,19.72
+Bengaluru,Suburban,884.0,2,2,9,1.0,7,Unfurnished,Apartment,10.6,No,18.0
+Hyderabad,Residential,1028.0,1,2,4,0.0,9,Unfurnished,Apartment,1.7,Yes,40.87
+Pune,Suburban,610.0,2,1,26,1.0,14,Unfurnished,Apartment,9.8,Yes,18.0
+Coimbatore,Suburban,1068.0,2,1,21,1.0,2,Unfurnished,Apartment,2.4,Yes,30.54
+Bengaluru,Suburban,450.0,1,1,14,1.0,15,Unfurnished,Apartment,4.7,Yes,29.41
+Bengaluru,Suburban,921.0,2,3,19,3.0,11,Semi-furnished,Apartment,1.3,Yes,37.74
+Hyderabad,Suburban,2074.0,5,5,21,1.0,10,Semi-furnished,Independent House,0.8,Yes,69.56
+Pune,IT Corridor,1660.0,4,4,6,0.0,7,Fully-furnished,Apartment,16.8,Yes,49.92
+Chennai,Suburban,1547.0,4,4,10,0.0,11,Semi-furnished,Independent House,4.8,No,49.74
+Coimbatore,Suburban,929.0,2,2,31,2.0,4,Semi-furnished,Apartment,4.1,Yes,18.0
+Chennai,IT Corridor,651.0,1,1,0,1.0,5,Unfurnished,Apartment,5.9,Yes,27.73
+Bengaluru,Central,858.0,1,1,34,1.0,15,Semi-furnished,Independent House,4.2,Yes,33.05
+Chennai,Residential,1428.0,3,3,34,1.0,5,Unfurnished,Apartment,8.3,No,20.84
+Hyderabad,Outskirts,1901.0,4,3,9,1.0,11,Fully-furnished,Apartment,5.7,Yes,46.4
+Pune,IT Corridor,1919.0,3,3,11,2.0,14,Fully-furnished,Apartment,,No,54.24
+Bengaluru,Outskirts,1778.0,4,5,7,1.0,9,Unfurnished,Independent House,2.7,Yes,56.71
+Bengaluru,Central,1066.0,2,2,20,0.0,5,Semi-furnished,Apartment,1.5,Yes,39.07
+Visakhapatnam,Central,1463.0,2,1,7,2.0,13,Semi-furnished,Independent House,8.9,Yes,56.6
+Visakhapatnam,Residential,1283.0,3,3,28,1.0,13,Semi-furnished,Apartment,6.1,Yes,46.03
+Coimbatore,Residential,1345.0,3,3,13,2.0,9,Unfurnished,Apartment,1.9,Yes,36.6
+Hyderabad,Residential,2509.0,5,5,34,0.0,2,Semi-furnished,Apartment,1.9,Yes,47.38
+Bengaluru,Central,534.0,1,1,30,2.0,7,Semi-furnished,Apartment,5.2,Yes,25.97
+Coimbatore,Residential,1328.0,3,4,14,1.0,7,Unfurnished,Independent House,7.0,No,38.76
+Chennai,Suburban,2080.0,5,5,21,1.0,3,Semi-furnished,Apartment,2.4,Yes,46.37
+Hyderabad,Suburban,688.0,1,1,0,1.0,7,Unfurnished,Independent House,12.1,Yes,18.0
+Coimbatore,Suburban,1115.0,2,1,2,3.0,3,Fully-furnished,Apartment,7.6,Yes,27.78
+Bengaluru,Outskirts,1175.0,3,2,18,1.0,11,Unfurnished,Apartment,9.3,No,27.62
+Bengaluru,Central,1334.0,2,3,17,2.0,7,Unfurnished,Apartment,5.1,Yes,57.35
+Visakhapatnam,Residential,620.0,3,3,14,2.0,11,Unfurnished,Independent House,4.8,No,49.66
+Bengaluru,Residential,1760.0,5,5,3,1.0,7,Semi-furnished,Apartment,1.8,Yes,66.18
+Bengaluru,Residential,1796.0,2,2,30,1.0,11,Semi-furnished,Apartment,2.7,Yes,34.23
+Chennai,Residential,1714.0,4,5,14,1.0,11,Unfurnished,Villa,4.4,No,56.69
+Chennai,Residential,997.0,2,3,16,3.0,3,Unfurnished,Apartment,6.2,Yes,22.75
+Hyderabad,Suburban,1495.0,3,2,14,2.0,7,Semi-furnished,Apartment,5.5,Yes,28.96
+Coimbatore,Central,982.0,2,2,17,1.0,12,Unfurnished,Independent House,0.9,Yes,48.34
+Coimbatore,IT Corridor,1277.0,3,2,23,0.0,9,Unfurnished,Apartment,2.3,No,34.92
+Chennai,Suburban,2570.0,5,5,27,2.0,4,Fully-furnished,Apartment,5.7,Yes,70.64
+Chennai,Central,1500.0,3,3,19,0.0,13,Unfurnished,Apartment,6.3,Yes,40.5
+Coimbatore,Suburban,832.0,2,2,5,0.0,3,Semi-furnished,Independent House,3.6,Yes,29.05
+Hyderabad,Suburban,1544.0,4,3,31,1.0,15,Unfurnished,Apartment,7.2,Yes,30.28
+Bengaluru,Central,747.0,1,1,10,1.0,11,Semi-furnished,Independent House,7.2,Yes,44.44
+Bengaluru,Central,827.0,1,1,0,2.0,5,Semi-furnished,Independent House,16.1,Yes,42.08
+Pune,Outskirts,909.0,3,3,1,2.0,3,Unfurnished,Apartment,4.9,Yes,34.99
+Hyderabad,Suburban,1219.0,2,1,27,1.0,14,Semi-furnished,Apartment,3.5,No,18.0
+Pune,Outskirts,1937.0,4,4,13,1.0,8,Fully-furnished,Independent House,2.4,Yes,56.31
+Chennai,Outskirts,1751.0,3,3,0,2.0,13,Semi-furnished,Apartment,1.6,Yes,50.46
+Bengaluru,Suburban,1722.0,4,4,29,1.0,13,Unfurnished,Apartment,7.0,Yes,49.97
+Hyderabad,Residential,879.0,3,4,10,1.0,2,Semi-furnished,Apartment,6.5,Yes,42.77
+Bengaluru,IT Corridor,1169.0,3,4,35,1.0,11,Fully-furnished,Independent House,1.8,Yes,64.07
+Bengaluru,Residential,1591.0,2,3,31,2.0,6,Unfurnished,Apartment,7.0,Yes,31.88
+Hyderabad,Central,1123.0,2,2,1,3.0,14,Unfurnished,Apartment,5.3,Yes,47.15
+Hyderabad,Suburban,1305.0,3,4,24,2.0,4,Unfurnished,Apartment,3.9,No,42.53
+Hyderabad,Central,1680.0,3,3,21,0.0,1,Semi-furnished,Apartment,0.8,Yes,40.65
+Chennai,IT Corridor,1269.0,2,3,6,2.0,10,Unfurnished,Villa,6.4,Yes,58.87
+Hyderabad,Outskirts,1568.0,4,4,12,1.0,9,Unfurnished,Apartment,13.1,No,33.76
+Visakhapatnam,Residential,2278.0,4,4,17,2.0,9,Semi-furnished,Independent House,2.6,Yes,56.73
+Chennai,Residential,1361.0,4,4,5,1.0,4,Unfurnished,Independent House,5.3,Yes,50.8
+Coimbatore,Outskirts,2063.0,5,5,25,1.0,8,Unfurnished,Apartment,6.8,Yes,27.24
+Visakhapatnam,Residential,1741.0,3,2,9,1.0,15,Semi-furnished,Independent House,,Yes,54.68
+Hyderabad,Central,687.0,2,3,33,1.0,12,Unfurnished,Villa,2.3,Yes,59.16
+Pune,Residential,877.0,1,1,28,1.0,15,Fully-furnished,Independent House,1.4,Yes,47.7
+Coimbatore,Suburban,1017.0,3,4,22,1.0,5,Unfurnished,Independent House,13.1,Yes,28.91
+Bengaluru,Central,1005.0,2,2,4,2.0,14,Semi-furnished,Apartment,0.5,Yes,63.79
+Bengaluru,IT Corridor,1403.0,2,3,0,2.0,6,Semi-furnished,Independent House,3.9,No,64.25
+Bengaluru,Outskirts,1770.0,4,4,5,1.0,15,Unfurnished,Apartment,5.7,Yes,50.2
+Hyderabad,Suburban,2103.0,4,4,17,0.0,13,Unfurnished,Independent House,2.6,Yes,45.35
+Bengaluru,IT Corridor,1610.0,3,3,28,1.0,3,Semi-furnished,Apartment,0.6,No,61.15
+Visakhapatnam,Suburban,1218.0,3,3,5,1.0,15,Unfurnished,Apartment,4.0,Yes,37.87
+Visakhapatnam,Central,450.0,1,2,25,1.0,10,Unfurnished,Independent House,2.6,No,18.0
+Hyderabad,Central,1487.0,4,5,1,2.0,12,Fully-furnished,Apartment,6.2,Yes,79.37
+Pune,Residential,1463.0,2,2,9,3.0,9,Semi-furnished,Apartment,7.7,Yes,43.05
+Chennai,Residential,1545.0,4,5,21,0.0,4,Fully-furnished,Independent House,1.8,No,50.65
+Coimbatore,Suburban,2545.0,5,5,29,2.0,15,Unfurnished,Villa,2.8,Yes,55.69
+Hyderabad,Suburban,2095.0,4,4,27,2.0,2,Unfurnished,Apartment,2.9,Yes,48.17
+Visakhapatnam,Suburban,1858.0,4,4,19,1.0,13,Semi-furnished,Independent House,7.7,Yes,38.82
+Coimbatore,Central,950.0,2,3,1,2.0,4,Unfurnished,Independent House,4.9,Yes,47.92
+Hyderabad,IT Corridor,1183.0,3,2,10,1.0,12,Unfurnished,Independent House,1.8,Yes,49.49
+Hyderabad,Residential,1401.0,4,4,28,0.0,7,Unfurnished,Apartment,9.3,Yes,29.61
+Coimbatore,Residential,1047.0,3,4,2,3.0,4,Unfurnished,Apartment,2.6,Yes,40.79
+Hyderabad,Suburban,1710.0,3,4,25,2.0,4,Semi-furnished,Independent House,3.2,Yes,57.89
+Bengaluru,IT Corridor,1636.0,4,4,25,1.0,5,Unfurnished,Villa,2.2,No,67.59
+Visakhapatnam,Central,884.0,1,1,27,1.0,14,Fully-furnished,Apartment,5.2,No,33.49
+Bengaluru,Suburban,2072.0,4,4,7,3.0,12,Unfurnished,Apartment,3.6,Yes,63.08
+Chennai,Outskirts,1503.0,2,3,8,1.0,11,Unfurnished,Apartment,11.1,Yes,23.58
+Bengaluru,Residential,551.0,1,1,7,2.0,10,Unfurnished,Independent House,5.0,Yes,30.81
+Hyderabad,Outskirts,1423.0,3,2,14,2.0,7,Semi-furnished,Independent House,2.3,Yes,58.71
+Visakhapatnam,Outskirts,1596.0,2,1,18,1.0,14,Fully-furnished,Apartment,4.6,Yes,35.53
+Chennai,Residential,1956.0,4,4,4,2.0,5,Semi-furnished,Apartment,12.1,Yes,62.69
+Hyderabad,Outskirts,1275.0,4,4,20,2.0,15,Unfurnished,Apartment,1.6,No,38.59
+Chennai,IT Corridor,1881.0,5,4,8,2.0,6,Unfurnished,Independent House,6.4,Yes,60.37
+Visakhapatnam,Central,1547.0,3,3,20,1.0,6,Semi-furnished,Apartment,0.9,Yes,29.13
+Hyderabad,Central,766.0,1,1,10,0.0,8,Unfurnished,Apartment,10.6,No,18.0
+Coimbatore,Central,714.0,2,1,34,1.0,12,Semi-furnished,Apartment,,Yes,34.93
+Pune,Central,2034.0,3,3,11,2.0,11,Unfurnished,Independent House,2.3,Yes,64.0
+Coimbatore,Suburban,2072.0,5,5,31,2.0,12,Unfurnished,Apartment,11.6,Yes,28.26
+Visakhapatnam,Residential,1618.0,3,4,6,2.0,2,Semi-furnished,Apartment,4.4,No,23.38
+Coimbatore,Residential,2228.0,6,5,3,1.0,3,Unfurnished,Apartment,4.5,Yes,53.56
+Visakhapatnam,IT Corridor,1999.0,3,3,6,0.0,13,Fully-furnished,Villa,3.3,Yes,64.01
+Hyderabad,Suburban,1805.0,4,3,15,0.0,15,Semi-furnished,Apartment,3.4,No,35.46
+Coimbatore,Residential,976.0,2,3,32,2.0,2,Fully-furnished,Apartment,0.8,Yes,42.45
+Bengaluru,Suburban,2350.0,5,5,6,,14,Semi-furnished,Apartment,6.4,Yes,54.46
+Bengaluru,Central,1729.0,3,3,28,2.0,4,Unfurnished,Apartment,1.4,Yes,44.7
+Coimbatore,Suburban,1249.0,3,3,25,1.0,15,Semi-furnished,Independent House,8.5,Yes,36.43
+Visakhapatnam,Suburban,1102.0,3,2,12,1.0,15,Unfurnished,Independent House,1.9,No,43.94
+Pune,Suburban,1584.0,5,5,12,2.0,10,Semi-furnished,Apartment,4.8,Yes,47.72
+Bengaluru,Residential,581.0,2,2,34,1.0,3,Unfurnished,Independent House,2.9,Yes,43.18
+Bengaluru,Residential,1814.0,3,2,25,0.0,12,Fully-furnished,Apartment,3.3,Yes,38.12
+Chennai,Residential,954.0,1,1,8,2.0,2,Semi-furnished,Independent House,3.8,Yes,33.01
+Chennai,Suburban,1643.0,3,3,32,1.0,6,Semi-furnished,Apartment,5.7,Yes,20.34
+Chennai,Residential,1179.0,4,4,14,3.0,10,Semi-furnished,Apartment,11.4,No,24.54
+Hyderabad,Residential,1313.0,2,2,2,2.0,2,Semi-furnished,Independent House,3.2,Yes,58.05
+Hyderabad,Suburban,1056.0,3,4,29,2.0,6,Semi-furnished,Independent House,0.6,Yes,37.89
+Pune,Residential,1366.0,3,3,31,0.0,12,Semi-furnished,Independent House,9.8,No,21.98
+Bengaluru,IT Corridor,2432.0,5,5,15,1.0,2,Unfurnished,Independent House,7.0,No,70.84
+Visakhapatnam,IT Corridor,2170.0,4,3,25,2.0,6,Semi-furnished,Independent House,1.9,Yes,65.3
+Bengaluru,Central,1634.0,4,4,8,1.0,1,Unfurnished,Independent House,1.6,No,73.46
+Hyderabad,IT Corridor,1437.0,3,3,30,3.0,10,Semi-furnished,Apartment,5.9,Yes,51.72
+Hyderabad,Central,1889.0,4,5,13,2.0,2,Semi-furnished,Apartment,5.2,Yes,54.18
+Hyderabad,Suburban,2038.0,5,5,9,0.0,5,Unfurnished,Independent House,13.2,Yes,53.05
+Visakhapatnam,Suburban,1018.0,2,2,18,1.0,8,Semi-furnished,Apartment,6.4,Yes,31.38
+Hyderabad,Outskirts,1410.0,2,1,9,2.0,4,Semi-furnished,Independent House,2.7,Yes,38.62
+Bengaluru,Suburban,503.0,2,2,22,0.0,4,Semi-furnished,Apartment,2.3,No,24.16
+Visakhapatnam,Suburban,2034.0,4,3,26,1.0,13,Semi-furnished,Apartment,4.7,Yes,27.28
+Visakhapatnam,Suburban,2524.0,5,5,14,2.0,12,Semi-furnished,Apartment,0.8,Yes,50.16
+Chennai,Outskirts,1492.0,3,3,28,1.0,2,Semi-furnished,Independent House,1.1,No,37.02
+Hyderabad,IT Corridor,450.0,1,1,15,1.0,13,Unfurnished,Apartment,1.7,Yes,43.67
+Hyderabad,Outskirts,1767.0,5,5,34,2.0,8,Unfurnished,Independent House,2.7,Yes,52.64
+Hyderabad,Suburban,980.0,3,3,9,2.0,3,Semi-furnished,Apartment,4.3,Yes,46.27
+Hyderabad,Central,1105.0,3,3,25,1.0,14,Unfurnished,Apartment,6.7,Yes,38.69
+Bengaluru,IT Corridor,1776.0,3,3,19,3.0,6,,Independent House,10.2,Yes,56.18
+Visakhapatnam,Suburban,1582.0,3,2,33,3.0,5,Unfurnished,Apartment,9.0,Yes,18.0
+Bengaluru,Residential,1196.0,3,3,7,,3,Unfurnished,Independent House,8.1,Yes,41.95
+Bengaluru,Outskirts,1112.0,2,2,7,1.0,14,Fully-furnished,Apartment,3.2,Yes,31.45
+Hyderabad,IT Corridor,1515.0,3,3,31,2.0,5,Unfurnished,Apartment,2.3,Yes,47.36
+Coimbatore,Outskirts,1237.0,4,4,32,1.0,9,Unfurnished,Apartment,5.8,Yes,26.79
+Bengaluru,IT Corridor,873.0,2,2,26,2.0,4,Fully-furnished,Independent House,6.0,Yes,55.58
+Coimbatore,Suburban,1277.0,4,4,17,1.0,14,Fully-furnished,Apartment,1.8,Yes,53.11
+Visakhapatnam,IT Corridor,1627.0,3,2,14,1.0,12,Unfurnished,Apartment,3.8,No,38.23
+Chennai,Central,1357.0,3,3,23,1.0,8,Fully-furnished,Apartment,2.2,Yes,43.26
+Hyderabad,Residential,715.0,3,3,26,1.0,6,Unfurnished,Villa,1.1,Yes,49.48
+Hyderabad,Central,1964.0,4,4,9,3.0,10,Semi-furnished,Independent House,5.5,Yes,66.32
+Bengaluru,Suburban,450.0,1,2,0,1.0,8,Unfurnished,Independent House,8.0,Yes,40.01
+Visakhapatnam,IT Corridor,1218.0,2,1,2,3.0,15,Unfurnished,Apartment,12.4,Yes,34.16
+Chennai,Central,1127.0,3,3,12,0.0,11,Unfurnished,Apartment,4.0,Yes,42.29
+Pune,Central,1527.0,3,3,24,2.0,1,Semi-furnished,Independent House,0.9,No,61.28
+Bengaluru,Residential,1742.0,4,4,15,2.0,13,Unfurnished,Independent House,13.9,Yes,45.72
+Hyderabad,Central,2036.0,3,3,22,1.0,3,Semi-furnished,Independent House,14.6,Yes,60.19
+Chennai,IT Corridor,1080.0,3,3,16,0.0,5,Semi-furnished,Independent House,22.0,Yes,24.44
+Pune,Suburban,1755.0,4,4,9,2.0,7,Unfurnished,Independent House,17.5,Yes,46.31
+Pune,Suburban,1552.0,3,3,26,2.0,4,Fully-furnished,Apartment,5.3,Yes,40.64
+Bengaluru,Suburban,560.0,1,2,26,1.0,15,Unfurnished,Apartment,4.5,Yes,26.63
+Hyderabad,Residential,2438.0,6,5,34,1.0,15,Unfurnished,Villa,7.4,Yes,54.88
+Pune,Outskirts,702.0,1,1,29,2.0,3,Unfurnished,Apartment,1.3,Yes,18.0
+Hyderabad,Suburban,1668.0,3,4,13,1.0,5,Unfurnished,Apartment,2.6,Yes,48.94
+Visakhapatnam,Outskirts,1653.0,2,3,25,2.0,6,Unfurnished,Apartment,4.0,Yes,19.79
+Hyderabad,IT Corridor,1593.0,3,3,12,1.0,11,Semi-furnished,Apartment,9.2,No,42.55
+Hyderabad,Residential,1193.0,2,1,31,1.0,9,Semi-furnished,Independent House,9.5,Yes,28.36
+Bengaluru,Residential,1880.0,4,4,21,2.0,11,Semi-furnished,Independent House,4.2,Yes,69.69
+Bengaluru,Residential,639.0,2,2,30,1.0,1,Semi-furnished,Apartment,1.4,No,28.93
+Bengaluru,Residential,1416.0,3,3,10,3.0,8,Semi-furnished,Apartment,7.9,Yes,50.99
+Bengaluru,IT Corridor,1157.0,3,2,0,1.0,4,Unfurnished,Apartment,1.3,Yes,43.27
+Visakhapatnam,IT Corridor,1098.0,2,2,5,1.0,4,Semi-furnished,Independent House,2.9,Yes,56.34
+Bengaluru,Suburban,1673.0,4,5,19,1.0,12,Fully-furnished,Apartment,5.2,Yes,44.67
+Bengaluru,Central,2010.0,5,5,34,1.0,3,Unfurnished,Apartment,1.2,Yes,52.84
+Bengaluru,Residential,1272.0,3,3,22,2.0,1,Semi-furnished,Apartment,2.4,No,30.39
+Hyderabad,Central,1856.0,4,3,29,2.0,8,Fully-furnished,Apartment,8.7,Yes,51.68
+Bengaluru,Suburban,1476.0,2,2,16,2.0,12,Semi-furnished,Apartment,7.4,Yes,47.84
+Hyderabad,Central,986.0,3,4,34,1.0,8,Fully-furnished,Independent House,1.6,Yes,56.15
+Bengaluru,Suburban,1316.0,3,3,33,1.0,3,Unfurnished,Apartment,5.7,Yes,26.54
+Hyderabad,Residential,1294.0,3,3,7,0.0,12,Semi-furnished,Apartment,0.9,Yes,47.81
+Visakhapatnam,Residential,1088.0,2,1,31,2.0,6,Unfurnished,Apartment,6.9,Yes,22.77
+Bengaluru,IT Corridor,1673.0,4,4,0,1.0,11,Unfurnished,Apartment,2.6,Yes,62.52
+Coimbatore,Central,1572.0,4,5,21,1.0,4,Fully-furnished,Apartment,3.8,Yes,54.61
+Bengaluru,IT Corridor,623.0,1,1,15,1.0,14,Unfurnished,Independent House,4.8,Yes,31.45
+Hyderabad,Suburban,591.0,2,2,10,1.0,5,Fully-furnished,Apartment,1.7,Yes,38.83
+Coimbatore,Residential,1671.0,3,4,33,2.0,15,Semi-furnished,Independent House,2.5,Yes,31.06
+Pune,IT Corridor,1026.0,3,3,23,2.0,6,Fully-furnished,Apartment,12.7,Yes,44.47
+Pune,IT Corridor,1607.0,3,2,4,3.0,11,Fully-furnished,Independent House,3.6,Yes,60.2
+Bengaluru,IT Corridor,1856.0,4,3,5,1.0,8,Semi-furnished,Apartment,5.0,Yes,71.49
+Bengaluru,Outskirts,789.0,2,2,4,1.0,2,Fully-furnished,Apartment,5.1,Yes,18.0
+Coimbatore,Residential,716.0,2,2,10,0.0,2,Semi-furnished,Apartment,10.4,Yes,39.79
+Bengaluru,IT Corridor,2321.0,4,5,2,2.0,7,Semi-furnished,Apartment,7.7,Yes,57.43
+Chennai,IT Corridor,1633.0,4,5,9,2.0,3,Semi-furnished,Apartment,1.8,Yes,50.55
+Pune,Central,1232.0,3,3,27,1.0,10,Unfurnished,Independent House,11.3,Yes,44.22
+Pune,Outskirts,964.0,2,2,31,2.0,3,Unfurnished,Apartment,14.0,Yes,18.0
+Visakhapatnam,Suburban,1185.0,3,4,28,1.0,9,Unfurnished,Villa,1.8,Yes,45.15
+Chennai,Suburban,831.0,2,2,17,1.0,4,Semi-furnished,Independent House,3.5,Yes,45.97
+Bengaluru,Outskirts,1909.0,4,4,25,1.0,3,Unfurnished,Apartment,4.1,Yes,31.44
+Coimbatore,Residential,1046.0,2,2,33,0.0,6,Semi-furnished,Independent House,3.6,No,25.14
+Bengaluru,Central,2019.0,4,4,1,2.0,9,Semi-furnished,Apartment,6.9,Yes,66.61
+Pune,Central,1242.0,4,4,32,2.0,6,Semi-furnished,Apartment,3.8,Yes,42.68
+Bengaluru,Central,907.0,3,4,26,2.0,6,Fully-furnished,Apartment,3.0,No,31.93
+Hyderabad,IT Corridor,1228.0,3,3,13,2.0,6,Fully-furnished,Independent House,7.1,Yes,58.96
+Pune,Central,450.0,2,2,16,2.0,6,Fully-furnished,Apartment,0.7,Yes,45.69
+Hyderabad,Outskirts,1387.0,2,2,15,1.0,7,Semi-furnished,Apartment,5.3,Yes,37.6
+Hyderabad,Outskirts,1362.0,1,1,5,0.0,13,Unfurnished,Apartment,6.4,Yes,18.0
+Bengaluru,IT Corridor,1879.0,4,5,8,1.0,9,Fully-furnished,Apartment,,No,53.61
+Pune,IT Corridor,469.0,1,1,10,3.0,7,Unfurnished,Apartment,4.7,Yes,44.32
+Coimbatore,Suburban,2054.0,4,4,0,3.0,12,Unfurnished,Apartment,1.0,No,50.19
+Chennai,Central,1877.0,4,4,18,2.0,8,Unfurnished,Independent House,4.9,Yes,65.29
+Hyderabad,Residential,2101.0,5,5,17,1.0,15,Semi-furnished,Apartment,0.9,Yes,62.43
+Visakhapatnam,Central,1423.0,2,3,11,1.0,9,Semi-furnished,Apartment,5.9,Yes,48.17
+Hyderabad,Central,1977.0,4,4,6,2.0,4,Unfurnished,Villa,9.6,Yes,89.28
+Hyderabad,Suburban,685.0,2,2,34,1.0,9,Semi-furnished,Villa,4.3,Yes,41.26
+Chennai,Central,1821.0,4,4,24,1.0,12,Unfurnished,Apartment,3.9,No,36.88
+Bengaluru,IT Corridor,1049.0,2,3,17,1.0,4,Unfurnished,Apartment,7.6,Yes,43.15
+Coimbatore,Residential,591.0,2,1,26,1.0,4,Unfurnished,Apartment,5.8,No,18.0
+Pune,Residential,865.0,2,2,13,2.0,9,Unfurnished,Villa,7.2,Yes,48.49
+Pune,IT Corridor,1453.0,4,3,7,3.0,14,Semi-furnished,Apartment,17.3,Yes,49.27
+Hyderabad,Residential,1021.0,2,2,24,2.0,6,Unfurnished,Apartment,3.1,Yes,25.5
+Chennai,IT Corridor,1646.0,4,4,27,1.0,8,Unfurnished,Apartment,6.2,Yes,38.28
+Bengaluru,Residential,510.0,1,1,23,1.0,10,Unfurnished,Apartment,11.4,Yes,20.37
+Hyderabad,IT Corridor,450.0,1,2,20,2.0,10,Semi-furnished,Apartment,11.5,No,19.39
+Chennai,Suburban,2164.0,5,5,0,1.0,3,Fully-furnished,Independent House,6.6,No,72.29
+Chennai,Outskirts,1920.0,4,4,22,1.0,6,Semi-furnished,Apartment,3.7,Yes,29.39
+Hyderabad,Suburban,904.0,1,2,22,2.0,15,Semi-furnished,Apartment,7.2,Yes,18.76
+Bengaluru,Central,1448.0,1,1,14,1.0,14,Fully-furnished,Independent House,7.3,Yes,71.89
+Pune,Suburban,1980.0,5,5,8,0.0,12,Unfurnished,Apartment,8.1,Yes,33.84
+Hyderabad,Suburban,1668.0,4,3,35,2.0,1,Unfurnished,Apartment,1.9,Yes,36.78
+Bengaluru,Suburban,1527.0,4,4,13,2.0,7,Semi-furnished,Apartment,13.8,Yes,57.52
+Pune,IT Corridor,2019.0,4,3,9,1.0,1,Unfurnished,Independent House,11.4,Yes,55.96
+Pune,Outskirts,1070.0,2,2,25,1.0,5,Semi-furnished,Apartment,4.4,Yes,32.93
+Coimbatore,Suburban,1466.0,3,3,17,3.0,13,Semi-furnished,Independent House,10.7,No,42.45
+Bengaluru,IT Corridor,1441.0,3,3,20,2.0,6,Unfurnished,Apartment,4.2,Yes,47.92
+Coimbatore,Suburban,1308.0,2,2,23,2.0,3,Semi-furnished,Apartment,12.4,No,18.05
+Chennai,Residential,1247.0,4,5,13,0.0,11,Unfurnished,Apartment,4.9,Yes,23.7
+Chennai,Suburban,1488.0,5,5,5,3.0,12,,Apartment,2.2,Yes,50.28
+Hyderabad,Central,1468.0,3,2,6,2.0,10,,Apartment,15.8,Yes,51.42
+Bengaluru,IT Corridor,905.0,2,1,33,1.0,13,Semi-furnished,Independent House,7.9,No,36.23
+Chennai,Residential,1867.0,3,2,18,1.0,11,Unfurnished,Apartment,4.0,Yes,59.7
+Chennai,Residential,942.0,3,3,15,2.0,10,Unfurnished,Apartment,13.0,Yes,31.53
+Pune,IT Corridor,1337.0,3,3,11,2.0,14,Unfurnished,Villa,7.2,Yes,67.77
+Chennai,Residential,1296.0,3,4,25,2.0,5,Unfurnished,Apartment,3.6,Yes,46.53
+Chennai,Suburban,1636.0,4,3,32,3.0,7,Unfurnished,Apartment,13.1,Yes,32.94
+Hyderabad,Central,450.0,1,1,27,2.0,9,Unfurnished,Apartment,8.1,Yes,24.24
+Bengaluru,Central,1913.0,4,5,19,1.0,11,Semi-furnished,Apartment,5.9,No,56.0
+Chennai,Central,1098.0,1,1,17,1.0,8,Semi-furnished,Villa,4.7,No,49.64
+Chennai,Suburban,2084.0,5,5,31,2.0,7,Semi-furnished,Villa,2.2,Yes,69.94
+Chennai,IT Corridor,1201.0,3,2,30,1.0,3,Semi-furnished,Apartment,0.4,Yes,39.81
+Pune,Suburban,1425.0,4,4,14,1.0,10,Semi-furnished,Villa,7.6,Yes,64.07
+Visakhapatnam,IT Corridor,2445.0,5,5,34,2.0,2,Semi-furnished,Apartment,1.8,Yes,45.39
+Bengaluru,IT Corridor,1306.0,3,3,29,1.0,8,Fully-furnished,Villa,2.2,Yes,69.29
+Pune,Residential,2094.0,4,4,30,2.0,7,Semi-furnished,Independent House,4.1,Yes,68.23
+Coimbatore,Residential,1470.0,4,4,2,1.0,12,Semi-furnished,Apartment,4.2,Yes,46.18
+Visakhapatnam,Suburban,1666.0,3,3,4,1.0,8,Semi-furnished,Apartment,2.4,Yes,58.82
+Bengaluru,Suburban,1486.0,3,4,10,1.0,1,Semi-furnished,Independent House,7.6,Yes,54.1
+Coimbatore,IT Corridor,1891.0,4,3,27,2.0,8,Unfurnished,Apartment,1.0,Yes,44.06
+Coimbatore,IT Corridor,1094.0,2,2,2,2.0,4,Unfurnished,Apartment,7.5,No,36.33
+Coimbatore,Suburban,938.0,1,1,2,1.0,6,Unfurnished,Apartment,3.8,Yes,25.9
+Bengaluru,Suburban,1118.0,2,1,1,1.0,5,Unfurnished,Apartment,2.3,Yes,23.58
+Hyderabad,Residential,1502.0,4,5,6,1.0,3,Unfurnished,Apartment,1.1,Yes,59.2
+Hyderabad,Residential,1335.0,3,3,33,2.0,15,Unfurnished,Apartment,5.3,Yes,50.29
+Bengaluru,Suburban,1819.0,4,4,25,3.0,4,Unfurnished,Independent House,1.7,Yes,61.31
+Bengaluru,IT Corridor,2128.0,4,5,25,2.0,8,Fully-furnished,Apartment,1.5,Yes,72.36
+Chennai,Outskirts,943.0,2,2,10,1.0,13,Unfurnished,Apartment,11.3,Yes,18.0
+Bengaluru,Central,1068.0,2,3,22,2.0,6,Unfurnished,Apartment,1.3,Yes,54.57
+Bengaluru,Residential,703.0,2,2,28,1.0,15,Unfurnished,Apartment,1.0,Yes,28.61
+Coimbatore,Suburban,2506.0,6,5,19,0.0,7,Unfurnished,Apartment,7.1,Yes,43.61
+Hyderabad,IT Corridor,1608.0,3,3,30,1.0,15,Semi-furnished,Apartment,5.6,Yes,30.39
+Hyderabad,IT Corridor,1699.0,3,3,20,0.0,7,,Independent House,3.0,No,48.11
+Coimbatore,Central,753.0,1,1,11,1.0,1,Unfurnished,Apartment,2.1,No,33.98
+Coimbatore,Outskirts,1449.0,4,3,22,2.0,14,Semi-furnished,Independent House,2.6,No,42.58
+Visakhapatnam,IT Corridor,1715.0,4,4,33,1.0,13,Unfurnished,Apartment,3.0,No,43.16
+Coimbatore,Outskirts,1319.0,2,2,29,2.0,15,Semi-furnished,Independent House,6.5,Yes,18.0
+Coimbatore,Suburban,2009.0,4,4,17,3.0,2,Fully-furnished,Apartment,5.4,Yes,36.4
+Chennai,Residential,2652.0,5,4,21,1.0,13,Fully-furnished,Independent House,3.5,Yes,72.59
+Chennai,Outskirts,958.0,1,1,35,1.0,6,Unfurnished,Apartment,3.4,Yes,18.0
+Chennai,IT Corridor,919.0,1,2,26,2.0,13,Semi-furnished,Apartment,7.3,No,35.28
+Bengaluru,Suburban,994.0,2,3,18,0.0,15,Semi-furnished,Apartment,2.3,Yes,22.18
+Visakhapatnam,Residential,2285.0,6,5,10,1.0,3,Fully-furnished,Apartment,1.1,Yes,61.79
+Chennai,IT Corridor,1992.0,4,4,32,1.0,6,Unfurnished,Apartment,10.5,Yes,39.1
+Bengaluru,Outskirts,1380.0,3,2,35,2.0,5,Semi-furnished,Independent House,3.5,No,36.65
+Chennai,IT Corridor,1469.0,3,3,2,2.0,5,Unfurnished,Independent House,14.8,Yes,42.18
+Hyderabad,Suburban,1025.0,3,3,1,2.0,9,Unfurnished,Apartment,3.1,Yes,26.54
+Hyderabad,Suburban,1913.0,3,3,4,2.0,7,Semi-furnished,Villa,4.5,Yes,70.68
+Hyderabad,Residential,1252.0,3,2,13,,10,Semi-furnished,Apartment,2.2,Yes,47.65
+Visakhapatnam,Outskirts,1315.0,3,2,5,2.0,11,Unfurnished,Apartment,5.4,Yes,37.06
+Chennai,Central,1767.0,5,5,31,2.0,4,Semi-furnished,Independent House,3.5,Yes,59.87
+Coimbatore,Residential,1352.0,3,3,32,1.0,1,Semi-furnished,Apartment,3.8,Yes,37.77
+Pune,Outskirts,1328.0,2,1,6,3.0,12,Fully-furnished,Apartment,4.9,Yes,42.09
+Hyderabad,Central,1455.0,4,3,29,2.0,3,Semi-furnished,Apartment,3.1,Yes,60.66
+Hyderabad,Central,1864.0,5,5,5,1.0,3,Fully-furnished,Apartment,5.3,No,64.53
+Coimbatore,Residential,2306.0,4,5,28,0.0,10,Semi-furnished,Apartment,2.6,Yes,28.67
+Chennai,Residential,1754.0,3,4,13,1.0,4,Unfurnished,Apartment,5.1,Yes,42.3
+Visakhapatnam,Central,1868.0,4,4,1,2.0,3,Unfurnished,Apartment,,Yes,60.33
+Hyderabad,Residential,1346.0,3,2,15,0.0,5,Fully-furnished,Independent House,1.3,No,54.55
+Pune,IT Corridor,1082.0,2,1,29,1.0,8,,Villa,2.1,Yes,38.47
+Coimbatore,Outskirts,1790.0,3,4,33,2.0,13,Unfurnished,Apartment,1.6,Yes,22.53
+Chennai,Outskirts,1539.0,4,4,4,2.0,15,Semi-furnished,Apartment,1.7,No,48.23
+Chennai,Residential,710.0,1,1,30,2.0,11,Unfurnished,Apartment,6.2,Yes,19.08
+Visakhapatnam,IT Corridor,1279.0,3,4,10,2.0,14,Unfurnished,Apartment,3.6,Yes,43.37
+Chennai,Suburban,1407.0,4,4,16,1.0,8,Semi-furnished,Apartment,3.1,Yes,58.45
+Bengaluru,IT Corridor,1185.0,3,3,3,1.0,7,Unfurnished,Apartment,5.3,Yes,41.01
+Bengaluru,Central,2221.0,4,4,35,2.0,13,Semi-furnished,Independent House,5.6,No,71.94
+Chennai,Residential,1700.0,3,3,28,1.0,5,Unfurnished,Apartment,2.9,Yes,44.84
+Pune,Suburban,2164.0,4,5,23,1.0,13,Semi-furnished,Independent House,8.8,No,46.05
+Pune,IT Corridor,1587.0,3,3,26,3.0,15,Unfurnished,Apartment,3.7,No,41.06
+Chennai,Central,1492.0,3,2,31,1.0,6,Semi-furnished,Independent House,6.7,Yes,47.43
+Coimbatore,Suburban,963.0,1,1,5,2.0,10,Unfurnished,Apartment,2.6,Yes,31.54
+Hyderabad,Suburban,1456.0,4,3,8,2.0,12,Unfurnished,Independent House,5.2,Yes,46.87
+Hyderabad,Residential,1457.0,3,3,1,2.0,12,Semi-furnished,Independent House,7.1,Yes,53.83
+Bengaluru,Residential,739.0,2,2,17,1.0,4,Unfurnished,Apartment,6.5,Yes,26.42
+Visakhapatnam,Central,1169.0,3,2,17,1.0,15,Semi-furnished,Apartment,6.1,Yes,38.6
+Hyderabad,Residential,1282.0,2,2,1,1.0,8,Unfurnished,Independent House,2.5,No,44.31
+Hyderabad,Residential,1665.0,3,3,23,2.0,1,Unfurnished,Apartment,1.5,Yes,25.22
+Bengaluru,Suburban,1690.0,3,3,0,1.0,2,Unfurnished,Apartment,1.4,No,48.48
+Coimbatore,Residential,1148.0,2,2,28,1.0,11,Fully-furnished,Apartment,3.0,Yes,29.08
+Hyderabad,IT Corridor,1694.0,3,2,25,2.0,7,Unfurnished,Independent House,2.9,Yes,38.15
+Chennai,Suburban,1355.0,2,2,29,0.0,2,Unfurnished,Apartment,5.7,Yes,20.01
+Pune,IT Corridor,450.0,1,1,4,1.0,8,Semi-furnished,Apartment,4.4,Yes,34.16
+Chennai,Central,1198.0,2,3,31,1.0,9,Unfurnished,Apartment,1.4,Yes,47.68
+Hyderabad,Outskirts,2011.0,4,5,19,1.0,2,Semi-furnished,Apartment,7.9,Yes,34.69
+Hyderabad,Outskirts,575.0,1,1,31,0.0,6,Fully-furnished,Independent House,5.0,Yes,27.25
+Chennai,Residential,1509.0,4,4,25,1.0,7,Semi-furnished,Apartment,2.3,No,50.98
+Bengaluru,IT Corridor,2274.0,6,5,23,3.0,12,Semi-furnished,Apartment,2.7,Yes,66.63
+Coimbatore,IT Corridor,1054.0,3,3,1,3.0,10,Unfurnished,Apartment,,Yes,41.97
+Pune,Outskirts,1451.0,4,4,24,2.0,2,Fully-furnished,Apartment,1.6,Yes,54.82
+Pune,Suburban,772.0,2,2,16,2.0,10,Semi-furnished,Independent House,10.8,Yes,36.59
+Visakhapatnam,Central,2296.0,6,5,30,2.0,14,Unfurnished,Apartment,3.5,Yes,56.49
+Chennai,IT Corridor,1407.0,4,4,24,2.0,1,Fully-furnished,Independent House,3.7,Yes,57.87
+Chennai,Suburban,1474.0,4,5,2,1.0,15,Fully-furnished,Apartment,5.4,Yes,58.46
+Visakhapatnam,Suburban,2154.0,5,5,32,0.0,2,Semi-furnished,Independent House,1.1,Yes,49.23
+Chennai,Central,1794.0,4,3,2,2.0,10,Unfurnished,Apartment,5.0,Yes,42.91
+Pune,IT Corridor,995.0,2,2,10,3.0,6,Semi-furnished,Apartment,7.0,No,37.37
+Pune,Suburban,1113.0,2,3,7,1.0,11,Semi-furnished,Apartment,3.0,Yes,30.11
+Hyderabad,Suburban,1707.0,4,3,35,1.0,13,Semi-furnished,Villa,4.1,Yes,56.08
+Bengaluru,Central,1125.0,2,2,5,1.0,13,Unfurnished,Independent House,15.0,Yes,38.99
+Hyderabad,Suburban,450.0,1,2,30,1.0,14,Unfurnished,Apartment,7.5,Yes,18.0
+Hyderabad,Outskirts,1422.0,2,2,7,2.0,13,Unfurnished,Independent House,2.0,Yes,42.12
+Bengaluru,Suburban,680.0,3,3,23,1.0,5,Unfurnished,Apartment,2.8,Yes,19.76
+Chennai,Residential,2290.0,5,5,3,3.0,7,Semi-furnished,Apartment,3.4,Yes,61.63
+Coimbatore,Residential,1542.0,4,4,14,,11,Unfurnished,Independent House,7.8,Yes,51.54
+Coimbatore,Suburban,979.0,3,3,22,0.0,3,Unfurnished,Apartment,2.0,Yes,36.13
+Coimbatore,Residential,1087.0,3,3,25,2.0,9,Semi-furnished,Villa,6.5,Yes,43.33
+Chennai,Residential,468.0,2,2,31,2.0,8,Unfurnished,Independent House,6.6,Yes,19.93
+Chennai,IT Corridor,878.0,1,1,29,1.0,15,Unfurnished,Villa,4.3,Yes,60.1
+Chennai,Central,1978.0,6,5,18,1.0,1,Fully-furnished,Independent House,8.0,No,66.39
+Hyderabad,Central,2611.0,6,5,10,2.0,2,Unfurnished,Apartment,,Yes,73.46
+Visakhapatnam,Outskirts,1828.0,4,5,9,1.0,1,Fully-furnished,Apartment,9.1,Yes,33.14
+Chennai,Residential,1402.0,4,4,35,1.0,9,Unfurnished,Apartment,0.8,Yes,38.36
+Hyderabad,Outskirts,1225.0,2,3,21,1.0,9,Unfurnished,Independent House,,No,43.33
+Coimbatore,Outskirts,953.0,2,2,32,1.0,9,Semi-furnished,Apartment,0.9,Yes,20.37
+Chennai,Central,2521.0,6,5,15,2.0,4,Unfurnished,Independent House,2.3,Yes,83.73
+Hyderabad,Residential,1352.0,2,1,17,1.0,5,Semi-furnished,Apartment,6.7,Yes,35.56
+Hyderabad,IT Corridor,2550.0,6,5,29,2.0,7,Unfurnished,Apartment,5.5,Yes,51.19
+Bengaluru,Residential,2175.0,5,5,26,1.0,1,Semi-furnished,Apartment,4.9,Yes,51.17
+Pune,Central,545.0,3,2,7,,12,Unfurnished,Independent House,2.2,No,39.68
+Hyderabad,Suburban,1104.0,1,1,18,1.0,1,Semi-furnished,Apartment,4.1,Yes,31.43
+Visakhapatnam,Residential,1102.0,3,3,7,3.0,11,Semi-furnished,Apartment,9.2,Yes,50.04
+Coimbatore,Residential,1408.0,3,3,27,2.0,7,Semi-furnished,Apartment,2.3,Yes,38.34
+Coimbatore,IT Corridor,1419.0,3,3,1,1.0,15,Unfurnished,Apartment,2.4,Yes,45.18
+Hyderabad,Suburban,3008.0,5,5,29,2.0,11,Semi-furnished,Villa,2.5,No,67.05
+Hyderabad,Suburban,890.0,1,1,33,1.0,8,Semi-furnished,Apartment,4.8,Yes,23.71
+Coimbatore,Outskirts,1569.0,4,4,0,2.0,11,Unfurnished,Apartment,6.3,Yes,25.97
+Chennai,IT Corridor,1771.0,3,4,22,2.0,2,Semi-furnished,Apartment,7.3,Yes,38.55
+Bengaluru,IT Corridor,1449.0,4,4,2,1.0,3,Unfurnished,Apartment,3.4,Yes,65.21
+Pune,IT Corridor,1507.0,3,4,12,1.0,8,Unfurnished,Apartment,3.2,No,42.43
+Hyderabad,IT Corridor,907.0,1,1,12,1.0,13,Semi-furnished,Apartment,2.7,Yes,37.25
+Pune,IT Corridor,1505.0,3,4,18,,13,Unfurnished,Apartment,6.0,No,40.18
+Visakhapatnam,IT Corridor,1716.0,4,5,33,2.0,6,Unfurnished,Apartment,1.1,Yes,50.21
+Pune,Residential,1620.0,3,2,16,0.0,5,Semi-furnished,Apartment,3.8,No,38.84
+Bengaluru,Outskirts,1747.0,4,5,14,1.0,15,Semi-furnished,Independent House,3.8,Yes,47.76
+Coimbatore,Outskirts,2185.0,5,4,3,1.0,9,Unfurnished,Apartment,6.6,Yes,32.49
+Bengaluru,IT Corridor,1937.0,5,5,31,1.0,2,Unfurnished,Independent House,1.4,Yes,62.84
+Pune,IT Corridor,1487.0,3,4,11,1.0,4,Semi-furnished,Apartment,7.0,Yes,51.59
+Coimbatore,Residential,841.0,1,1,16,1.0,13,Semi-furnished,Independent House,5.7,Yes,34.58
+Pune,Residential,1138.0,3,2,3,2.0,14,Semi-furnished,Apartment,12.9,Yes,37.75
+Chennai,IT Corridor,1336.0,3,3,10,1.0,14,Semi-furnished,Independent House,11.3,Yes,51.05
+Hyderabad,Residential,1581.0,2,2,19,2.0,1,Semi-furnished,Independent House,8.7,No,41.66
+Chennai,Residential,1201.0,2,2,32,1.0,13,Fully-furnished,Villa,0.6,Yes,48.71
+Bengaluru,Residential,963.0,2,1,11,1.0,2,Unfurnished,Independent House,1.6,No,49.97
+Bengaluru,Residential,832.0,2,1,20,2.0,13,Unfurnished,Apartment,8.0,Yes,24.39
+Bengaluru,Suburban,591.0,1,1,31,1.0,14,Unfurnished,Villa,,Yes,36.67
+Chennai,IT Corridor,1328.0,3,3,12,1.0,6,Unfurnished,Independent House,11.3,Yes,29.8
+Pune,IT Corridor,686.0,1,1,10,3.0,3,Unfurnished,Apartment,4.4,Yes,35.07
+Visakhapatnam,Central,930.0,1,1,1,2.0,11,Fully-furnished,Apartment,6.5,Yes,37.44
+Chennai,Residential,1245.0,2,1,32,2.0,2,Unfurnished,Villa,6.2,Yes,35.72
+Pune,IT Corridor,755.0,2,2,3,1.0,9,Unfurnished,Apartment,4.3,No,55.68
+Pune,Central,1647.0,3,3,7,0.0,5,Semi-furnished,Independent House,8.1,Yes,60.17
+Bengaluru,Residential,1835.0,3,3,5,1.0,7,Fully-furnished,Apartment,6.8,Yes,66.91
+Hyderabad,Residential,1164.0,2,2,25,3.0,13,Unfurnished,Independent House,1.7,Yes,50.77
+Coimbatore,Residential,1223.0,2,2,13,2.0,15,Semi-furnished,Apartment,15.7,Yes,34.89
+Visakhapatnam,Suburban,1729.0,4,4,25,1.0,7,Semi-furnished,Independent House,1.6,Yes,46.22
+Pune,Residential,1079.0,2,2,21,3.0,5,Unfurnished,Apartment,2.4,No,44.56
+Visakhapatnam,IT Corridor,1043.0,3,3,0,1.0,13,Semi-furnished,Independent House,6.4,Yes,61.39
+Visakhapatnam,IT Corridor,2072.0,5,5,11,1.0,7,Semi-furnished,Apartment,5.6,Yes,56.18
+Chennai,Central,1910.0,3,3,0,1.0,3,Unfurnished,Apartment,7.2,Yes,55.57
+Bengaluru,Residential,1763.0,4,4,2,1.0,14,Semi-furnished,Apartment,3.6,No,54.7
+Bengaluru,Residential,1931.0,4,5,17,3.0,15,Unfurnished,Apartment,5.9,Yes,55.2
+Visakhapatnam,IT Corridor,450.0,2,2,9,2.0,5,Semi-furnished,Villa,,Yes,58.55
+Hyderabad,IT Corridor,2154.0,4,5,3,0.0,3,Semi-furnished,Apartment,4.4,Yes,66.24
+Chennai,Residential,1654.0,4,4,14,1.0,3,Unfurnished,Apartment,10.5,Yes,53.15
+Coimbatore,Residential,1976.0,4,3,16,1.0,9,Semi-furnished,Independent House,1.5,Yes,44.23
+Chennai,Suburban,1651.0,4,5,35,0.0,5,Unfurnished,Apartment,8.4,Yes,37.81
+Pune,Outskirts,1475.0,4,5,23,1.0,10,Unfurnished,Apartment,3.8,Yes,28.8
+Chennai,Residential,1307.0,3,2,14,1.0,12,Semi-furnished,Independent House,2.1,Yes,60.45
+Visakhapatnam,Outskirts,1641.0,3,3,17,1.0,1,Unfurnished,Apartment,2.2,No,21.47
+Coimbatore,Outskirts,1288.0,3,3,3,1.0,13,Semi-furnished,Independent House,3.7,No,40.78
+Chennai,Outskirts,1901.0,4,4,13,1.0,1,Unfurnished,Apartment,8.7,Yes,31.88
+Pune,Residential,625.0,3,3,20,3.0,2,Semi-furnished,Apartment,5.9,Yes,22.45
+Chennai,IT Corridor,1168.0,3,3,0,1.0,11,Unfurnished,Apartment,1.4,No,60.37
+Bengaluru,Suburban,2513.0,5,5,33,1.0,10,Unfurnished,Independent House,8.2,Yes,48.57
+Pune,IT Corridor,1124.0,2,2,18,1.0,15,Semi-furnished,Apartment,7.3,No,34.76
+Coimbatore,Residential,1326.0,2,3,28,2.0,9,Semi-furnished,Independent House,,Yes,34.75
+Hyderabad,IT Corridor,991.0,3,3,9,0.0,7,,Apartment,2.0,Yes,33.24
+Hyderabad,Residential,1625.0,3,3,30,0.0,11,Fully-furnished,Apartment,9.3,Yes,35.48
+Pune,Central,1067.0,3,3,13,2.0,12,Unfurnished,Independent House,4.3,No,45.31
+Bengaluru,Suburban,1353.0,2,3,33,2.0,11,Unfurnished,Apartment,8.1,Yes,18.69
+Bengaluru,IT Corridor,1891.0,4,4,18,1.0,6,Unfurnished,Apartment,0.4,Yes,58.42
+Hyderabad,IT Corridor,1087.0,3,4,22,,15,Semi-furnished,Apartment,0.3,Yes,35.53
+Chennai,Central,1860.0,2,2,7,3.0,5,Semi-furnished,Independent House,6.7,No,59.15
+Coimbatore,Suburban,1878.0,5,5,35,0.0,6,Semi-furnished,Apartment,2.7,Yes,35.32
+Hyderabad,Residential,1999.0,4,4,6,1.0,5,Semi-furnished,Apartment,7.0,No,29.98
+Chennai,IT Corridor,1523.0,3,3,1,1.0,5,Unfurnished,Apartment,8.2,Yes,42.91
+Visakhapatnam,Central,3135.0,6,5,15,1.0,4,Unfurnished,Villa,2.8,No,81.38
+Hyderabad,Central,1998.0,5,5,30,2.0,9,Unfurnished,Apartment,4.0,Yes,46.57
+Pune,IT Corridor,1619.0,4,4,33,2.0,11,Semi-furnished,Apartment,,Yes,52.21
+Chennai,Suburban,995.0,3,3,30,1.0,7,,Apartment,2.7,Yes,30.83
+Coimbatore,Residential,1400.0,3,3,19,2.0,14,Semi-furnished,Apartment,5.1,Yes,29.84
+Pune,Residential,2192.0,6,5,33,1.0,8,Semi-furnished,Apartment,7.7,Yes,48.13
+Coimbatore,Suburban,2339.0,5,4,17,2.0,8,Semi-furnished,Independent House,2.4,Yes,63.58
+Hyderabad,IT Corridor,2219.0,6,5,17,0.0,2,Unfurnished,Independent House,2.4,Yes,61.48
+Bengaluru,Suburban,1858.0,4,4,6,1.0,14,Unfurnished,Apartment,2.8,Yes,51.69
+Pune,Suburban,797.0,1,1,28,2.0,3,Fully-furnished,Apartment,6.4,Yes,35.38
+Chennai,Outskirts,1703.0,5,5,11,1.0,3,Semi-furnished,Apartment,8.2,No,28.97
+Chennai,IT Corridor,804.0,1,1,7,0.0,15,Semi-furnished,Apartment,3.4,Yes,41.28
+Hyderabad,Outskirts,677.0,3,3,13,1.0,8,Semi-furnished,Apartment,0.7,Yes,22.2
+Visakhapatnam,Suburban,1574.0,3,3,21,2.0,2,Fully-furnished,Apartment,1.8,Yes,41.41
+Pune,Suburban,1722.0,4,4,9,1.0,7,Unfurnished,Independent House,3.2,Yes,57.51
+Bengaluru,IT Corridor,1920.0,4,4,12,2.0,9,Fully-furnished,Apartment,2.2,Yes,50.07
+Pune,IT Corridor,1709.0,4,4,11,2.0,1,Unfurnished,Apartment,1.4,Yes,52.04
+Bengaluru,Outskirts,1726.0,3,4,21,2.0,12,Fully-furnished,Villa,4.5,Yes,65.68
+Bengaluru,Central,938.0,3,4,25,1.0,11,Unfurnished,Apartment,18.1,Yes,31.84
+Bengaluru,Residential,1395.0,3,3,24,2.0,1,Unfurnished,Apartment,1.9,No,34.57
+Pune,Residential,666.0,2,1,5,1.0,10,Unfurnished,Apartment,5.1,No,18.89
+Hyderabad,IT Corridor,450.0,1,1,12,2.0,4,Semi-furnished,Villa,6.2,Yes,57.37
+Coimbatore,Suburban,1835.0,4,5,23,2.0,12,Fully-furnished,Apartment,6.5,Yes,40.73
+Coimbatore,IT Corridor,1058.0,3,4,7,0.0,6,Unfurnished,Apartment,4.1,Yes,45.56
+Chennai,Suburban,1904.0,4,4,2,2.0,4,Unfurnished,Apartment,1.5,Yes,55.76
+Bengaluru,Residential,2026.0,5,5,11,1.0,8,Unfurnished,Apartment,7.6,Yes,51.93
+Hyderabad,IT Corridor,1128.0,2,2,24,1.0,7,Unfurnished,Apartment,1.0,Yes,46.6
+Visakhapatnam,Outskirts,1757.0,4,4,23,1.0,6,Semi-furnished,Apartment,3.8,Yes,27.2
+Coimbatore,Residential,1106.0,3,2,4,2.0,14,Unfurnished,Independent House,3.5,Yes,56.75
+Visakhapatnam,IT Corridor,490.0,1,1,24,2.0,10,Fully-furnished,Independent House,1.6,Yes,54.67
+Chennai,Residential,1514.0,4,3,6,2.0,8,Fully-furnished,Apartment,2.8,Yes,64.41
+Hyderabad,IT Corridor,1205.0,2,1,26,1.0,4,Unfurnished,Apartment,6.4,Yes,30.54
+Hyderabad,Outskirts,1221.0,2,3,20,2.0,9,Semi-furnished,Apartment,3.8,Yes,50.14
+Hyderabad,Suburban,2477.0,5,5,4,2.0,1,Fully-furnished,Apartment,1.2,Yes,71.41
+Hyderabad,Outskirts,657.0,2,2,12,2.0,14,Fully-furnished,Independent House,7.0,Yes,37.95
+Hyderabad,Residential,1649.0,4,4,29,1.0,1,Semi-furnished,Apartment,12.6,Yes,36.07
+Visakhapatnam,Residential,933.0,2,2,15,1.0,11,Unfurnished,Independent House,1.3,Yes,30.95
+Hyderabad,IT Corridor,1922.0,5,5,24,2.0,6,Unfurnished,Apartment,4.1,Yes,65.19
+Hyderabad,Residential,1605.0,4,4,26,1.0,11,Semi-furnished,Independent House,4.2,Yes,47.68
+Coimbatore,Suburban,1647.0,3,3,1,1.0,6,Unfurnished,Independent House,1.3,Yes,57.19
+Bengaluru,Residential,959.0,2,2,33,1.0,1,Semi-furnished,Independent House,9.5,Yes,43.19
+Pune,Suburban,1052.0,2,2,12,1.0,15,Semi-furnished,Independent House,4.2,Yes,47.46
+Bengaluru,Suburban,1932.0,5,5,28,0.0,12,Semi-furnished,Independent House,7.8,Yes,48.33
+Coimbatore,IT Corridor,2371.0,5,5,16,0.0,1,Unfurnished,Apartment,5.3,Yes,46.59
+Bengaluru,Suburban,1700.0,3,4,20,2.0,1,Unfurnished,Apartment,9.3,Yes,18.38
+Bengaluru,Suburban,983.0,1,1,12,3.0,8,Fully-furnished,Apartment,,Yes,38.74
+Pune,Residential,1626.0,4,5,30,1.0,15,Unfurnished,Independent House,3.0,Yes,55.19
+Bengaluru,Suburban,2712.0,5,5,4,1.0,9,Unfurnished,Apartment,6.1,Yes,62.37
+Chennai,Residential,1503.0,3,3,32,2.0,1,Fully-furnished,Villa,2.2,Yes,56.59
+Bengaluru,Central,2210.0,5,4,7,1.0,11,Semi-furnished,Apartment,6.5,Yes,66.96
+Hyderabad,Residential,1065.0,1,1,31,3.0,7,Semi-furnished,Independent House,1.9,No,46.07
+Coimbatore,Residential,1428.0,3,3,0,1.0,10,Semi-furnished,Apartment,4.0,Yes,44.82
+Chennai,IT Corridor,1772.0,4,3,0,1.0,6,Unfurnished,Villa,3.4,Yes,88.65
+Hyderabad,Residential,1657.0,4,5,3,1.0,1,Fully-furnished,Apartment,5.0,Yes,54.44
+Chennai,Outskirts,1051.0,3,4,19,1.0,1,Fully-furnished,Apartment,10.3,Yes,29.51
+Coimbatore,Residential,1029.0,1,1,9,2.0,10,,Independent House,2.7,Yes,36.22
+Chennai,Suburban,1964.0,4,4,21,0.0,10,Unfurnished,Apartment,7.5,Yes,53.11
+Pune,IT Corridor,2070.0,5,5,29,2.0,5,Unfurnished,Apartment,9.5,No,45.88
+Coimbatore,Residential,2236.0,4,4,0,2.0,2,Semi-furnished,Independent House,7.3,No,73.22
+Hyderabad,Suburban,2388.0,5,5,18,2.0,12,Semi-furnished,Independent House,5.0,Yes,60.92
+Pune,Residential,1520.0,3,3,26,2.0,3,Semi-furnished,Apartment,4.8,Yes,52.74
+Chennai,Suburban,1288.0,3,4,15,1.0,3,Fully-furnished,Apartment,2.6,Yes,45.84
+Hyderabad,Residential,2153.0,5,4,33,1.0,7,Semi-furnished,Apartment,1.0,Yes,57.86
+Pune,Central,1821.0,4,4,23,2.0,11,Semi-furnished,Apartment,4.3,Yes,45.51
+Coimbatore,Central,939.0,1,2,1,1.0,15,Semi-furnished,Apartment,10.0,Yes,41.13
+Chennai,Outskirts,913.0,3,4,19,0.0,10,Semi-furnished,Apartment,10.9,Yes,18.0
+Bengaluru,Residential,1706.0,4,3,13,1.0,15,Unfurnished,Apartment,1.2,Yes,53.84
+Chennai,Outskirts,1358.0,3,2,4,1.0,10,Semi-furnished,Apartment,10.7,Yes,18.0
+Bengaluru,Outskirts,1436.0,2,2,34,2.0,13,Semi-furnished,Independent House,6.3,Yes,32.51
+Bengaluru,IT Corridor,2008.0,4,5,8,1.0,3,Unfurnished,Apartment,5.8,Yes,69.66
+Hyderabad,Suburban,676.0,3,3,14,2.0,5,Semi-furnished,Apartment,4.9,Yes,34.92
+Chennai,Suburban,1636.0,4,3,32,3.0,7,Unfurnished,Apartment,13.1,Yes,32.94
+Hyderabad,IT Corridor,1554.0,3,3,3,1.0,10,Fully-furnished,Apartment,4.7,Yes,49.19
+Visakhapatnam,IT Corridor,1746.0,4,5,31,1.0,4,Semi-furnished,Apartment,5.4,Yes,47.36
+Hyderabad,Outskirts,1230.0,2,2,24,3.0,9,Semi-furnished,Villa,9.3,Yes,51.97
+Bengaluru,Central,907.0,3,4,26,2.0,6,Fully-furnished,Apartment,3.0,No,31.93
+Hyderabad,Suburban,1425.0,4,4,23,0.0,2,Unfurnished,Apartment,8.1,Yes,35.54
+Bengaluru,IT Corridor,450.0,1,1,10,1.0,7,Unfurnished,Apartment,4.1,Yes,26.32
+Pune,Residential,1744.0,3,3,21,0.0,5,Unfurnished,Villa,,Yes,59.94
+Hyderabad,Suburban,2074.0,5,5,21,1.0,10,Semi-furnished,Independent House,0.8,Yes,69.56
+Chennai,Residential,970.0,2,2,0,0.0,7,Fully-furnished,Apartment,5.8,Yes,40.9
+Visakhapatnam,Suburban,1795.0,4,4,35,,11,Unfurnished,Independent House,2.6,Yes,50.6

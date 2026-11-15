@@ -1,0 +1,11 @@
+{
+  "model": "Ridge Regression",
+  "MAE_lakhs": 6.129674359383763,
+  "RMSE_lakhs": 7.72677290984023,
+  "R2": 0.7280199771499122,
+  "best_random_forest_params": {
+    "model__max_depth": null,
+    "model__min_samples_leaf": 2,
+    "model__n_estimators": 220
+  }
+}
