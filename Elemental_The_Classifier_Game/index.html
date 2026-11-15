@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Elemental: The Last Classifier</title>
+<link rel="icon" type="image/svg+xml" href="assets/logo.svg">
+<meta name="description" content="Elemental: The Last Classifier, a fantasy game that teaches machine-learning classification (KNN).">
+<link rel="stylesheet" href="styles.css"></head><body>
+<header class="bar"><button class="brand" onclick="go('start')"><img src="assets/logo.svg" alt="" width="30" height="30">ELEMENTAL</button><nav><button onclick="go('map')">Realms</button><button onclick="go('lab')">Classifier Lab</button><button onclick="go('codex')">Ancient Codex</button></nav><div class="stats"><button id="who" onclick="profiles()">👤 Player</button><span id="xp">0 XP</span><span id="items"></span></div></header>
+
+<section id="start" class="screen on">
+<div class="hs"><div class="shade"><img class="lg" src="assets/logo.svg" alt="Elemental logo" width="84" height="84"><p class="kick">An interactive game about classification</p><h1>Four elements.<br>One broken world.</h1>
+<p class="lead">Walk through five realms, study strange creatures, and teach the ancient Classifier to tell Fire, Water, Ice and Earth apart. Scroll down to meet your guardians.</p>
+<button class="btn big" onclick="document.getElementById('gs').scrollIntoView({behavior:'smooth'})">Meet the guardians ↓</button> <button class="btn big gh" onclick="go('map')">Enter the Realms →</button></div></div>
+<div class="sec" id="gs"><p class="kick">Choose your hero</p><h2>The Elemental Guardians</h2><p class="lead">Each guardian walks, jumps into danger and fights differently. Pick the one whose story you like. You can unlock the other elements’ powers as you win realms.</p><div class="gg" id="gg"></div></div>
+<div class="sec alt"><p class="kick">How a realm works</p><h2>Explore · Classify · Restore</h2><div class="how3"><div><b>1 · Walk</b>Move with ← → (or A / D). Creatures, tablets and altars glow when something is waiting for you.</div><div><b>2 · Inspect &amp; classify</b>Stand next to it and press <kbd>E</kbd>. Read the features and decide the element. Correct answers open the door; wrong ones cost a heart.</div><div><b>3 · Survive</b>Null Wisps drift through every realm. Press <kbd>Space</kbd> to cast your power: shoot, shield, freeze or wall them off.</div><div><b>4 · Claim the reward</b>When the door glows, walk to it and press <kbd>E</kbd>. Every realm gives XP, a relic and sometimes a brand-new power.</div></div>
+<p style="text-align:center;margin-top:26px"><button class="btn big" onclick="go('map')">Enter the Realms →</button></p></div>
+<p class="cred">Developed by Akshith Kumar · Contact: <a href="mailto:akshithkumarlakkakula@gmail.com">akshithkumarlakkakula@gmail.com</a></p>
+</section>
+
+<section id="map" class="screen"><div class="wrap"><h2>The Five Realms</h2><p class="lead">Finish each trial to unlock the next. Every realm teaches one idea of classification and rewards you with a relic.</p><div class="chs" id="chs"></div><p style="margin-top:26px"><button class="btn gh" onclick="profiles()">👥 Switch player</button> <button class="btn gh" onclick="resetP(DB.c)">↺ Reset my progress</button></p></div></section>
+
+<section id="play" class="screen"><div class="wrap" style="max-width:1020px;padding-top:18px">
+<div class="hd" id="hd"></div>
+<div class="stage" id="stg"><canvas id="ac" width="960" height="460"></canvas><div class="obj" id="obj"></div><div class="dlg" id="dlg"></div><div class="over" id="over"></div></div>
+<div class="pad"><button id="bl">◀</button><button id="br2">▶</button><button id="be">E · Interact</button><button id="bs">✦ Power</button><button onclick="intro(T.i,1)">? How to play</button></div>
+<p class="keys"><kbd>←</kbd><kbd>→</kbd> / <kbd>A</kbd><kbd>D</kbd> move · <kbd>E</kbd> interact · <kbd>Space</kbd> cast power · <kbd>1</kbd>–<kbd>4</kbd> / <kbd>Q</kbd> switch power</p></div></section>
+
+<section id="lab" class="screen"><div class="wrap"><h2>The Classifier Lab</h2><p class="lead">A real K-Nearest Neighbours model. Coloured regions show what it would predict everywhere. Click the map to drop an unknown creature. White rings are unseen test creatures.</p>
+<div class="lab"><div><canvas id="cv" width="560" height="440"></canvas><div class="row"><label>X <select id="ax"></select></label><label>Y <select id="ay"></select></label></div></div>
+<div class="panel"><h3>Model</h3><label>Neighbours K = <b id="kt">3</b><input id="k" type="range" min="1" max="9" value="3"></label><p id="acc"></p><h3>Unknown creature</h3><div id="sl"></div><div class="res" id="rs"></div></div></div></div></section>
+
+
+
+<section id="codex" class="screen"><div class="wrap" style="max-width:1050px"><h2>The Ancient Codex</h2><p class="lead">Turn the pages to read about the guardians and the powers of the elements. Undiscovered powers stay hidden behind a ? until you earn them.</p>
+<div class="book"><div class="pg" id="pgs"></div></div><div class="turn"><button class="btn gh" onclick="turn(-1)">◀ Previous page</button><span id="pn"></span><button class="btn gh" onclick="turn(1)">Next page ▶</button></div></div></section>
+<div id="md"><div class="box" id="mb"></div></div><div class="toast" id="to"></div>
+
+<script src="game.js"></script></body></html>

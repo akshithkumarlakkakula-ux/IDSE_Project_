@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><defs><radialGradient id="b" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#2b2152"/><stop offset="1" stop-color="#0a0912"/></radialGradient><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f6d27a"/><stop offset="1" stop-color="#b9822a"/></linearGradient></defs>
+<rect width="128" height="128" rx="28" fill="url(#b)"/>
+<circle cx="64" cy="64" r="47" fill="none" stroke="url(#g)" stroke-width="3"/><circle cx="64" cy="64" r="38" fill="none" stroke="#e0ad45" stroke-opacity=".5" stroke-dasharray="2 5"/>
+<g stroke="#fff" stroke-opacity=".45" stroke-width="2"><path d="M64 55V31M73 64h24M64 73v24M55 64H31"/></g>
+<g><circle cx="64" cy="19" r="13" fill="#ff7a4d"/><circle cx="109" cy="64" r="13" fill="#4fc3dc"/><circle cx="64" cy="109" r="13" fill="#a9dcff"/><circle cx="19" cy="64" r="13" fill="#8fcf74"/></g>
+<g fill="#fff"><path transform="translate(64 19)" d="M1-10C2-5 8-3 7 3 6 8 2 10 0 10-6 10-8 5-6 0-5-2-3-3-3-6-1-4 0-7 1-10Z"/><path transform="translate(109 64)" d="M0-8C6-1 7 3 4 6 2 8-2 8-4 6-7 3-6-1 0-8Z"/><path transform="translate(19 64)" d="M-7 6C-7-3 0-8 7-7 8 0 3 7-7 6Z"/></g>
+<g stroke="#1d3b57" stroke-width="2.2" stroke-linecap="round" transform="translate(64 109)"><path d="M0-8V8M-7-4L7 4M-7 4L7-4"/></g>
+<circle cx="64" cy="64" r="10" fill="url(#g)"/><path d="M64 58l2.2 4.5 5 .7-3.6 3.5.9 5L64 69.300l-4.500 2.400.9-5-3.600-3.500 5-.7Z" fill="#2b2152"/></svg>
