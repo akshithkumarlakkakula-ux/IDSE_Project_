@@ -184,7 +184,7 @@ Experience the five realms, choose your elemental guardian and explore the world
 ---
 
 
-## 🎮 Part 2: Elemental, The Last Classifier (playable game)
+## 🎮 Elemental: The Last Classifier (playable game)
 
 A fantasy game that teaches classification, powered by a KNN model written in JavaScript.
 
