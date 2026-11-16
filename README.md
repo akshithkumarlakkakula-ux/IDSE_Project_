@@ -200,7 +200,30 @@ IDSE_Project_/
 ├── assets/              Part B: artwork, guardian sprites, logo
 └── README.md
 ```
+## 🛠️ Tools & Technologies
 
+| Area | Tools |
+|---|---|
+| Part A: data and ML | Python, pandas, NumPy, scikit-learn (Pipeline, ColumnTransformer, GridSearchCV), joblib |
+| Part A: visualisation | matplotlib, seaborn |
+| Part A: environment | Jupyter Notebook |
+| Part B: game | HTML5, CSS3, vanilla JavaScript, HTML5 Canvas (no frameworks, no backend) |
+| Part B: ML | K-Nearest Neighbours implemented from scratch in JavaScript |
+| Hosting and workflow | Git, GitHub, GitHub Pages, GitHub Actions |
+
+## 🔗 Links
+
+- **Play the game:** https://akshithkumarlakkakula-ux.github.io/IDSE_Project_/
+- **Source code:** https://github.com/akshithkumarlakkakula-ux/IDSE_Project_
+- **Contact:** akshithkumarlakkakula@gmail.com
+
+## 📚 Sources & Notes
+
+- **House price dataset:** synthetic, generated for this project (not real transactions). Prices are in ₹ lakhs.
+- **Libraries:** scikit-learn, pandas, NumPy, matplotlib, seaborn (all open source).
+- **Game artwork and characters:** AI generated from Google NanoBanana and from Pinterest.
+- **AI assistance:** Claude has been used for providing code and making the environment and ChatGPT for the characters and Assets.
+  
 ## Credits
 
 Developed by **Akshith Kumar and Team** · [akshithkumarlakkakula@gmail.com](mailto:akshithkumarlakkakula@gmail.com)
