@@ -15,47 +15,105 @@ This repository contains two machine-learning projects that cover the two classi
 
 ## 🏠 Part A: House Price Prediction System
 
+A complete regression workflow that predicts the price of a residential property in six Indian cities from its size, location, age and amenities. The notebook takes the raw data all the way to a saved model that can price a new property in one line of code.
+
+> **Note on the data:** the dataset is **synthetic and reproducible** (generated for this project, not real property transactions). The model is an educational demonstration and should not be used for real property decisions. Prices are in **₹ lakhs**.
+
 ### Problem
 
-Estimate the sale price of a house from measurable features such as size, rooms and location. Price is a continuous number, so this is a **regression** problem.
-
-### Approach
-
-1. **Data collection and cleaning:** load the dataset, check missing values and duplicates, and handle outliers.
-2. **Exploratory analysis:** study feature distributions and the correlation of each feature with price.
-3. **Feature preparation:** encode categorical columns and scale numeric ones where the model needs it.
-4. **Train/test split:** hold out unseen data so results reflect real-world performance.
-5. **Model training and comparison:** train regression models and compare them on the same test data.
-6. **Evaluation:** report error metrics (MAE, RMSE) and R² on the test set.
-7. **Prediction:** enter a house's features and get a predicted price.
+Estimate a property's price from its city, locality type, area, rooms, age, parking, furnishing and more. Price is a continuous number, so this is a supervised **regression** task.
 
 ### Dataset
 
-- **Source / name:** `[FILL: dataset name and where it came from]`
-- **Size:** `[FILL: rows × columns]`
-- **Target:** `[FILL: price column name and units]`
-- **Key features:** `[FILL: e.g. area, bedrooms, bathrooms, location]`
+| | |
+|---|---|
+| **Rows × columns** | 1,812 × 13 (12 exact duplicates removed, leaving **1,800 rows**) |
+| **Target** | `price_lakhs` (range ₹18.0 to ₹95.8 lakhs, mean ≈ ₹44.4 lakhs) |
+| **Cities** | Hyderabad, Bengaluru, Chennai, Pune, Coimbatore, Visakhapatnam |
+| **Numeric features (7)** | `area_sqft`, `bedrooms`, `bathrooms`, `property_age`, `parking_spaces`, `floor_number`, `distance_to_city_km` |
+| **Categorical features (5)** | `city`, `locality_type`, `furnishing_status`, `property_type`, `main_road_access` |
+| **Missing values** | `parking_spaces` (22), `furnishing_status` (32), `distance_to_city_km` (46) |
 
-### Results
+### Approach
 
-| Model | MAE | RMSE | R² |
+1. **Inspect and clean:** check types, missing values and duplicates; remove exact duplicates.
+2. **Explore:** price distribution, city-wise spread, area vs price, and feature correlations.
+3. **Prepare features (inside a Scikit-learn `Pipeline`):** numeric columns are median-imputed and standardised; categorical columns are mode-imputed and one-hot encoded. Keeping this inside the pipeline means the imputers and scaler learn **only from training data**, which avoids data leakage.
+4. **Split:** 80/20 train/test split (`random_state=42`): **1,440 training rows, 360 test rows**.
+5. **Compare four models** on the same split: Linear Regression, Ridge Regression (α = 2), Random Forest and Extra Trees (180 trees each).
+6. **Tune:** a Random Forest was tuned with `GridSearchCV` (3-fold cross-validation over trees, depth and leaf size) and compared against the best untuned model. The tuned forest did **not** beat the simple linear model, so the simpler model was kept.
+7. **Evaluate and save:** error metrics, an actual-vs-predicted plot and a residual check; the full pipeline (preprocessing + model) is saved with `joblib`.
+
+### Results (360 unseen test properties)
+
+| Model | MAE (lakhs) | RMSE (lakhs) | R² |
 |---|---|---|---|
-| `[FILL: model 1]` | `[FILL]` | `[FILL]` | `[FILL]` |
-| `[FILL: model 2]` | `[FILL]` | `[FILL]` | `[FILL]` |
+| **Ridge Regression** ✅ selected | **6.13** | **7.73** | **0.728** |
+| Linear Regression | 6.13 | 7.73 | 0.728 |
+| Random Forest | 7.19 | 9.03 | 0.628 |
+| Extra Trees | 7.25 | 9.15 | 0.619 |
 
-**Best model:** `[FILL: name and one sentence on why it won]`
+**Best model: Ridge Regression.** On average its predictions are off by about ₹6.1 lakhs (roughly 14% of the average price of ₹44.4 lakhs), and it explains about 73% of the variation in price on unseen data. The tree models scored lower here. A likely reason is that price in this generated dataset depends mostly on straight-line relationships with the features, which linear models capture well.
 
-### How to run
+<p align="center"><img src="images/house-price/05_model_comparison.png" alt="Model comparison by RMSE (lower is better)" width="520"></p>
+
+### What drives the price
+
+- **Bigger homes cost more:** area (r = 0.49), bedrooms (0.48) and bathrooms (0.45) have the strongest positive link with price.
+- **Older and farther costs less:** property age (r = −0.26) and distance to the city centre (−0.19) lower the price.
+- **Parking and floor number** have almost no linear link with price (≈ 0.05 and 0.00).
+- **City matters:** Bengaluru has the highest typical price and Coimbatore the lowest.
+- Area, bedrooms and bathrooms are strongly correlated with each other (0.71 to 0.88), so they carry overlapping information.
+
+### Visual analysis
+
+| Price distribution | City price comparison |
+|:--:|:--:|
+| <img src="images/house-price/01_price_distribution.png" width="420"> | <img src="images/house-price/03_city_price_comparison.png" width="420"> |
+| **Area vs price** | **Correlation heatmap** |
+| <img src="images/house-price/04_area_vs_price.png" width="420"> | <img src="images/house-price/02_correlation_heatmap.png" width="420"> |
+| **Actual vs predicted** | **Residual check** |
+| <img src="images/house-price/06_actual_vs_predicted.png" width="420"> | <img src="images/house-price/07_residuals.png" width="420"> |
+
+The actual-vs-predicted points follow the diagonal, and the residuals scatter around zero without a strong visible pattern, which is a good sign for a linear model.
+
+### Try it yourself: predict a price
+
+```python
+import joblib, pandas as pd
+
+model = joblib.load("models/house_price_pipeline.joblib")
+property_df = pd.read_csv("sample_property.csv")      # one row with the 12 feature columns
+print(f"Estimated price: ₹{model.predict(property_df)[0]:.2f} lakhs")
+```
+
+The included sample (a 1,450 sq. ft., 3-bedroom, 5-year-old semi-furnished apartment in Hyderabad, 6.5 km from the centre) is estimated at **₹44.57 lakhs**.
+
+### How to run the notebook
 
 ```bash
 git clone https://github.com/akshithkumarlakkakula-ux/IDSE_Project_.git
 cd IDSE_Project_
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn matplotlib seaborn joblib jupyter
+jupyter notebook House_Price_Prediction.ipynb
 ```
 
-Then open the notebook or run the main script: `[FILL: exact file name and command]`.
+The notebook reads the data from `data/indian_house_prices.csv` and writes the saved model to `models/` and the results table to `outputs/`, so keep that folder layout:
 
----
+```
+data/indian_house_prices.csv
+models/house_price_pipeline.joblib    (and metrics.json)
+outputs/model_comparison.csv
+House_Price_Prediction.ipynb          (or inside notebooks/)
+sample_property.csv
+```
+
+### Limitations and future work
+
+- The data is synthetic and simplified, so scores on real markets would differ.
+- Prices show a cluster at the ₹18 lakh minimum, and the linear model can predict below that floor for the cheapest homes.
+- There is no precise location data (no latitude/longitude) and no time dimension.
+- Future work: verified sales data, richer location features, validation across cities and years, and prediction intervals instead of a single number.
 
 ## 🎮 Part B: Elemental, The Last Classifier
 
