@@ -203,4 +203,4 @@ IDSE_Project_/
 
 ## Credits
 
-Developed by **Akshith Kumar** · [akshithkumarlakkakula@gmail.com](mailto:akshithkumarlakkakula@gmail.com)
+Developed by **Akshith Kumar and Team** · [akshithkumarlakkakula@gmail.com](mailto:akshithkumarlakkakula@gmail.com)
