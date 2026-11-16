@@ -183,6 +183,16 @@ Experience the five realms, choose your elemental guardian and explore the world
 
 ---
 
+
+## 🎮 Part 2: Elemental, The Last Classifier (playable game)
+
+A fantasy game that teaches classification, powered by a KNN model written in JavaScript.
+
+### ▶️ [Play the game in your browser](https://akshithkumarlakkakula-ux.github.io/IDSE_Project_/elemental-last-classifier/)
+
+No installation needed. Works on desktop (best with a keyboard).
+Code and details: [`elemental-last-classifier/`](./elemental-last-classifier)
+
 # Repository Structure
 
 ```text
